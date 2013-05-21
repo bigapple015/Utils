@@ -1,0 +1,5 @@
+C:\iFlyTek.WirelessCity.IvrFramework\LogServer\bin\Debug\LogServer.exe
+C:\iFlyTek.WirelessCity.IvrFramework\LogServer\bin\Debug\LogServer.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\LogServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iFlyTek.WirelessCity.IvrFramework\LogServer\obj\x86\Debug\LogServer.exe
+C:\iFlyTek.WirelessCity.IvrFramework\LogServer\obj\x86\Debug\LogServer.pdb

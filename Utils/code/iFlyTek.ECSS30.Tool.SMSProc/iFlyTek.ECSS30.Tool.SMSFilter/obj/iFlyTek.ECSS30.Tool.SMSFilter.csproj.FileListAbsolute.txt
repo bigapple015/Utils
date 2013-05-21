@@ -1,0 +1,36 @@
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Debug\iFlyTek.ECSS30.Tool.SMSFilter.exe.config
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Debug\iFlyTek.ECSS30.Tool.SMSFilter.exe
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Debug\iFlyTek.ECSS30.Tool.SMSFilter.pdb
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Debug\ResolveAssemblyReference.cache
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Debug\iFlyTek.ECSS30.Tool.SMSFilter.exe
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Debug\iFlyTek.ECSS30.Tool.SMSFilter.pdb
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Debug\iFlyTek.ECSS30.Tool.SMSProc.dll
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Debug\iFlyTek.ECSS30.Tool.SMSProc.pdb
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Debug\Aspose.Cells.dll
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe.config
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSFilter.pdb
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\Aspose.Cells.dll
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSProc.dll
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSProc.pdb
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\ResolveAssemblyReference.cache
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe
+E:\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\iFlyTek.ECSS30.Tool.SMSFilter.pdb
+D:\bak_old\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe.config
+D:\bak_old\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe
+D:\bak_old\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\iFlyTek.ECSS30.Tool.SMSFilter.pdb
+D:\bak_old\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe
+D:\bak_old\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSFilter.pdb
+D:\bak_old\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\Aspose.Cells.dll
+D:\bak_old\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSProc.dll
+D:\bak_old\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSProc.pdb
+D:\bak_old\MyProject\lcm辅助\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe.config
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\iFlyTek.ECSS30.Tool.SMSFilter.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSFilter.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\Aspose.Cells.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSProc.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSProc.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\ResolveAssemblyReference.cache

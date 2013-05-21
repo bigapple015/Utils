@@ -1,0 +1,5 @@
+C:\Download\测试\Com.Cmlu.Utility\bin\Debug\Com.Cmlu.Utility.dll
+C:\Download\测试\Com.Cmlu.Utility\bin\Debug\Com.Cmlu.Utility.pdb
+C:\Download\测试\Com.Cmlu.Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Download\测试\Com.Cmlu.Utility\obj\Debug\Com.Cmlu.Utility.dll
+C:\Download\测试\Com.Cmlu.Utility\obj\Debug\Com.Cmlu.Utility.pdb

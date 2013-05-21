@@ -1,0 +1,14 @@
+其中SQlite数据库     在 .NET 数据类型对应的名称：(注：SQlite目前不支持存储过程)
+
+          case "System.Boolean": return System.Data.SQLite.TypeAffinity.Int64;
+                case "System.Single": return System.Data.SQLite.TypeAffinity.Double;
+                case "System.Double": return System.Data.SQLite.TypeAffinity.Double;
+                case "System.Int16": return System.Data.SQLite.TypeAffinity.Int64;
+                case "System.Int32": return System.Data.SQLite.TypeAffinity.Int64;
+                case "System.Int64": return System.Data.SQLite.TypeAffinity.Int64;
+                case "System.DateTime": return System.Data.SQLite.TypeAffinity.DateTime;
+                case "System.Byte[]": return System.Data.SQLite.TypeAffinity.Blob;
+                case "System.String": return System.Data.SQLite.TypeAffinity.Text;
+
+
+

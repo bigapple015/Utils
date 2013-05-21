@@ -1,0 +1,3048 @@
+2012-06-12 16:08:49.3128|Error|child thread0
+2012-06-12 16:08:49.3128|Error|main child0
+2012-06-12 16:08:49.3597|Error|child thread1
+2012-06-12 16:08:49.3597|Error|main child1
+2012-06-12 16:08:49.3597|Error|child thread2
+2012-06-12 16:08:49.3597|Error|main child2
+2012-06-12 16:08:49.3597|Error|child thread3
+2012-06-12 16:08:49.3597|Error|main child3
+2012-06-12 16:08:49.3597|Error|child thread4
+2012-06-12 16:08:49.3597|Error|main child4
+2012-06-12 16:08:49.3597|Error|child thread5
+2012-06-12 16:08:49.3597|Error|main child5
+2012-06-12 16:08:49.3597|Error|child thread6
+2012-06-12 16:08:49.3597|Error|main child6
+2012-06-12 16:08:49.3597|Error|child thread7
+2012-06-12 16:08:49.3597|Error|main child7
+2012-06-12 16:08:49.3597|Error|child thread8
+2012-06-12 16:08:49.3597|Error|main child8
+2012-06-12 16:08:49.3753|Error|child thread9
+2012-06-12 16:08:49.3753|Error|main child9
+2012-06-12 16:08:49.3753|Error|child thread10
+2012-06-12 16:08:49.3753|Error|main child10
+2012-06-12 16:08:49.3753|Error|child thread11
+2012-06-12 16:08:49.3753|Error|main child11
+2012-06-12 16:08:49.3753|Error|child thread12
+2012-06-12 16:08:49.3753|Error|main child12
+2012-06-12 16:08:49.3753|Error|child thread13
+2012-06-12 16:08:49.3753|Error|main child13
+2012-06-12 16:08:49.3753|Error|child thread14
+2012-06-12 16:08:49.3909|Error|main child14
+2012-06-12 16:08:49.3909|Error|child thread15
+2012-06-12 16:08:49.3909|Error|main child15
+2012-06-12 16:08:49.3909|Error|child thread16
+2012-06-12 16:08:49.3909|Error|main child16
+2012-06-12 16:08:49.3909|Error|child thread17
+2012-06-12 16:08:49.3909|Error|main child17
+2012-06-12 16:08:49.3909|Error|child thread18
+2012-06-12 16:08:49.3909|Error|main child18
+2012-06-12 16:08:49.4065|Error|child thread19
+2012-06-12 16:08:49.4065|Error|main child19
+2012-06-12 16:08:49.4065|Error|child thread20
+2012-06-12 16:08:49.4065|Error|main child20
+2012-06-12 16:08:49.4065|Error|child thread21
+2012-06-12 16:08:49.4065|Error|main child21
+2012-06-12 16:08:49.4065|Error|child thread22
+2012-06-12 16:08:49.4065|Error|main child22
+2012-06-12 16:08:49.4065|Error|child thread23
+2012-06-12 16:08:49.4222|Error|main child23
+2012-06-12 16:08:49.4222|Error|child thread24
+2012-06-12 16:08:49.4222|Error|main child24
+2012-06-12 16:08:49.4222|Error|child thread25
+2012-06-12 16:08:49.4222|Error|main child25
+2012-06-12 16:08:49.4222|Error|child thread26
+2012-06-12 16:08:49.4222|Error|main child26
+2012-06-12 16:08:49.4222|Error|child thread27
+2012-06-12 16:08:49.4222|Error|main child27
+2012-06-12 16:08:49.4222|Error|child thread28
+2012-06-12 16:08:49.4378|Error|main child28
+2012-06-12 16:08:49.4378|Error|child thread29
+2012-06-12 16:08:49.4378|Error|main child29
+2012-06-12 16:08:49.4378|Error|child thread30
+2012-06-12 16:08:49.4378|Error|main child30
+2012-06-12 16:08:49.4378|Error|child thread31
+2012-06-12 16:08:49.4378|Error|main child31
+2012-06-12 16:08:49.4378|Error|child thread32
+2012-06-12 16:08:49.4378|Error|main child32
+2012-06-12 16:08:49.4378|Error|child thread33
+2012-06-12 16:08:49.4378|Error|main child33
+2012-06-12 16:08:49.4378|Error|child thread34
+2012-06-12 16:08:49.4534|Error|main child34
+2012-06-12 16:08:49.4534|Error|child thread35
+2012-06-12 16:08:49.4534|Error|main child35
+2012-06-12 16:08:49.4534|Error|child thread36
+2012-06-12 16:08:49.4534|Error|main child36
+2012-06-12 16:08:49.4534|Error|child thread37
+2012-06-12 16:08:49.4534|Error|main child37
+2012-06-12 16:08:49.4534|Error|child thread38
+2012-06-12 16:08:49.4534|Error|main child38
+2012-06-12 16:08:49.4534|Error|child thread39
+2012-06-12 16:08:49.4690|Error|main child39
+2012-06-12 16:08:49.4690|Error|child thread40
+2012-06-12 16:08:49.4690|Error|main child40
+2012-06-12 16:08:49.4690|Error|child thread41
+2012-06-12 16:08:49.4690|Error|main child41
+2012-06-12 16:08:49.4690|Error|child thread42
+2012-06-12 16:08:49.4690|Error|main child42
+2012-06-12 16:08:49.4690|Error|child thread43
+2012-06-12 16:08:49.4690|Error|main child43
+2012-06-12 16:08:49.4690|Error|child thread44
+2012-06-12 16:08:49.4690|Error|main child44
+2012-06-12 16:08:49.4690|Error|child thread45
+2012-06-12 16:08:49.4847|Error|main child45
+2012-06-12 16:08:49.4847|Error|child thread46
+2012-06-12 16:08:49.4847|Error|main child46
+2012-06-12 16:08:49.4847|Error|child thread47
+2012-06-12 16:08:49.4847|Error|main child47
+2012-06-12 16:08:49.4847|Error|child thread48
+2012-06-12 16:08:49.4847|Error|main child48
+2012-06-12 16:08:49.4847|Error|child thread49
+2012-06-12 16:08:49.4847|Error|main child49
+2012-06-12 16:08:49.4847|Error|child thread50
+2012-06-12 16:08:49.4847|Error|main child50
+2012-06-12 16:08:49.4847|Error|child thread51
+2012-06-12 16:08:49.5003|Error|main child51
+2012-06-12 16:08:49.5003|Error|child thread52
+2012-06-12 16:08:49.5003|Error|main child52
+2012-06-12 16:08:49.5003|Error|child thread53
+2012-06-12 16:08:49.5003|Error|main child53
+2012-06-12 16:08:49.5003|Error|child thread54
+2012-06-12 16:08:49.5003|Error|main child54
+2012-06-12 16:08:49.5003|Error|child thread55
+2012-06-12 16:08:49.5003|Error|main child55
+2012-06-12 16:08:49.5003|Error|child thread56
+2012-06-12 16:08:49.5003|Error|main child56
+2012-06-12 16:08:49.5003|Error|child thread57
+2012-06-12 16:08:49.5003|Error|main child57
+2012-06-12 16:08:49.5003|Error|child thread58
+2012-06-12 16:08:49.5159|Error|main child58
+2012-06-12 16:08:49.5159|Error|child thread59
+2012-06-12 16:08:49.5159|Error|main child59
+2012-06-12 16:08:49.5159|Error|child thread60
+2012-06-12 16:08:49.5159|Error|main child60
+2012-06-12 16:08:49.5159|Error|child thread61
+2012-06-12 16:08:49.5159|Error|main child61
+2012-06-12 16:08:49.5159|Error|child thread62
+2012-06-12 16:08:49.5159|Error|main child62
+2012-06-12 16:08:49.5159|Error|child thread63
+2012-06-12 16:08:49.5159|Error|main child63
+2012-06-12 16:08:49.5159|Error|child thread64
+2012-06-12 16:08:49.5159|Error|main child64
+2012-06-12 16:08:49.5315|Error|child thread65
+2012-06-12 16:08:49.5315|Error|child thread66
+2012-06-12 16:08:49.5315|Error|main child65
+2012-06-12 16:08:49.5315|Error|child thread67
+2012-06-12 16:08:49.5315|Error|main child66
+2012-06-12 16:08:49.5315|Error|child thread68
+2012-06-12 16:08:49.5315|Error|main child67
+2012-06-12 16:08:49.5315|Error|child thread69
+2012-06-12 16:08:49.5315|Error|main child68
+2012-06-12 16:08:49.5315|Error|child thread70
+2012-06-12 16:08:49.5315|Error|main child69
+2012-06-12 16:08:49.5315|Error|child thread71
+2012-06-12 16:08:49.5315|Error|main child70
+2012-06-12 16:08:49.5471|Error|child thread72
+2012-06-12 16:08:49.5471|Error|main child71
+2012-06-12 16:08:49.5471|Error|child thread73
+2012-06-12 16:08:49.5471|Error|main child72
+2012-06-12 16:08:49.5471|Error|child thread74
+2012-06-12 16:08:49.5471|Error|main child73
+2012-06-12 16:08:49.5471|Error|child thread75
+2012-06-12 16:08:49.5471|Error|main child74
+2012-06-12 16:08:49.5471|Error|child thread76
+2012-06-12 16:08:49.5471|Error|main child75
+2012-06-12 16:08:49.5471|Error|child thread77
+2012-06-12 16:08:49.5471|Error|main child76
+2012-06-12 16:08:49.5471|Error|child thread78
+2012-06-12 16:08:49.5471|Error|main child77
+2012-06-12 16:08:49.5471|Error|child thread79
+2012-06-12 16:08:49.5628|Error|main child78
+2012-06-12 16:08:49.5628|Error|child thread80
+2012-06-12 16:08:49.5628|Error|main child79
+2012-06-12 16:08:49.5628|Error|child thread81
+2012-06-12 16:08:49.5628|Error|main child80
+2012-06-12 16:08:49.5628|Error|child thread82
+2012-06-12 16:08:49.5628|Error|main child81
+2012-06-12 16:08:49.5628|Error|child thread83
+2012-06-12 16:08:49.5628|Error|main child82
+2012-06-12 16:08:49.5628|Error|child thread84
+2012-06-12 16:08:49.5628|Error|main child83
+2012-06-12 16:08:49.5628|Error|child thread85
+2012-06-12 16:08:49.5628|Error|main child84
+2012-06-12 16:08:49.5628|Error|child thread86
+2012-06-12 16:08:49.5628|Error|main child85
+2012-06-12 16:08:49.5784|Error|child thread87
+2012-06-12 16:08:49.5784|Error|main child86
+2012-06-12 16:08:49.5784|Error|child thread88
+2012-06-12 16:08:49.5784|Error|main child87
+2012-06-12 16:08:49.5784|Error|child thread89
+2012-06-12 16:08:49.5784|Error|main child88
+2012-06-12 16:08:49.5784|Error|child thread90
+2012-06-12 16:08:49.5784|Error|main child89
+2012-06-12 16:08:49.5784|Error|child thread91
+2012-06-12 16:08:49.5784|Error|main child90
+2012-06-12 16:08:49.5784|Error|child thread92
+2012-06-12 16:08:49.5784|Error|main child91
+2012-06-12 16:08:49.5784|Error|child thread93
+2012-06-12 16:08:49.5940|Error|main child92
+2012-06-12 16:08:49.5940|Error|child thread94
+2012-06-12 16:08:49.5940|Error|main child93
+2012-06-12 16:08:49.5940|Error|child thread95
+2012-06-12 16:08:49.5940|Error|main child94
+2012-06-12 16:08:49.5940|Error|child thread96
+2012-06-12 16:08:49.5940|Error|main child95
+2012-06-12 16:08:49.5940|Error|child thread97
+2012-06-12 16:08:49.5940|Error|main child96
+2012-06-12 16:08:49.5940|Error|child thread98
+2012-06-12 16:08:49.5940|Error|main child97
+2012-06-12 16:08:49.5940|Error|child thread99
+2012-06-12 16:08:49.5940|Error|main child98
+2012-06-12 16:08:49.5940|Error|child thread100
+2012-06-12 16:08:49.5940|Error|main child99
+2012-06-12 16:08:49.6096|Error|child thread101
+2012-06-12 16:08:49.6096|Error|child thread102
+2012-06-12 16:08:49.6096|Error|main child100
+2012-06-12 16:08:49.6096|Error|child thread103
+2012-06-12 16:08:49.6096|Error|main child101
+2012-06-12 16:08:49.6096|Error|child thread104
+2012-06-12 16:08:49.6096|Error|main child102
+2012-06-12 16:08:49.6096|Error|child thread105
+2012-06-12 16:08:49.6096|Error|main child103
+2012-06-12 16:08:49.6096|Error|child thread106
+2012-06-12 16:08:49.6096|Error|main child104
+2012-06-12 16:08:49.6096|Error|child thread107
+2012-06-12 16:08:49.6096|Error|main child105
+2012-06-12 16:08:49.6096|Error|child thread108
+2012-06-12 16:08:49.6096|Error|main child106
+2012-06-12 16:08:49.6096|Error|child thread109
+2012-06-12 16:08:49.6253|Error|main child107
+2012-06-12 16:08:49.6253|Error|child thread110
+2012-06-12 16:08:49.6253|Error|main child108
+2012-06-12 16:08:49.6253|Error|child thread111
+2012-06-12 16:08:49.6253|Error|main child109
+2012-06-12 16:08:49.6253|Error|child thread112
+2012-06-12 16:08:49.6253|Error|main child110
+2012-06-12 16:08:49.6253|Error|child thread113
+2012-06-12 16:08:49.6253|Error|main child111
+2012-06-12 16:08:49.6253|Error|child thread114
+2012-06-12 16:08:49.6253|Error|main child112
+2012-06-12 16:08:49.6253|Error|child thread115
+2012-06-12 16:08:49.6253|Error|main child113
+2012-06-12 16:08:49.6253|Error|child thread116
+2012-06-12 16:08:49.6253|Error|main child114
+2012-06-12 16:08:49.6253|Error|child thread117
+2012-06-12 16:08:49.6409|Error|main child115
+2012-06-12 16:08:49.6409|Error|child thread118
+2012-06-12 16:08:49.6409|Error|main child116
+2012-06-12 16:08:49.6409|Error|child thread119
+2012-06-12 16:08:49.6409|Error|main child117
+2012-06-12 16:08:49.6409|Error|child thread120
+2012-06-12 16:08:49.6409|Error|main child118
+2012-06-12 16:08:49.6409|Error|child thread121
+2012-06-12 16:08:49.6409|Error|main child119
+2012-06-12 16:08:49.6409|Error|child thread122
+2012-06-12 16:08:49.6409|Error|main child120
+2012-06-12 16:08:49.6409|Error|child thread123
+2012-06-12 16:08:49.6409|Error|main child121
+2012-06-12 16:08:49.6409|Error|child thread124
+2012-06-12 16:08:49.6409|Error|main child122
+2012-06-12 16:08:49.6409|Error|child thread125
+2012-06-12 16:08:49.6409|Error|main child123
+2012-06-12 16:08:49.6565|Error|child thread126
+2012-06-12 16:08:49.6565|Error|main child124
+2012-06-12 16:08:49.6565|Error|child thread127
+2012-06-12 16:08:49.6565|Error|main child125
+2012-06-12 16:08:49.6565|Error|child thread128
+2012-06-12 16:08:49.6565|Error|main child126
+2012-06-12 16:08:49.6565|Error|child thread129
+2012-06-12 16:08:49.6565|Error|main child127
+2012-06-12 16:08:49.6565|Error|child thread130
+2012-06-12 16:08:49.6565|Error|main child128
+2012-06-12 16:08:49.6565|Error|child thread131
+2012-06-12 16:08:49.6565|Error|main child129
+2012-06-12 16:08:49.6565|Error|child thread132
+2012-06-12 16:08:49.6565|Error|main child130
+2012-06-12 16:08:49.6565|Error|child thread133
+2012-06-12 16:08:49.6565|Error|main child131
+2012-06-12 16:08:49.6721|Error|child thread134
+2012-06-12 16:08:49.6721|Error|main child132
+2012-06-12 16:08:49.6721|Error|child thread135
+2012-06-12 16:08:49.6721|Error|main child133
+2012-06-12 16:08:49.6721|Error|child thread136
+2012-06-12 16:08:49.6721|Error|main child134
+2012-06-12 16:08:49.6721|Error|child thread137
+2012-06-12 16:08:49.6721|Error|main child135
+2012-06-12 16:08:49.6721|Error|child thread138
+2012-06-12 16:08:49.6721|Error|main child136
+2012-06-12 16:08:49.6721|Error|child thread139
+2012-06-12 16:08:49.6721|Error|main child137
+2012-06-12 16:08:49.6721|Error|child thread140
+2012-06-12 16:08:49.6721|Error|main child138
+2012-06-12 16:08:49.6721|Error|child thread141
+2012-06-12 16:08:49.6721|Error|main child139
+2012-06-12 16:08:49.6721|Error|child thread142
+2012-06-12 16:08:49.6878|Error|main child140
+2012-06-12 16:08:49.6878|Error|child thread143
+2012-06-12 16:08:49.6878|Error|main child141
+2012-06-12 16:08:49.6878|Error|child thread144
+2012-06-12 16:08:49.6878|Error|main child142
+2012-06-12 16:08:49.6878|Error|child thread145
+2012-06-12 16:08:49.6878|Error|main child143
+2012-06-12 16:08:49.6878|Error|child thread146
+2012-06-12 16:08:49.6878|Error|main child144
+2012-06-12 16:08:49.6878|Error|child thread147
+2012-06-12 16:08:49.6878|Error|main child145
+2012-06-12 16:08:49.6878|Error|child thread148
+2012-06-12 16:08:49.6878|Error|main child146
+2012-06-12 16:08:49.6878|Error|child thread149
+2012-06-12 16:08:49.6878|Error|main child147
+2012-06-12 16:08:49.6878|Error|child thread150
+2012-06-12 16:08:49.7034|Error|main child148
+2012-06-12 16:08:49.7034|Error|child thread151
+2012-06-12 16:08:49.7034|Error|main child149
+2012-06-12 16:08:49.7034|Error|child thread152
+2012-06-12 16:08:49.7034|Error|main child150
+2012-06-12 16:08:49.7034|Error|child thread153
+2012-06-12 16:08:49.7034|Error|main child151
+2012-06-12 16:08:49.7034|Error|child thread154
+2012-06-12 16:08:49.7034|Error|main child152
+2012-06-12 16:08:49.7034|Error|child thread155
+2012-06-12 16:08:49.7034|Error|main child153
+2012-06-12 16:08:49.7034|Error|child thread156
+2012-06-12 16:08:49.7190|Error|main child154
+2012-06-12 16:08:49.7190|Error|child thread157
+2012-06-12 16:08:49.7190|Error|main child155
+2012-06-12 16:08:49.7190|Error|child thread158
+2012-06-12 16:08:49.7190|Error|main child156
+2012-06-12 16:08:49.7190|Error|child thread159
+2012-06-12 16:08:49.7190|Error|main child157
+2012-06-12 16:08:49.7190|Error|child thread160
+2012-06-12 16:08:49.7190|Error|main child158
+2012-06-12 16:08:49.7190|Error|child thread161
+2012-06-12 16:08:49.7190|Error|main child159
+2012-06-12 16:08:49.7190|Error|child thread162
+2012-06-12 16:08:49.7190|Error|main child160
+2012-06-12 16:08:49.7346|Error|child thread163
+2012-06-12 16:08:49.7346|Error|main child161
+2012-06-12 16:08:49.7346|Error|child thread164
+2012-06-12 16:08:49.7346|Error|main child162
+2012-06-12 16:08:49.7346|Error|child thread165
+2012-06-12 16:08:49.7346|Error|main child163
+2012-06-12 16:08:49.7346|Error|child thread166
+2012-06-12 16:08:49.7346|Error|main child164
+2012-06-12 16:08:49.7346|Error|child thread167
+2012-06-12 16:08:49.7346|Error|main child165
+2012-06-12 16:08:49.7346|Error|child thread168
+2012-06-12 16:08:49.7346|Error|main child166
+2012-06-12 16:08:49.7503|Error|child thread169
+2012-06-12 16:08:49.7503|Error|main child167
+2012-06-12 16:08:49.7503|Error|child thread170
+2012-06-12 16:08:49.7503|Error|main child168
+2012-06-12 16:08:49.7503|Error|child thread171
+2012-06-12 16:08:49.7503|Error|main child169
+2012-06-12 16:08:49.7503|Error|child thread172
+2012-06-12 16:08:49.7503|Error|main child170
+2012-06-12 16:08:49.7503|Error|child thread173
+2012-06-12 16:08:49.7503|Error|main child171
+2012-06-12 16:08:49.7659|Error|child thread174
+2012-06-12 16:08:49.7659|Error|main child172
+2012-06-12 16:08:49.7659|Error|child thread175
+2012-06-12 16:08:49.7659|Error|main child173
+2012-06-12 16:08:49.7659|Error|child thread176
+2012-06-12 16:08:49.7659|Error|main child174
+2012-06-12 16:08:49.7659|Error|child thread177
+2012-06-12 16:08:49.7659|Error|main child175
+2012-06-12 16:08:49.7659|Error|child thread178
+2012-06-12 16:08:49.7659|Error|main child176
+2012-06-12 16:08:49.7659|Error|child thread179
+2012-06-12 16:08:49.7815|Error|main child177
+2012-06-12 16:08:49.7815|Error|child thread180
+2012-06-12 16:08:49.7815|Error|main child178
+2012-06-12 16:08:49.7815|Error|child thread181
+2012-06-12 16:08:49.7815|Error|main child179
+2012-06-12 16:08:49.7815|Error|child thread182
+2012-06-12 16:08:49.7815|Error|main child180
+2012-06-12 16:08:49.7815|Error|child thread183
+2012-06-12 16:08:49.7815|Error|main child181
+2012-06-12 16:08:49.7815|Error|child thread184
+2012-06-12 16:08:49.7815|Error|main child182
+2012-06-12 16:08:49.7971|Error|child thread185
+2012-06-12 16:08:49.7971|Error|main child183
+2012-06-12 16:08:49.7971|Error|child thread186
+2012-06-12 16:08:49.7971|Error|main child184
+2012-06-12 16:08:49.7971|Error|child thread187
+2012-06-12 16:08:49.7971|Error|main child185
+2012-06-12 16:08:49.7971|Error|child thread188
+2012-06-12 16:08:49.7971|Error|main child186
+2012-06-12 16:08:49.7971|Error|child thread189
+2012-06-12 16:08:49.7971|Error|main child187
+2012-06-12 16:08:49.7971|Error|child thread190
+2012-06-12 16:08:49.8128|Error|main child188
+2012-06-12 16:08:49.8128|Error|child thread191
+2012-06-12 16:08:49.8128|Error|main child189
+2012-06-12 16:08:49.8128|Error|child thread192
+2012-06-12 16:08:49.8128|Error|main child190
+2012-06-12 16:08:49.8128|Error|child thread193
+2012-06-12 16:08:49.8128|Error|main child191
+2012-06-12 16:08:49.8128|Error|child thread194
+2012-06-12 16:08:49.8128|Error|main child192
+2012-06-12 16:08:49.8128|Error|child thread195
+2012-06-12 16:08:49.8128|Error|main child193
+2012-06-12 16:08:49.8284|Error|child thread196
+2012-06-12 16:08:49.8284|Error|main child194
+2012-06-12 16:08:49.8284|Error|child thread197
+2012-06-12 16:08:49.8284|Error|main child195
+2012-06-12 16:08:49.8284|Error|child thread198
+2012-06-12 16:08:49.8284|Error|main child196
+2012-06-12 16:08:49.8284|Error|child thread199
+2012-06-12 16:08:49.8284|Error|main child197
+2012-06-12 16:08:49.8284|Error|child thread200
+2012-06-12 16:08:49.8284|Error|main child198
+2012-06-12 16:08:49.8284|Error|child thread201
+2012-06-12 16:08:49.8440|Error|main child199
+2012-06-12 16:08:49.8440|Error|child thread202
+2012-06-12 16:08:49.8440|Error|main child200
+2012-06-12 16:08:49.8440|Error|child thread203
+2012-06-12 16:08:49.8440|Error|main child201
+2012-06-12 16:08:49.8440|Error|child thread204
+2012-06-12 16:08:49.8440|Error|main child202
+2012-06-12 16:08:49.8440|Error|child thread205
+2012-06-12 16:08:49.8440|Error|main child203
+2012-06-12 16:08:49.8596|Error|child thread206
+2012-06-12 16:08:49.8596|Error|main child204
+2012-06-12 16:08:49.8596|Error|child thread207
+2012-06-12 16:08:49.8596|Error|main child205
+2012-06-12 16:08:49.8596|Error|child thread208
+2012-06-12 16:08:49.8596|Error|main child206
+2012-06-12 16:08:49.8596|Error|child thread209
+2012-06-12 16:08:49.8596|Error|main child207
+2012-06-12 16:08:49.8596|Error|child thread210
+2012-06-12 16:08:49.8596|Error|main child208
+2012-06-12 16:08:49.8596|Error|child thread211
+2012-06-12 16:08:49.8752|Error|main child209
+2012-06-12 16:08:49.8752|Error|child thread212
+2012-06-12 16:08:49.8752|Error|main child210
+2012-06-12 16:08:49.8752|Error|child thread213
+2012-06-12 16:08:49.8752|Error|main child211
+2012-06-12 16:08:49.8752|Error|child thread214
+2012-06-12 16:08:49.8752|Error|main child212
+2012-06-12 16:08:49.8752|Error|child thread215
+2012-06-12 16:08:49.8752|Error|main child213
+2012-06-12 16:08:49.8752|Error|child thread216
+2012-06-12 16:08:49.8752|Error|main child214
+2012-06-12 16:08:49.8909|Error|child thread217
+2012-06-12 16:08:49.8909|Error|main child215
+2012-06-12 16:08:49.8909|Error|child thread218
+2012-06-12 16:08:49.8909|Error|main child216
+2012-06-12 16:08:49.8909|Error|child thread219
+2012-06-12 16:08:49.8909|Error|main child217
+2012-06-12 16:08:49.8909|Error|child thread220
+2012-06-12 16:08:49.8909|Error|main child218
+2012-06-12 16:08:49.8909|Error|child thread221
+2012-06-12 16:08:49.8909|Error|main child219
+2012-06-12 16:08:49.8909|Error|child thread222
+2012-06-12 16:08:49.9065|Error|main child220
+2012-06-12 16:08:49.9065|Error|child thread223
+2012-06-12 16:08:49.9065|Error|main child221
+2012-06-12 16:08:49.9065|Error|child thread224
+2012-06-12 16:08:49.9065|Error|main child222
+2012-06-12 16:08:49.9065|Error|child thread225
+2012-06-12 16:08:49.9065|Error|main child223
+2012-06-12 16:08:49.9065|Error|child thread226
+2012-06-12 16:08:49.9065|Error|main child224
+2012-06-12 16:08:49.9065|Error|child thread227
+2012-06-12 16:08:49.9221|Error|main child225
+2012-06-12 16:08:49.9221|Error|child thread228
+2012-06-12 16:08:49.9221|Error|main child226
+2012-06-12 16:08:49.9221|Error|child thread229
+2012-06-12 16:08:49.9221|Error|main child227
+2012-06-12 16:08:49.9221|Error|child thread230
+2012-06-12 16:08:49.9221|Error|main child228
+2012-06-12 16:08:49.9221|Error|child thread231
+2012-06-12 16:08:49.9221|Error|main child229
+2012-06-12 16:08:49.9221|Error|child thread232
+2012-06-12 16:08:49.9221|Error|main child230
+2012-06-12 16:08:49.9377|Error|child thread233
+2012-06-12 16:08:49.9377|Error|main child231
+2012-06-12 16:08:49.9377|Error|child thread234
+2012-06-12 16:08:49.9377|Error|main child232
+2012-06-12 16:08:49.9377|Error|child thread235
+2012-06-12 16:08:49.9377|Error|main child233
+2012-06-12 16:08:49.9377|Error|child thread236
+2012-06-12 16:08:49.9377|Error|main child234
+2012-06-12 16:08:49.9377|Error|child thread237
+2012-06-12 16:08:49.9377|Error|main child235
+2012-06-12 16:08:49.9377|Error|child thread238
+2012-06-12 16:08:49.9534|Error|main child236
+2012-06-12 16:08:49.9534|Error|child thread239
+2012-06-12 16:08:49.9534|Error|main child237
+2012-06-12 16:08:49.9534|Error|child thread240
+2012-06-12 16:08:49.9534|Error|main child238
+2012-06-12 16:08:49.9534|Error|child thread241
+2012-06-12 16:08:49.9534|Error|main child239
+2012-06-12 16:08:49.9690|Error|child thread242
+2012-06-12 16:08:49.9690|Error|main child240
+2012-06-12 16:08:49.9690|Error|child thread243
+2012-06-12 16:08:49.9690|Error|main child241
+2012-06-12 16:08:49.9690|Error|child thread244
+2012-06-12 16:08:49.9690|Error|main child242
+2012-06-12 16:08:49.9690|Error|child thread245
+2012-06-12 16:08:49.9690|Error|main child243
+2012-06-12 16:08:49.9846|Error|child thread246
+2012-06-12 16:08:49.9846|Error|main child244
+2012-06-12 16:08:49.9846|Error|child thread247
+2012-06-12 16:08:49.9846|Error|main child245
+2012-06-12 16:08:49.9846|Error|child thread248
+2012-06-12 16:08:49.9846|Error|main child246
+2012-06-12 16:08:49.9846|Error|child thread249
+2012-06-12 16:08:49.9846|Error|main child247
+2012-06-12 16:08:49.9846|Error|child thread250
+2012-06-12 16:08:50.0002|Error|main child248
+2012-06-12 16:08:50.0002|Error|child thread251
+2012-06-12 16:08:50.0002|Error|main child249
+2012-06-12 16:08:50.0002|Error|child thread252
+2012-06-12 16:08:50.0002|Error|main child250
+2012-06-12 16:08:50.0002|Error|child thread253
+2012-06-12 16:08:50.0002|Error|main child251
+2012-06-12 16:08:50.0002|Error|child thread254
+2012-06-12 16:08:50.0002|Error|main child252
+2012-06-12 16:08:50.0002|Error|child thread255
+2012-06-12 16:08:50.0159|Error|main child253
+2012-06-12 16:08:50.0159|Error|child thread256
+2012-06-12 16:08:50.0159|Error|main child254
+2012-06-12 16:08:50.0159|Error|child thread257
+2012-06-12 16:08:50.0159|Error|main child255
+2012-06-12 16:08:50.0159|Error|child thread258
+2012-06-12 16:08:50.0159|Error|main child256
+2012-06-12 16:08:50.0159|Error|child thread259
+2012-06-12 16:08:50.0159|Error|main child257
+2012-06-12 16:08:50.0159|Error|child thread260
+2012-06-12 16:08:50.0315|Error|main child258
+2012-06-12 16:08:50.0315|Error|child thread261
+2012-06-12 16:08:50.0315|Error|main child259
+2012-06-12 16:08:50.0315|Error|child thread262
+2012-06-12 16:08:50.0315|Error|main child260
+2012-06-12 16:08:50.0315|Error|child thread263
+2012-06-12 16:08:50.0315|Error|main child261
+2012-06-12 16:08:50.0315|Error|child thread264
+2012-06-12 16:08:50.0315|Error|main child262
+2012-06-12 16:08:50.0315|Error|child thread265
+2012-06-12 16:08:50.0471|Error|main child263
+2012-06-12 16:08:50.0471|Error|child thread266
+2012-06-12 16:08:50.0471|Error|main child264
+2012-06-12 16:08:50.0471|Error|child thread267
+2012-06-12 16:08:50.0471|Error|main child265
+2012-06-12 16:08:50.0471|Error|child thread268
+2012-06-12 16:08:50.0471|Error|main child266
+2012-06-12 16:08:50.0471|Error|child thread269
+2012-06-12 16:08:50.0471|Error|main child267
+2012-06-12 16:08:50.0627|Error|child thread270
+2012-06-12 16:08:50.0627|Error|main child268
+2012-06-12 16:08:50.0627|Error|child thread271
+2012-06-12 16:08:50.0627|Error|main child269
+2012-06-12 16:08:50.0627|Error|child thread272
+2012-06-12 16:08:50.0627|Error|main child270
+2012-06-12 16:08:50.0627|Error|child thread273
+2012-06-12 16:08:50.0627|Error|main child271
+2012-06-12 16:08:50.0627|Error|child thread274
+2012-06-12 16:08:50.0627|Error|main child272
+2012-06-12 16:08:50.0627|Error|child thread275
+2012-06-12 16:08:50.0784|Error|main child273
+2012-06-12 16:08:50.0784|Error|child thread276
+2012-06-12 16:08:50.0784|Error|main child274
+2012-06-12 16:08:50.0784|Error|child thread277
+2012-06-12 16:08:50.0784|Error|main child275
+2012-06-12 16:08:50.0784|Error|child thread278
+2012-06-12 16:08:50.0784|Error|main child276
+2012-06-12 16:08:50.0784|Error|child thread279
+2012-06-12 16:08:50.0784|Error|main child277
+2012-06-12 16:08:50.0784|Error|child thread280
+2012-06-12 16:08:50.0940|Error|main child278
+2012-06-12 16:08:50.0940|Error|child thread281
+2012-06-12 16:08:50.0940|Error|main child279
+2012-06-12 16:08:50.0940|Error|child thread282
+2012-06-12 16:08:50.0940|Error|main child280
+2012-06-12 16:08:50.0940|Error|child thread283
+2012-06-12 16:08:50.0940|Error|main child281
+2012-06-12 16:08:50.0940|Error|child thread284
+2012-06-12 16:08:50.0940|Error|main child282
+2012-06-12 16:08:50.0940|Error|child thread285
+2012-06-12 16:08:50.1096|Error|main child283
+2012-06-12 16:08:50.1096|Error|child thread286
+2012-06-12 16:08:50.1096|Error|main child284
+2012-06-12 16:08:50.1096|Error|child thread287
+2012-06-12 16:08:50.1096|Error|main child285
+2012-06-12 16:08:50.1096|Error|child thread288
+2012-06-12 16:08:50.1096|Error|main child286
+2012-06-12 16:08:50.1096|Error|child thread289
+2012-06-12 16:08:50.1096|Error|main child287
+2012-06-12 16:08:50.1096|Error|child thread290
+2012-06-12 16:08:50.1252|Error|main child288
+2012-06-12 16:08:50.1252|Error|child thread291
+2012-06-12 16:08:50.1252|Error|main child289
+2012-06-12 16:08:50.1252|Error|child thread292
+2012-06-12 16:08:50.1252|Error|main child290
+2012-06-12 16:08:50.1252|Error|child thread293
+2012-06-12 16:08:50.1252|Error|main child291
+2012-06-12 16:08:50.1252|Error|child thread294
+2012-06-12 16:08:50.1252|Error|main child292
+2012-06-12 16:08:50.1408|Error|child thread295
+2012-06-12 16:08:50.1408|Error|main child293
+2012-06-12 16:08:50.1408|Error|child thread296
+2012-06-12 16:08:50.1408|Error|main child294
+2012-06-12 16:08:50.1408|Error|child thread297
+2012-06-12 16:08:50.1408|Error|main child295
+2012-06-12 16:08:50.1408|Error|child thread298
+2012-06-12 16:08:50.1408|Error|main child296
+2012-06-12 16:08:50.1408|Error|child thread299
+2012-06-12 16:08:50.1408|Error|main child297
+2012-06-12 16:08:50.1565|Error|child thread300
+2012-06-12 16:08:50.1565|Error|main child298
+2012-06-12 16:08:50.1565|Error|child thread301
+2012-06-12 16:08:50.1565|Error|main child299
+2012-06-12 16:08:50.1565|Error|child thread302
+2012-06-12 16:08:50.1565|Error|main child300
+2012-06-12 16:08:50.1565|Error|child thread303
+2012-06-12 16:08:50.1565|Error|main child301
+2012-06-12 16:08:50.1565|Error|child thread304
+2012-06-12 16:08:50.1565|Error|main child302
+2012-06-12 16:08:50.1721|Error|child thread305
+2012-06-12 16:08:50.1721|Error|main child303
+2012-06-12 16:08:50.1721|Error|child thread306
+2012-06-12 16:08:50.1721|Error|main child304
+2012-06-12 16:08:50.1721|Error|child thread307
+2012-06-12 16:08:50.1721|Error|main child305
+2012-06-12 16:08:50.1721|Error|child thread308
+2012-06-12 16:08:50.1721|Error|main child306
+2012-06-12 16:08:50.1721|Error|child thread309
+2012-06-12 16:08:50.1721|Error|main child307
+2012-06-12 16:08:50.1877|Error|child thread310
+2012-06-12 16:08:50.1877|Error|main child308
+2012-06-12 16:08:50.1877|Error|child thread311
+2012-06-12 16:08:50.1877|Error|main child309
+2012-06-12 16:08:50.1877|Error|child thread312
+2012-06-12 16:08:50.1877|Error|main child310
+2012-06-12 16:08:50.1877|Error|child thread313
+2012-06-12 16:08:50.1877|Error|main child311
+2012-06-12 16:08:50.1877|Error|child thread314
+2012-06-12 16:08:50.2033|Error|main child312
+2012-06-12 16:08:50.2033|Error|child thread315
+2012-06-12 16:08:50.2033|Error|main child313
+2012-06-12 16:08:50.2033|Error|child thread316
+2012-06-12 16:08:50.2033|Error|main child314
+2012-06-12 16:08:50.2033|Error|child thread317
+2012-06-12 16:08:50.2033|Error|main child315
+2012-06-12 16:08:50.2033|Error|child thread318
+2012-06-12 16:08:50.2033|Error|main child316
+2012-06-12 16:08:50.2033|Error|child thread319
+2012-06-12 16:08:50.2190|Error|main child317
+2012-06-12 16:08:50.2190|Error|child thread320
+2012-06-12 16:08:50.2190|Error|main child318
+2012-06-12 16:08:50.2190|Error|child thread321
+2012-06-12 16:08:50.2190|Error|main child319
+2012-06-12 16:08:50.2190|Error|child thread322
+2012-06-12 16:08:50.2190|Error|main child320
+2012-06-12 16:08:50.2190|Error|child thread323
+2012-06-12 16:08:50.2346|Error|main child321
+2012-06-12 16:08:50.2346|Error|child thread324
+2012-06-12 16:08:50.2346|Error|main child322
+2012-06-12 16:08:50.2346|Error|child thread325
+2012-06-12 16:08:50.2346|Error|main child323
+2012-06-12 16:08:50.2346|Error|child thread326
+2012-06-12 16:08:50.2346|Error|main child324
+2012-06-12 16:08:50.2346|Error|child thread327
+2012-06-12 16:08:50.2346|Error|main child325
+2012-06-12 16:08:50.2346|Error|child thread328
+2012-06-12 16:08:50.2502|Error|main child326
+2012-06-12 16:08:50.2502|Error|child thread329
+2012-06-12 16:08:50.2502|Error|main child327
+2012-06-12 16:08:50.2502|Error|child thread330
+2012-06-12 16:08:50.2502|Error|main child328
+2012-06-12 16:08:50.2502|Error|child thread331
+2012-06-12 16:08:50.2502|Error|main child329
+2012-06-12 16:08:50.2502|Error|child thread332
+2012-06-12 16:08:50.2502|Error|main child330
+2012-06-12 16:08:50.2658|Error|child thread333
+2012-06-12 16:08:50.2658|Error|child thread334
+2012-06-12 16:08:50.2658|Error|main child331
+2012-06-12 16:08:50.2658|Error|child thread335
+2012-06-12 16:08:50.2658|Error|main child332
+2012-06-12 16:08:50.2658|Error|child thread336
+2012-06-12 16:08:50.2658|Error|main child333
+2012-06-12 16:08:50.2658|Error|child thread337
+2012-06-12 16:08:50.2815|Error|main child334
+2012-06-12 16:08:50.2815|Error|child thread338
+2012-06-12 16:08:50.2815|Error|main child335
+2012-06-12 16:08:50.2815|Error|child thread339
+2012-06-12 16:08:50.2815|Error|main child336
+2012-06-12 16:08:50.2815|Error|child thread340
+2012-06-12 16:08:50.2815|Error|main child337
+2012-06-12 16:08:50.2815|Error|child thread341
+2012-06-12 16:08:50.2815|Error|main child338
+2012-06-12 16:08:50.2815|Error|child thread342
+2012-06-12 16:08:50.2971|Error|main child339
+2012-06-12 16:08:50.2971|Error|child thread343
+2012-06-12 16:08:50.2971|Error|main child340
+2012-06-12 16:08:50.2971|Error|child thread344
+2012-06-12 16:08:50.2971|Error|main child341
+2012-06-12 16:08:50.2971|Error|child thread345
+2012-06-12 16:08:50.2971|Error|main child342
+2012-06-12 16:08:50.2971|Error|child thread346
+2012-06-12 16:08:50.2971|Error|main child343
+2012-06-12 16:08:50.3127|Error|child thread347
+2012-06-12 16:08:50.3127|Error|main child344
+2012-06-12 16:08:50.3127|Error|child thread348
+2012-06-12 16:08:50.3127|Error|main child345
+2012-06-12 16:08:50.3127|Error|child thread349
+2012-06-12 16:08:50.3127|Error|main child346
+2012-06-12 16:08:50.3127|Error|child thread350
+2012-06-12 16:08:50.3127|Error|main child347
+2012-06-12 16:08:50.3127|Error|child thread351
+2012-06-12 16:08:50.3283|Error|main child348
+2012-06-12 16:08:50.3283|Error|child thread352
+2012-06-12 16:08:50.3283|Error|main child349
+2012-06-12 16:08:50.3283|Error|child thread353
+2012-06-12 16:08:50.3283|Error|main child350
+2012-06-12 16:08:50.3283|Error|child thread354
+2012-06-12 16:08:50.3283|Error|main child351
+2012-06-12 16:08:50.3283|Error|child thread355
+2012-06-12 16:08:50.3283|Error|main child352
+2012-06-12 16:08:50.3283|Error|child thread356
+2012-06-12 16:08:50.3440|Error|main child353
+2012-06-12 16:08:50.3440|Error|child thread357
+2012-06-12 16:08:50.3440|Error|main child354
+2012-06-12 16:08:50.3440|Error|child thread358
+2012-06-12 16:08:50.3440|Error|main child355
+2012-06-12 16:08:50.3440|Error|child thread359
+2012-06-12 16:08:50.3440|Error|main child356
+2012-06-12 16:08:50.3440|Error|child thread360
+2012-06-12 16:08:50.3440|Error|main child357
+2012-06-12 16:08:50.3440|Error|child thread361
+2012-06-12 16:08:50.3596|Error|main child358
+2012-06-12 16:08:50.3596|Error|child thread362
+2012-06-12 16:08:50.3596|Error|main child359
+2012-06-12 16:08:50.3596|Error|child thread363
+2012-06-12 16:08:50.3596|Error|main child360
+2012-06-12 16:08:50.3596|Error|child thread364
+2012-06-12 16:08:50.3596|Error|main child361
+2012-06-12 16:08:50.3596|Error|child thread365
+2012-06-12 16:08:50.3596|Error|main child362
+2012-06-12 16:08:50.3596|Error|child thread366
+2012-06-12 16:08:50.3752|Error|main child363
+2012-06-12 16:08:50.3752|Error|child thread367
+2012-06-12 16:08:50.3752|Error|main child364
+2012-06-12 16:08:50.3752|Error|child thread368
+2012-06-12 16:08:50.3752|Error|main child365
+2012-06-12 16:08:50.3752|Error|child thread369
+2012-06-12 16:08:50.3752|Error|main child366
+2012-06-12 16:08:50.3752|Error|child thread370
+2012-06-12 16:08:50.3908|Error|main child367
+2012-06-12 16:08:50.3908|Error|child thread371
+2012-06-12 16:08:50.3908|Error|main child368
+2012-06-12 16:08:50.3908|Error|child thread372
+2012-06-12 16:08:50.3908|Error|main child369
+2012-06-12 16:08:50.3908|Error|child thread373
+2012-06-12 16:08:50.3908|Error|main child370
+2012-06-12 16:08:50.3908|Error|child thread374
+2012-06-12 16:08:50.3908|Error|main child371
+2012-06-12 16:08:50.4065|Error|child thread375
+2012-06-12 16:08:50.4065|Error|main child372
+2012-06-12 16:08:50.4065|Error|child thread376
+2012-06-12 16:08:50.4065|Error|main child373
+2012-06-12 16:08:50.4065|Error|child thread377
+2012-06-12 16:08:50.4065|Error|main child374
+2012-06-12 16:08:50.4065|Error|child thread378
+2012-06-12 16:08:50.4065|Error|main child375
+2012-06-12 16:08:50.4065|Error|child thread379
+2012-06-12 16:08:50.4221|Error|main child376
+2012-06-12 16:08:50.4221|Error|child thread380
+2012-06-12 16:08:50.4221|Error|main child377
+2012-06-12 16:08:50.4221|Error|child thread381
+2012-06-12 16:08:50.4221|Error|main child378
+2012-06-12 16:08:50.4221|Error|child thread382
+2012-06-12 16:08:50.4221|Error|main child379
+2012-06-12 16:08:50.4221|Error|child thread383
+2012-06-12 16:08:50.4221|Error|main child380
+2012-06-12 16:08:50.4221|Error|child thread384
+2012-06-12 16:08:50.4377|Error|main child381
+2012-06-12 16:08:50.4377|Error|child thread385
+2012-06-12 16:08:50.4377|Error|main child382
+2012-06-12 16:08:50.4377|Error|child thread386
+2012-06-12 16:08:50.4377|Error|main child383
+2012-06-12 16:08:50.4377|Error|child thread387
+2012-06-12 16:08:50.4377|Error|main child384
+2012-06-12 16:08:50.4377|Error|child thread388
+2012-06-12 16:08:50.4377|Error|main child385
+2012-06-12 16:08:50.4377|Error|child thread389
+2012-06-12 16:08:50.4533|Error|main child386
+2012-06-12 16:08:50.4533|Error|child thread390
+2012-06-12 16:08:50.4533|Error|main child387
+2012-06-12 16:08:50.4533|Error|child thread391
+2012-06-12 16:08:50.4533|Error|main child388
+2012-06-12 16:08:50.4533|Error|child thread392
+2012-06-12 16:08:50.4533|Error|main child389
+2012-06-12 16:08:50.4533|Error|child thread393
+2012-06-12 16:08:50.4533|Error|main child390
+2012-06-12 16:08:50.4533|Error|child thread394
+2012-06-12 16:08:50.4689|Error|main child391
+2012-06-12 16:08:50.4689|Error|child thread395
+2012-06-12 16:08:50.4689|Error|main child392
+2012-06-12 16:08:50.4689|Error|child thread396
+2012-06-12 16:08:50.4689|Error|main child393
+2012-06-12 16:08:50.4689|Error|child thread397
+2012-06-12 16:08:50.4689|Error|main child394
+2012-06-12 16:08:50.4689|Error|child thread398
+2012-06-12 16:08:50.4689|Error|main child395
+2012-06-12 16:08:50.4846|Error|child thread399
+2012-06-12 16:08:50.4846|Error|main child396
+2012-06-12 16:08:50.4846|Error|child thread400
+2012-06-12 16:08:50.4846|Error|main child397
+2012-06-12 16:08:50.4846|Error|child thread401
+2012-06-12 16:08:50.4846|Error|main child398
+2012-06-12 16:08:50.4846|Error|child thread402
+2012-06-12 16:08:50.4846|Error|main child399
+2012-06-12 16:08:50.4846|Error|child thread403
+2012-06-12 16:08:50.4846|Error|main child400
+2012-06-12 16:08:50.5002|Error|child thread404
+2012-06-12 16:08:50.5002|Error|main child401
+2012-06-12 16:08:50.5002|Error|child thread405
+2012-06-12 16:08:50.5002|Error|main child402
+2012-06-12 16:08:50.5002|Error|child thread406
+2012-06-12 16:08:50.5002|Error|main child403
+2012-06-12 16:08:50.5002|Error|child thread407
+2012-06-12 16:08:50.5002|Error|main child404
+2012-06-12 16:08:50.5002|Error|child thread408
+2012-06-12 16:08:50.5002|Error|main child405
+2012-06-12 16:08:50.5158|Error|child thread409
+2012-06-12 16:08:50.5158|Error|main child406
+2012-06-12 16:08:50.5158|Error|child thread410
+2012-06-12 16:08:50.5158|Error|main child407
+2012-06-12 16:08:50.5158|Error|child thread411
+2012-06-12 16:08:50.5158|Error|main child408
+2012-06-12 16:08:50.5158|Error|child thread412
+2012-06-12 16:08:50.5158|Error|main child409
+2012-06-12 16:08:50.5158|Error|child thread413
+2012-06-12 16:08:50.5158|Error|main child410
+2012-06-12 16:08:50.5314|Error|child thread414
+2012-06-12 16:08:50.5314|Error|main child411
+2012-06-12 16:08:50.5314|Error|child thread415
+2012-06-12 16:08:50.5314|Error|main child412
+2012-06-12 16:08:50.5314|Error|child thread416
+2012-06-12 16:08:50.5314|Error|main child413
+2012-06-12 16:08:50.5314|Error|child thread417
+2012-06-12 16:08:50.5314|Error|main child414
+2012-06-12 16:08:50.5314|Error|child thread418
+2012-06-12 16:08:50.5314|Error|main child415
+2012-06-12 16:08:50.5471|Error|child thread419
+2012-06-12 16:08:50.5471|Error|main child416
+2012-06-12 16:08:50.5471|Error|child thread420
+2012-06-12 16:08:50.5471|Error|main child417
+2012-06-12 16:08:50.5471|Error|child thread421
+2012-06-12 16:08:50.5471|Error|main child418
+2012-06-12 16:08:50.5471|Error|child thread422
+2012-06-12 16:08:50.5471|Error|main child419
+2012-06-12 16:08:50.5471|Error|child thread423
+2012-06-12 16:08:50.5471|Error|main child420
+2012-06-12 16:08:50.5627|Error|child thread424
+2012-06-12 16:08:50.5627|Error|main child421
+2012-06-12 16:08:50.5627|Error|child thread425
+2012-06-12 16:08:50.5627|Error|main child422
+2012-06-12 16:08:50.5627|Error|child thread426
+2012-06-12 16:08:50.5627|Error|main child423
+2012-06-12 16:08:50.5627|Error|child thread427
+2012-06-12 16:08:50.5627|Error|main child424
+2012-06-12 16:08:50.5627|Error|child thread428
+2012-06-12 16:08:50.5627|Error|main child425
+2012-06-12 16:08:50.5783|Error|child thread429
+2012-06-12 16:08:50.5783|Error|main child426
+2012-06-12 16:08:50.5783|Error|child thread430
+2012-06-12 16:08:50.5783|Error|main child427
+2012-06-12 16:08:50.5783|Error|child thread431
+2012-06-12 16:08:50.5783|Error|main child428
+2012-06-12 16:08:50.5783|Error|child thread432
+2012-06-12 16:08:50.5783|Error|main child429
+2012-06-12 16:08:50.5783|Error|child thread433
+2012-06-12 16:08:50.5783|Error|main child430
+2012-06-12 16:08:50.5939|Error|child thread434
+2012-06-12 16:08:50.5939|Error|main child431
+2012-06-12 16:08:50.5939|Error|child thread435
+2012-06-12 16:08:50.5939|Error|main child432
+2012-06-12 16:08:50.5939|Error|child thread436
+2012-06-12 16:08:50.5939|Error|main child433
+2012-06-12 16:08:50.5939|Error|child thread437
+2012-06-12 16:08:50.5939|Error|main child434
+2012-06-12 16:08:50.5939|Error|child thread438
+2012-06-12 16:08:50.5939|Error|main child435
+2012-06-12 16:08:50.5939|Error|child thread439
+2012-06-12 16:08:50.6096|Error|main child436
+2012-06-12 16:08:50.6096|Error|child thread440
+2012-06-12 16:08:50.6096|Error|main child437
+2012-06-12 16:08:50.6096|Error|child thread441
+2012-06-12 16:08:50.6096|Error|main child438
+2012-06-12 16:08:50.6096|Error|child thread442
+2012-06-12 16:08:50.6096|Error|main child439
+2012-06-12 16:08:50.6096|Error|child thread443
+2012-06-12 16:08:50.6096|Error|main child440
+2012-06-12 16:08:50.6096|Error|child thread444
+2012-06-12 16:08:50.6252|Error|main child441
+2012-06-12 16:08:50.6252|Error|child thread445
+2012-06-12 16:08:50.6252|Error|main child442
+2012-06-12 16:08:50.6252|Error|child thread446
+2012-06-12 16:08:50.6252|Error|main child443
+2012-06-12 16:08:50.6252|Error|child thread447
+2012-06-12 16:08:50.6252|Error|main child444
+2012-06-12 16:08:50.6252|Error|child thread448
+2012-06-12 16:08:50.6252|Error|main child445
+2012-06-12 16:08:50.6252|Error|child thread449
+2012-06-12 16:08:50.6408|Error|main child446
+2012-06-12 16:08:50.6408|Error|child thread450
+2012-06-12 16:08:50.6408|Error|main child447
+2012-06-12 16:08:50.6408|Error|child thread451
+2012-06-12 16:08:50.6408|Error|main child448
+2012-06-12 16:08:50.6408|Error|child thread452
+2012-06-12 16:08:50.6408|Error|main child449
+2012-06-12 16:08:50.6408|Error|child thread453
+2012-06-12 16:08:50.6408|Error|main child450
+2012-06-12 16:08:50.6408|Error|child thread454
+2012-06-12 16:08:50.6564|Error|main child451
+2012-06-12 16:08:50.6564|Error|child thread455
+2012-06-12 16:08:50.6564|Error|main child452
+2012-06-12 16:08:50.6564|Error|child thread456
+2012-06-12 16:08:50.6564|Error|main child453
+2012-06-12 16:08:50.6564|Error|child thread457
+2012-06-12 16:08:50.6564|Error|main child454
+2012-06-12 16:08:50.6564|Error|child thread458
+2012-06-12 16:08:50.6564|Error|main child455
+2012-06-12 16:08:50.6564|Error|child thread459
+2012-06-12 16:08:50.6721|Error|main child456
+2012-06-12 16:08:50.6721|Error|child thread460
+2012-06-12 16:08:50.6721|Error|main child457
+2012-06-12 16:08:50.6721|Error|child thread461
+2012-06-12 16:08:50.6721|Error|main child458
+2012-06-12 16:08:50.6721|Error|child thread462
+2012-06-12 16:08:50.6721|Error|main child459
+2012-06-12 16:08:50.6721|Error|child thread463
+2012-06-12 16:08:50.6721|Error|main child460
+2012-06-12 16:08:50.6721|Error|child thread464
+2012-06-12 16:08:50.6877|Error|main child461
+2012-06-12 16:08:50.6877|Error|child thread465
+2012-06-12 16:08:50.6877|Error|main child462
+2012-06-12 16:08:50.6877|Error|child thread466
+2012-06-12 16:08:50.6877|Error|main child463
+2012-06-12 16:08:50.6877|Error|child thread467
+2012-06-12 16:08:50.6877|Error|main child464
+2012-06-12 16:08:50.6877|Error|child thread468
+2012-06-12 16:08:50.6877|Error|main child465
+2012-06-12 16:08:50.6877|Error|child thread469
+2012-06-12 16:08:50.7033|Error|main child466
+2012-06-12 16:08:50.7033|Error|child thread470
+2012-06-12 16:08:50.7033|Error|main child467
+2012-06-12 16:08:50.7033|Error|child thread471
+2012-06-12 16:08:50.7033|Error|main child468
+2012-06-12 16:08:50.7033|Error|child thread472
+2012-06-12 16:08:50.7033|Error|main child469
+2012-06-12 16:08:50.7033|Error|child thread473
+2012-06-12 16:08:50.7033|Error|main child470
+2012-06-12 16:08:50.7033|Error|child thread474
+2012-06-12 16:08:50.7189|Error|main child471
+2012-06-12 16:08:50.7189|Error|child thread475
+2012-06-12 16:08:50.7189|Error|main child472
+2012-06-12 16:08:50.7189|Error|child thread476
+2012-06-12 16:08:50.7189|Error|main child473
+2012-06-12 16:08:50.7189|Error|child thread477
+2012-06-12 16:08:50.7189|Error|main child474
+2012-06-12 16:08:50.7189|Error|child thread478
+2012-06-12 16:08:50.7189|Error|main child475
+2012-06-12 16:08:50.7189|Error|child thread479
+2012-06-12 16:08:50.7345|Error|main child476
+2012-06-12 16:08:50.7345|Error|child thread480
+2012-06-12 16:08:50.7345|Error|main child477
+2012-06-12 16:08:50.7345|Error|child thread481
+2012-06-12 16:08:50.7345|Error|main child478
+2012-06-12 16:08:50.7345|Error|child thread482
+2012-06-12 16:08:50.7345|Error|main child479
+2012-06-12 16:08:50.7345|Error|child thread483
+2012-06-12 16:08:50.7345|Error|main child480
+2012-06-12 16:08:50.7345|Error|child thread484
+2012-06-12 16:08:50.7502|Error|main child481
+2012-06-12 16:08:50.7502|Error|child thread485
+2012-06-12 16:08:50.7502|Error|main child482
+2012-06-12 16:08:50.7502|Error|child thread486
+2012-06-12 16:08:50.7502|Error|main child483
+2012-06-12 16:08:50.7502|Error|child thread487
+2012-06-12 16:08:50.7502|Error|main child484
+2012-06-12 16:08:50.7502|Error|child thread488
+2012-06-12 16:08:50.7502|Error|main child485
+2012-06-12 16:08:50.7658|Error|child thread489
+2012-06-12 16:08:50.7658|Error|main child486
+2012-06-12 16:08:50.7658|Error|child thread490
+2012-06-12 16:08:50.7658|Error|main child487
+2012-06-12 16:08:50.7658|Error|child thread491
+2012-06-12 16:08:50.7658|Error|main child488
+2012-06-12 16:08:50.7658|Error|child thread492
+2012-06-12 16:08:50.7658|Error|main child489
+2012-06-12 16:08:50.7658|Error|child thread493
+2012-06-12 16:08:50.7658|Error|main child490
+2012-06-12 16:08:50.7814|Error|child thread494
+2012-06-12 16:08:50.7814|Error|main child491
+2012-06-12 16:08:50.7814|Error|child thread495
+2012-06-12 16:08:50.7814|Error|main child492
+2012-06-12 16:08:50.7814|Error|child thread496
+2012-06-12 16:08:50.7814|Error|main child493
+2012-06-12 16:08:50.7814|Error|child thread497
+2012-06-12 16:08:50.7814|Error|main child494
+2012-06-12 16:08:50.7814|Error|child thread498
+2012-06-12 16:08:50.7814|Error|main child495
+2012-06-12 16:08:50.7814|Error|child thread499
+2012-06-12 16:08:50.7970|Error|main child496
+2012-06-12 16:08:50.7970|Error|child thread500
+2012-06-12 16:08:50.7970|Error|main child497
+2012-06-12 16:08:50.7970|Error|child thread501
+2012-06-12 16:08:50.7970|Error|main child498
+2012-06-12 16:08:50.7970|Error|child thread502
+2012-06-12 16:08:50.7970|Error|main child499
+2012-06-12 16:08:50.7970|Error|child thread503
+2012-06-12 16:08:50.7970|Error|main child500
+2012-06-12 16:08:50.7970|Error|child thread504
+2012-06-12 16:08:50.8127|Error|main child501
+2012-06-12 16:08:50.8127|Error|child thread505
+2012-06-12 16:08:50.8127|Error|main child502
+2012-06-12 16:08:50.8127|Error|child thread506
+2012-06-12 16:08:50.8127|Error|main child503
+2012-06-12 16:08:50.8127|Error|child thread507
+2012-06-12 16:08:50.8127|Error|main child504
+2012-06-12 16:08:50.8127|Error|child thread508
+2012-06-12 16:08:50.8127|Error|main child505
+2012-06-12 16:08:50.8127|Error|child thread509
+2012-06-12 16:08:50.8283|Error|main child506
+2012-06-12 16:08:50.8283|Error|child thread510
+2012-06-12 16:08:50.8283|Error|main child507
+2012-06-12 16:08:50.8283|Error|child thread511
+2012-06-12 16:08:50.8283|Error|main child508
+2012-06-12 16:08:50.8283|Error|child thread512
+2012-06-12 16:08:50.8283|Error|main child509
+2012-06-12 16:08:50.8283|Error|child thread513
+2012-06-12 16:08:50.8283|Error|main child510
+2012-06-12 16:08:50.8439|Error|child thread514
+2012-06-12 16:08:50.8439|Error|main child511
+2012-06-12 16:08:50.8439|Error|child thread515
+2012-06-12 16:08:50.8439|Error|main child512
+2012-06-12 16:08:50.8439|Error|child thread516
+2012-06-12 16:08:50.8439|Error|main child513
+2012-06-12 16:08:50.8439|Error|child thread517
+2012-06-12 16:08:50.8439|Error|main child514
+2012-06-12 16:08:50.8439|Error|child thread518
+2012-06-12 16:08:50.8439|Error|main child515
+2012-06-12 16:08:50.8595|Error|child thread519
+2012-06-12 16:08:50.8595|Error|main child516
+2012-06-12 16:08:50.8595|Error|child thread520
+2012-06-12 16:08:50.8595|Error|main child517
+2012-06-12 16:08:50.8595|Error|child thread521
+2012-06-12 16:08:50.8595|Error|main child518
+2012-06-12 16:08:50.8595|Error|child thread522
+2012-06-12 16:08:50.8595|Error|main child519
+2012-06-12 16:08:50.8595|Error|child thread523
+2012-06-12 16:08:50.8595|Error|main child520
+2012-06-12 16:08:50.8752|Error|child thread524
+2012-06-12 16:08:50.8752|Error|main child521
+2012-06-12 16:08:50.8752|Error|child thread525
+2012-06-12 16:08:50.8752|Error|main child522
+2012-06-12 16:08:50.8752|Error|child thread526
+2012-06-12 16:08:50.8752|Error|main child523
+2012-06-12 16:08:50.8752|Error|child thread527
+2012-06-12 16:08:50.8752|Error|main child524
+2012-06-12 16:08:50.8752|Error|child thread528
+2012-06-12 16:08:50.8752|Error|main child525
+2012-06-12 16:08:50.8908|Error|child thread529
+2012-06-12 16:08:50.8908|Error|main child526
+2012-06-12 16:08:50.8908|Error|child thread530
+2012-06-12 16:08:50.8908|Error|main child527
+2012-06-12 16:08:50.8908|Error|child thread531
+2012-06-12 16:08:50.8908|Error|main child528
+2012-06-12 16:08:50.8908|Error|child thread532
+2012-06-12 16:08:50.8908|Error|main child529
+2012-06-12 16:08:50.8908|Error|child thread533
+2012-06-12 16:08:50.8908|Error|main child530
+2012-06-12 16:08:50.9064|Error|child thread534
+2012-06-12 16:08:50.9064|Error|main child531
+2012-06-12 16:08:50.9064|Error|child thread535
+2012-06-12 16:08:50.9064|Error|main child532
+2012-06-12 16:08:50.9064|Error|child thread536
+2012-06-12 16:08:50.9064|Error|main child533
+2012-06-12 16:08:50.9064|Error|child thread537
+2012-06-12 16:08:50.9064|Error|main child534
+2012-06-12 16:08:50.9064|Error|child thread538
+2012-06-12 16:08:50.9064|Error|main child535
+2012-06-12 16:08:50.9220|Error|child thread539
+2012-06-12 16:08:50.9220|Error|main child536
+2012-06-12 16:08:50.9220|Error|child thread540
+2012-06-12 16:08:50.9220|Error|main child537
+2012-06-12 16:08:50.9220|Error|child thread541
+2012-06-12 16:08:50.9220|Error|main child538
+2012-06-12 16:08:50.9220|Error|child thread542
+2012-06-12 16:08:50.9220|Error|main child539
+2012-06-12 16:08:50.9220|Error|child thread543
+2012-06-12 16:08:50.9220|Error|main child540
+2012-06-12 16:08:50.9377|Error|child thread544
+2012-06-12 16:08:50.9377|Error|main child541
+2012-06-12 16:08:50.9377|Error|child thread545
+2012-06-12 16:08:50.9377|Error|main child542
+2012-06-12 16:08:50.9377|Error|child thread546
+2012-06-12 16:08:50.9377|Error|main child543
+2012-06-12 16:08:50.9377|Error|child thread547
+2012-06-12 16:08:50.9377|Error|main child544
+2012-06-12 16:08:50.9377|Error|child thread548
+2012-06-12 16:08:50.9533|Error|main child545
+2012-06-12 16:08:50.9533|Error|child thread549
+2012-06-12 16:08:50.9533|Error|main child546
+2012-06-12 16:08:50.9533|Error|child thread550
+2012-06-12 16:08:50.9533|Error|main child547
+2012-06-12 16:08:50.9533|Error|child thread551
+2012-06-12 16:08:50.9533|Error|main child548
+2012-06-12 16:08:50.9533|Error|child thread552
+2012-06-12 16:08:50.9533|Error|main child549
+2012-06-12 16:08:50.9689|Error|child thread553
+2012-06-12 16:08:50.9689|Error|main child550
+2012-06-12 16:08:50.9689|Error|child thread554
+2012-06-12 16:08:50.9689|Error|main child551
+2012-06-12 16:08:50.9689|Error|child thread555
+2012-06-12 16:08:50.9689|Error|main child552
+2012-06-12 16:08:50.9689|Error|child thread556
+2012-06-12 16:08:50.9689|Error|main child553
+2012-06-12 16:08:50.9689|Error|child thread557
+2012-06-12 16:08:50.9689|Error|main child554
+2012-06-12 16:08:50.9845|Error|child thread558
+2012-06-12 16:08:50.9845|Error|main child555
+2012-06-12 16:08:50.9845|Error|child thread559
+2012-06-12 16:08:50.9845|Error|main child556
+2012-06-12 16:08:50.9845|Error|child thread560
+2012-06-12 16:08:50.9845|Error|main child557
+2012-06-12 16:08:50.9845|Error|child thread561
+2012-06-12 16:08:50.9845|Error|main child558
+2012-06-12 16:08:50.9845|Error|child thread562
+2012-06-12 16:08:51.0002|Error|main child559
+2012-06-12 16:08:51.0002|Error|child thread563
+2012-06-12 16:08:51.0002|Error|main child560
+2012-06-12 16:08:51.0002|Error|child thread564
+2012-06-12 16:08:51.0002|Error|main child561
+2012-06-12 16:08:51.0002|Error|child thread565
+2012-06-12 16:08:51.0002|Error|main child562
+2012-06-12 16:08:51.0002|Error|child thread566
+2012-06-12 16:08:51.0002|Error|main child563
+2012-06-12 16:08:51.0002|Error|child thread567
+2012-06-12 16:08:51.0158|Error|main child564
+2012-06-12 16:08:51.0158|Error|child thread568
+2012-06-12 16:08:51.0158|Error|main child565
+2012-06-12 16:08:51.0158|Error|child thread569
+2012-06-12 16:08:51.0158|Error|main child566
+2012-06-12 16:08:51.0158|Error|child thread570
+2012-06-12 16:08:51.0158|Error|main child567
+2012-06-12 16:08:51.0158|Error|child thread571
+2012-06-12 16:08:51.0158|Error|main child568
+2012-06-12 16:08:51.0314|Error|child thread572
+2012-06-12 16:08:51.0314|Error|main child569
+2012-06-12 16:08:51.0314|Error|child thread573
+2012-06-12 16:08:51.0314|Error|main child570
+2012-06-12 16:08:51.0314|Error|child thread574
+2012-06-12 16:08:51.0314|Error|main child571
+2012-06-12 16:08:51.0314|Error|child thread575
+2012-06-12 16:08:51.0314|Error|main child572
+2012-06-12 16:08:51.0314|Error|child thread576
+2012-06-12 16:08:51.0314|Error|main child573
+2012-06-12 16:08:51.0470|Error|child thread577
+2012-06-12 16:08:51.0470|Error|main child574
+2012-06-12 16:08:51.0470|Error|child thread578
+2012-06-12 16:08:51.0470|Error|main child575
+2012-06-12 16:08:51.0470|Error|child thread579
+2012-06-12 16:08:51.0470|Error|main child576
+2012-06-12 16:08:51.0470|Error|child thread580
+2012-06-12 16:08:51.0470|Error|main child577
+2012-06-12 16:08:51.0470|Error|child thread581
+2012-06-12 16:08:51.0470|Error|main child578
+2012-06-12 16:08:51.0626|Error|child thread582
+2012-06-12 16:08:51.0626|Error|main child579
+2012-06-12 16:08:51.0626|Error|child thread583
+2012-06-12 16:08:51.0626|Error|main child580
+2012-06-12 16:08:51.0626|Error|child thread584
+2012-06-12 16:08:51.0626|Error|main child581
+2012-06-12 16:08:51.0626|Error|child thread585
+2012-06-12 16:08:51.0626|Error|main child582
+2012-06-12 16:08:51.0783|Error|child thread586
+2012-06-12 16:08:51.0783|Error|main child583
+2012-06-12 16:08:51.0783|Error|child thread587
+2012-06-12 16:08:51.0783|Error|main child584
+2012-06-12 16:08:51.0783|Error|child thread588
+2012-06-12 16:08:51.0783|Error|main child585
+2012-06-12 16:08:51.0783|Error|child thread589
+2012-06-12 16:08:51.0783|Error|main child586
+2012-06-12 16:08:51.0783|Error|child thread590
+2012-06-12 16:08:51.0783|Error|main child587
+2012-06-12 16:08:51.0939|Error|child thread591
+2012-06-12 16:08:51.0939|Error|main child588
+2012-06-12 16:08:51.0939|Error|child thread592
+2012-06-12 16:08:51.0939|Error|main child589
+2012-06-12 16:08:51.0939|Error|child thread593
+2012-06-12 16:08:51.0939|Error|main child590
+2012-06-12 16:08:51.0939|Error|child thread594
+2012-06-12 16:08:51.0939|Error|main child591
+2012-06-12 16:08:51.0939|Error|child thread595
+2012-06-12 16:08:51.1095|Error|main child592
+2012-06-12 16:08:51.1095|Error|child thread596
+2012-06-12 16:08:51.1095|Error|main child593
+2012-06-12 16:08:51.1095|Error|child thread597
+2012-06-12 16:08:51.1095|Error|main child594
+2012-06-12 16:08:51.1095|Error|child thread598
+2012-06-12 16:08:51.1095|Error|main child595
+2012-06-12 16:08:51.1095|Error|child thread599
+2012-06-12 16:08:51.1095|Error|main child596
+2012-06-12 16:08:51.1251|Error|child thread600
+2012-06-12 16:08:51.1251|Error|main child597
+2012-06-12 16:08:51.1251|Error|child thread601
+2012-06-12 16:08:51.1251|Error|main child598
+2012-06-12 16:08:51.1251|Error|child thread602
+2012-06-12 16:08:51.1251|Error|main child599
+2012-06-12 16:08:51.1251|Error|child thread603
+2012-06-12 16:08:51.1251|Error|main child600
+2012-06-12 16:08:51.1251|Error|child thread604
+2012-06-12 16:08:51.1251|Error|main child601
+2012-06-12 16:08:51.1408|Error|child thread605
+2012-06-12 16:08:51.1408|Error|main child602
+2012-06-12 16:08:51.1408|Error|child thread606
+2012-06-12 16:08:51.1408|Error|main child603
+2012-06-12 16:08:51.1408|Error|child thread607
+2012-06-12 16:08:51.1408|Error|main child604
+2012-06-12 16:08:51.1408|Error|child thread608
+2012-06-12 16:08:51.1408|Error|main child605
+2012-06-12 16:08:51.1408|Error|child thread609
+2012-06-12 16:08:51.1408|Error|main child606
+2012-06-12 16:08:51.1564|Error|child thread610
+2012-06-12 16:08:51.1564|Error|main child607
+2012-06-12 16:08:51.1564|Error|child thread611
+2012-06-12 16:08:51.1564|Error|main child608
+2012-06-12 16:08:51.1564|Error|child thread612
+2012-06-12 16:08:51.1564|Error|main child609
+2012-06-12 16:08:51.1564|Error|child thread613
+2012-06-12 16:08:51.1564|Error|main child610
+2012-06-12 16:08:51.1564|Error|child thread614
+2012-06-12 16:08:51.1564|Error|main child611
+2012-06-12 16:08:51.1720|Error|child thread615
+2012-06-12 16:08:51.1720|Error|main child612
+2012-06-12 16:08:51.1720|Error|child thread616
+2012-06-12 16:08:51.1720|Error|main child613
+2012-06-12 16:08:51.1720|Error|child thread617
+2012-06-12 16:08:51.1720|Error|main child614
+2012-06-12 16:08:51.1720|Error|child thread618
+2012-06-12 16:08:51.1720|Error|main child615
+2012-06-12 16:08:51.1720|Error|child thread619
+2012-06-12 16:08:51.1876|Error|main child616
+2012-06-12 16:08:51.1876|Error|child thread620
+2012-06-12 16:08:51.1876|Error|main child617
+2012-06-12 16:08:51.1876|Error|child thread621
+2012-06-12 16:08:51.1876|Error|main child618
+2012-06-12 16:08:51.1876|Error|child thread622
+2012-06-12 16:08:51.1876|Error|main child619
+2012-06-12 16:08:51.1876|Error|child thread623
+2012-06-12 16:08:51.1876|Error|main child620
+2012-06-12 16:08:51.1876|Error|child thread624
+2012-06-12 16:08:51.2033|Error|main child621
+2012-06-12 16:08:51.2033|Error|child thread625
+2012-06-12 16:08:51.2033|Error|main child622
+2012-06-12 16:08:51.2033|Error|child thread626
+2012-06-12 16:08:51.2033|Error|main child623
+2012-06-12 16:08:51.2033|Error|child thread627
+2012-06-12 16:08:51.2033|Error|main child624
+2012-06-12 16:08:51.2033|Error|child thread628
+2012-06-12 16:08:51.2033|Error|main child625
+2012-06-12 16:08:51.2033|Error|child thread629
+2012-06-12 16:08:51.2189|Error|main child626
+2012-06-12 16:08:51.2189|Error|child thread630
+2012-06-12 16:08:51.2189|Error|main child627
+2012-06-12 16:08:51.2189|Error|child thread631
+2012-06-12 16:08:51.2189|Error|main child628
+2012-06-12 16:08:51.2189|Error|child thread632
+2012-06-12 16:08:51.2189|Error|main child629
+2012-06-12 16:08:51.2189|Error|child thread633
+2012-06-12 16:08:51.2189|Error|main child630
+2012-06-12 16:08:51.2189|Error|child thread634
+2012-06-12 16:08:51.2345|Error|main child631
+2012-06-12 16:08:51.2345|Error|child thread635
+2012-06-12 16:08:51.2345|Error|main child632
+2012-06-12 16:08:51.2345|Error|child thread636
+2012-06-12 16:08:51.2345|Error|main child633
+2012-06-12 16:08:51.2345|Error|child thread637
+2012-06-12 16:08:51.2345|Error|main child634
+2012-06-12 16:08:51.2345|Error|child thread638
+2012-06-12 16:08:51.2345|Error|main child635
+2012-06-12 16:08:51.2345|Error|child thread639
+2012-06-12 16:08:51.2501|Error|main child636
+2012-06-12 16:08:51.2501|Error|child thread640
+2012-06-12 16:08:51.2501|Error|main child637
+2012-06-12 16:08:51.2501|Error|child thread641
+2012-06-12 16:08:51.2501|Error|main child638
+2012-06-12 16:08:51.2501|Error|child thread642
+2012-06-12 16:08:51.2501|Error|main child639
+2012-06-12 16:08:51.2501|Error|child thread643
+2012-06-12 16:08:51.2501|Error|main child640
+2012-06-12 16:08:51.2501|Error|child thread644
+2012-06-12 16:08:51.2658|Error|main child641
+2012-06-12 16:08:51.2658|Error|child thread645
+2012-06-12 16:08:51.2658|Error|main child642
+2012-06-12 16:08:51.2658|Error|child thread646
+2012-06-12 16:08:51.2658|Error|main child643
+2012-06-12 16:08:51.2658|Error|child thread647
+2012-06-12 16:08:51.2658|Error|main child644
+2012-06-12 16:08:51.2658|Error|child thread648
+2012-06-12 16:08:51.2658|Error|main child645
+2012-06-12 16:08:51.2658|Error|child thread649
+2012-06-12 16:08:51.2814|Error|main child646
+2012-06-12 16:08:51.2814|Error|child thread650
+2012-06-12 16:08:51.2814|Error|main child647
+2012-06-12 16:08:51.2814|Error|child thread651
+2012-06-12 16:08:51.2814|Error|main child648
+2012-06-12 16:08:51.2814|Error|child thread652
+2012-06-12 16:08:51.2814|Error|main child649
+2012-06-12 16:08:51.2814|Error|child thread653
+2012-06-12 16:08:51.2814|Error|main child650
+2012-06-12 16:08:51.2814|Error|child thread654
+2012-06-12 16:08:51.2970|Error|main child651
+2012-06-12 16:08:51.2970|Error|child thread655
+2012-06-12 16:08:51.2970|Error|main child652
+2012-06-12 16:08:51.2970|Error|child thread656
+2012-06-12 16:08:51.2970|Error|main child653
+2012-06-12 16:08:51.2970|Error|child thread657
+2012-06-12 16:08:51.2970|Error|main child654
+2012-06-12 16:08:51.2970|Error|child thread658
+2012-06-12 16:08:51.2970|Error|main child655
+2012-06-12 16:08:51.3126|Error|child thread659
+2012-06-12 16:08:51.3126|Error|main child656
+2012-06-12 16:08:51.3126|Error|child thread660
+2012-06-12 16:08:51.3126|Error|main child657
+2012-06-12 16:08:51.3126|Error|child thread661
+2012-06-12 16:08:51.3126|Error|main child658
+2012-06-12 16:08:51.3126|Error|child thread662
+2012-06-12 16:08:51.3126|Error|main child659
+2012-06-12 16:08:51.3126|Error|child thread663
+2012-06-12 16:08:51.3126|Error|main child660
+2012-06-12 16:08:51.3282|Error|child thread664
+2012-06-12 16:08:51.3282|Error|main child661
+2012-06-12 16:08:51.3282|Error|child thread665
+2012-06-12 16:08:51.3282|Error|main child662
+2012-06-12 16:08:51.3282|Error|child thread666
+2012-06-12 16:08:51.3282|Error|main child663
+2012-06-12 16:08:51.3282|Error|child thread667
+2012-06-12 16:08:51.3282|Error|main child664
+2012-06-12 16:08:51.3282|Error|child thread668
+2012-06-12 16:08:51.3282|Error|main child665
+2012-06-12 16:08:51.3282|Error|child thread669
+2012-06-12 16:08:51.3439|Error|main child666
+2012-06-12 16:08:51.3439|Error|child thread670
+2012-06-12 16:08:51.3439|Error|main child667
+2012-06-12 16:08:51.3439|Error|child thread671
+2012-06-12 16:08:51.3439|Error|main child668
+2012-06-12 16:08:51.3439|Error|child thread672
+2012-06-12 16:08:51.3439|Error|main child669
+2012-06-12 16:08:51.3439|Error|child thread673
+2012-06-12 16:08:51.3439|Error|main child670
+2012-06-12 16:08:51.3439|Error|child thread674
+2012-06-12 16:08:51.3595|Error|main child671
+2012-06-12 16:08:51.3595|Error|child thread675
+2012-06-12 16:08:51.3595|Error|main child672
+2012-06-12 16:08:51.3595|Error|child thread676
+2012-06-12 16:08:51.3595|Error|main child673
+2012-06-12 16:08:51.3595|Error|child thread677
+2012-06-12 16:08:51.3595|Error|main child674
+2012-06-12 16:08:51.3595|Error|child thread678
+2012-06-12 16:08:51.3595|Error|main child675
+2012-06-12 16:08:51.3595|Error|child thread679
+2012-06-12 16:08:51.3751|Error|main child676
+2012-06-12 16:08:51.3751|Error|child thread680
+2012-06-12 16:08:51.3751|Error|main child677
+2012-06-12 16:08:51.3751|Error|child thread681
+2012-06-12 16:08:51.3751|Error|main child678
+2012-06-12 16:08:51.3751|Error|child thread682
+2012-06-12 16:08:51.3751|Error|main child679
+2012-06-12 16:08:51.3751|Error|child thread683
+2012-06-12 16:08:51.3751|Error|main child680
+2012-06-12 16:08:51.3751|Error|child thread684
+2012-06-12 16:08:51.3907|Error|main child681
+2012-06-12 16:08:51.3907|Error|child thread685
+2012-06-12 16:08:51.3907|Error|main child682
+2012-06-12 16:08:51.3907|Error|child thread686
+2012-06-12 16:08:51.3907|Error|main child683
+2012-06-12 16:08:51.3907|Error|child thread687
+2012-06-12 16:08:51.3907|Error|main child684
+2012-06-12 16:08:51.3907|Error|child thread688
+2012-06-12 16:08:51.3907|Error|main child685
+2012-06-12 16:08:51.4064|Error|child thread689
+2012-06-12 16:08:51.4064|Error|main child686
+2012-06-12 16:08:51.4064|Error|child thread690
+2012-06-12 16:08:51.4064|Error|main child687
+2012-06-12 16:08:51.4064|Error|child thread691
+2012-06-12 16:08:51.4064|Error|main child688
+2012-06-12 16:08:51.4064|Error|child thread692
+2012-06-12 16:08:51.4064|Error|main child689
+2012-06-12 16:08:51.4064|Error|child thread693
+2012-06-12 16:08:51.4064|Error|main child690
+2012-06-12 16:08:51.4220|Error|child thread694
+2012-06-12 16:08:51.4220|Error|main child691
+2012-06-12 16:08:51.4220|Error|child thread695
+2012-06-12 16:08:51.4220|Error|main child692
+2012-06-12 16:08:51.4220|Error|child thread696
+2012-06-12 16:08:51.4220|Error|main child693
+2012-06-12 16:08:51.4220|Error|child thread697
+2012-06-12 16:08:51.4220|Error|main child694
+2012-06-12 16:08:51.4220|Error|child thread698
+2012-06-12 16:08:51.4220|Error|main child695
+2012-06-12 16:08:51.4376|Error|child thread699
+2012-06-12 16:08:51.4376|Error|main child696
+2012-06-12 16:08:51.4376|Error|child thread700
+2012-06-12 16:08:51.4376|Error|main child697
+2012-06-12 16:08:51.4376|Error|child thread701
+2012-06-12 16:08:51.4376|Error|main child698
+2012-06-12 16:08:51.4376|Error|child thread702
+2012-06-12 16:08:51.4376|Error|main child699
+2012-06-12 16:08:51.4376|Error|child thread703
+2012-06-12 16:08:51.4376|Error|main child700
+2012-06-12 16:08:51.4376|Error|child thread704
+2012-06-12 16:08:51.4532|Error|main child701
+2012-06-12 16:08:51.4532|Error|child thread705
+2012-06-12 16:08:51.4532|Error|main child702
+2012-06-12 16:08:51.4532|Error|child thread706
+2012-06-12 16:08:51.4532|Error|main child703
+2012-06-12 16:08:51.4532|Error|child thread707
+2012-06-12 16:08:51.4532|Error|main child704
+2012-06-12 16:08:51.4532|Error|child thread708
+2012-06-12 16:08:51.4532|Error|main child705
+2012-06-12 16:08:51.4532|Error|child thread709
+2012-06-12 16:08:51.4689|Error|main child706
+2012-06-12 16:08:51.4689|Error|child thread710
+2012-06-12 16:08:51.4689|Error|main child707
+2012-06-12 16:08:51.4689|Error|child thread711
+2012-06-12 16:08:51.4689|Error|main child708
+2012-06-12 16:08:51.4689|Error|child thread712
+2012-06-12 16:08:51.4689|Error|main child709
+2012-06-12 16:08:51.4689|Error|child thread713
+2012-06-12 16:08:51.4689|Error|main child710
+2012-06-12 16:08:51.4845|Error|child thread714
+2012-06-12 16:08:51.4845|Error|main child711
+2012-06-12 16:08:51.4845|Error|child thread715
+2012-06-12 16:08:51.4845|Error|main child712
+2012-06-12 16:08:51.4845|Error|child thread716
+2012-06-12 16:08:51.4845|Error|main child713
+2012-06-12 16:08:51.4845|Error|child thread717
+2012-06-12 16:08:51.4845|Error|main child714
+2012-06-12 16:08:51.4845|Error|child thread718
+2012-06-12 16:08:51.4845|Error|main child715
+2012-06-12 16:08:51.5001|Error|child thread719
+2012-06-12 16:08:51.5001|Error|main child716
+2012-06-12 16:08:51.5001|Error|child thread720
+2012-06-12 16:08:51.5001|Error|main child717
+2012-06-12 16:08:51.5001|Error|child thread721
+2012-06-12 16:08:51.5001|Error|main child718
+2012-06-12 16:08:51.5001|Error|child thread722
+2012-06-12 16:08:51.5001|Error|main child719
+2012-06-12 16:08:51.5001|Error|child thread723
+2012-06-12 16:08:51.5001|Error|main child720
+2012-06-12 16:08:51.5157|Error|child thread724
+2012-06-12 16:08:51.5157|Error|main child721
+2012-06-12 16:08:51.5157|Error|child thread725
+2012-06-12 16:08:51.5157|Error|main child722
+2012-06-12 16:08:51.5157|Error|child thread726
+2012-06-12 16:08:51.5157|Error|main child723
+2012-06-12 16:08:51.5157|Error|child thread727
+2012-06-12 16:08:51.5157|Error|main child724
+2012-06-12 16:08:51.5157|Error|child thread728
+2012-06-12 16:08:51.5157|Error|main child725
+2012-06-12 16:08:51.5314|Error|child thread729
+2012-06-12 16:08:51.5314|Error|main child726
+2012-06-12 16:08:51.5314|Error|child thread730
+2012-06-12 16:08:51.5314|Error|main child727
+2012-06-12 16:08:51.5314|Error|child thread731
+2012-06-12 16:08:51.5314|Error|main child728
+2012-06-12 16:08:51.5314|Error|child thread732
+2012-06-12 16:08:51.5314|Error|main child729
+2012-06-12 16:08:51.5314|Error|child thread733
+2012-06-12 16:08:51.5314|Error|main child730
+2012-06-12 16:08:51.5470|Error|child thread734
+2012-06-12 16:08:51.5470|Error|main child731
+2012-06-12 16:08:51.5470|Error|child thread735
+2012-06-12 16:08:51.5470|Error|main child732
+2012-06-12 16:08:51.5470|Error|child thread736
+2012-06-12 16:08:51.5470|Error|main child733
+2012-06-12 16:08:51.5470|Error|child thread737
+2012-06-12 16:08:51.5470|Error|main child734
+2012-06-12 16:08:51.5470|Error|child thread738
+2012-06-12 16:08:51.5470|Error|main child735
+2012-06-12 16:08:51.5626|Error|child thread739
+2012-06-12 16:08:51.5626|Error|main child736
+2012-06-12 16:08:51.5626|Error|child thread740
+2012-06-12 16:08:51.5626|Error|main child737
+2012-06-12 16:08:51.5626|Error|child thread741
+2012-06-12 16:08:51.5626|Error|main child738
+2012-06-12 16:08:51.5626|Error|child thread742
+2012-06-12 16:08:51.5626|Error|main child739
+2012-06-12 16:08:51.5626|Error|child thread743
+2012-06-12 16:08:51.5626|Error|main child740
+2012-06-12 16:08:51.5782|Error|child thread744
+2012-06-12 16:08:51.5782|Error|main child741
+2012-06-12 16:08:51.5782|Error|child thread745
+2012-06-12 16:08:51.5782|Error|main child742
+2012-06-12 16:08:51.5782|Error|child thread746
+2012-06-12 16:08:51.5782|Error|main child743
+2012-06-12 16:08:51.5782|Error|child thread747
+2012-06-12 16:08:51.5782|Error|main child744
+2012-06-12 16:08:51.5782|Error|child thread748
+2012-06-12 16:08:51.5939|Error|main child745
+2012-06-12 16:08:51.5939|Error|child thread749
+2012-06-12 16:08:51.5939|Error|main child746
+2012-06-12 16:08:51.5939|Error|child thread750
+2012-06-12 16:08:51.5939|Error|main child747
+2012-06-12 16:08:51.5939|Error|child thread751
+2012-06-12 16:08:51.5939|Error|main child748
+2012-06-12 16:08:51.5939|Error|child thread752
+2012-06-12 16:08:51.5939|Error|main child749
+2012-06-12 16:08:51.5939|Error|child thread753
+2012-06-12 16:08:51.6095|Error|main child750
+2012-06-12 16:08:51.6095|Error|child thread754
+2012-06-12 16:08:51.6095|Error|main child751
+2012-06-12 16:08:51.6095|Error|child thread755
+2012-06-12 16:08:51.6095|Error|main child752
+2012-06-12 16:08:51.6095|Error|child thread756
+2012-06-12 16:08:51.6095|Error|main child753
+2012-06-12 16:08:51.6095|Error|child thread757
+2012-06-12 16:08:51.6095|Error|main child754
+2012-06-12 16:08:51.6095|Error|child thread758
+2012-06-12 16:08:51.6095|Error|main child755
+2012-06-12 16:08:51.6251|Error|child thread759
+2012-06-12 16:08:51.6251|Error|main child756
+2012-06-12 16:08:51.6251|Error|child thread760
+2012-06-12 16:08:51.6251|Error|main child757
+2012-06-12 16:08:51.6251|Error|child thread761
+2012-06-12 16:08:51.6251|Error|main child758
+2012-06-12 16:08:51.6251|Error|child thread762
+2012-06-12 16:08:51.6251|Error|main child759
+2012-06-12 16:08:51.6251|Error|child thread763
+2012-06-12 16:08:51.6407|Error|main child760
+2012-06-12 16:08:51.6407|Error|child thread764
+2012-06-12 16:08:51.6407|Error|main child761
+2012-06-12 16:08:51.6407|Error|child thread765
+2012-06-12 16:08:51.6407|Error|main child762
+2012-06-12 16:08:51.6407|Error|child thread766
+2012-06-12 16:08:51.6407|Error|main child763
+2012-06-12 16:08:51.6407|Error|child thread767
+2012-06-12 16:08:51.6407|Error|main child764
+2012-06-12 16:08:51.6407|Error|child thread768
+2012-06-12 16:08:51.6407|Error|main child765
+2012-06-12 16:08:51.6563|Error|child thread769
+2012-06-12 16:08:51.6563|Error|main child766
+2012-06-12 16:08:51.6563|Error|child thread770
+2012-06-12 16:08:51.6563|Error|main child767
+2012-06-12 16:08:51.6563|Error|child thread771
+2012-06-12 16:08:51.6563|Error|main child768
+2012-06-12 16:08:51.6563|Error|child thread772
+2012-06-12 16:08:51.6563|Error|main child769
+2012-06-12 16:08:51.6563|Error|child thread773
+2012-06-12 16:08:51.6720|Error|main child770
+2012-06-12 16:08:51.6720|Error|child thread774
+2012-06-12 16:08:51.6720|Error|main child771
+2012-06-12 16:08:51.6720|Error|child thread775
+2012-06-12 16:08:51.6720|Error|main child772
+2012-06-12 16:08:51.6720|Error|child thread776
+2012-06-12 16:08:51.6720|Error|main child773
+2012-06-12 16:08:51.6720|Error|child thread777
+2012-06-12 16:08:51.6720|Error|main child774
+2012-06-12 16:08:51.6720|Error|child thread778
+2012-06-12 16:08:51.6876|Error|main child775
+2012-06-12 16:08:51.6876|Error|child thread779
+2012-06-12 16:08:51.6876|Error|main child776
+2012-06-12 16:08:51.6876|Error|child thread780
+2012-06-12 16:08:51.6876|Error|main child777
+2012-06-12 16:08:51.6876|Error|child thread781
+2012-06-12 16:08:51.6876|Error|main child778
+2012-06-12 16:08:51.6876|Error|child thread782
+2012-06-12 16:08:51.6876|Error|main child779
+2012-06-12 16:08:51.6876|Error|child thread783
+2012-06-12 16:08:51.7032|Error|main child780
+2012-06-12 16:08:51.7032|Error|child thread784
+2012-06-12 16:08:51.7032|Error|main child781
+2012-06-12 16:08:51.7032|Error|child thread785
+2012-06-12 16:08:51.7032|Error|main child782
+2012-06-12 16:08:51.7032|Error|child thread786
+2012-06-12 16:08:51.7032|Error|main child783
+2012-06-12 16:08:51.7032|Error|child thread787
+2012-06-12 16:08:51.7032|Error|main child784
+2012-06-12 16:08:51.7032|Error|child thread788
+2012-06-12 16:08:51.7188|Error|main child785
+2012-06-12 16:08:51.7188|Error|child thread789
+2012-06-12 16:08:51.7188|Error|main child786
+2012-06-12 16:08:51.7188|Error|child thread790
+2012-06-12 16:08:51.7188|Error|main child787
+2012-06-12 16:08:51.7188|Error|child thread791
+2012-06-12 16:08:51.7188|Error|main child788
+2012-06-12 16:08:51.7188|Error|child thread792
+2012-06-12 16:08:51.7188|Error|main child789
+2012-06-12 16:08:51.7345|Error|child thread793
+2012-06-12 16:08:51.7345|Error|main child790
+2012-06-12 16:08:51.7345|Error|child thread794
+2012-06-12 16:08:51.7345|Error|main child791
+2012-06-12 16:08:51.7345|Error|child thread795
+2012-06-12 16:08:51.7345|Error|main child792
+2012-06-12 16:08:51.7345|Error|child thread796
+2012-06-12 16:08:51.7345|Error|main child793
+2012-06-12 16:08:51.7345|Error|child thread797
+2012-06-12 16:08:51.7345|Error|main child794
+2012-06-12 16:08:51.7501|Error|child thread798
+2012-06-12 16:08:51.7501|Error|main child795
+2012-06-12 16:08:51.7501|Error|child thread799
+2012-06-12 16:08:51.7501|Error|main child796
+2012-06-12 16:08:51.7501|Error|child thread800
+2012-06-12 16:08:51.7501|Error|main child797
+2012-06-12 16:08:51.7501|Error|child thread801
+2012-06-12 16:08:51.7501|Error|main child798
+2012-06-12 16:08:51.7501|Error|child thread802
+2012-06-12 16:08:51.7501|Error|main child799
+2012-06-12 16:08:51.7657|Error|child thread803
+2012-06-12 16:08:51.7657|Error|main child800
+2012-06-12 16:08:51.7657|Error|child thread804
+2012-06-12 16:08:51.7657|Error|main child801
+2012-06-12 16:08:51.7657|Error|child thread805
+2012-06-12 16:08:51.7657|Error|main child802
+2012-06-12 16:08:51.7657|Error|child thread806
+2012-06-12 16:08:51.7657|Error|main child803
+2012-06-12 16:08:51.7657|Error|child thread807
+2012-06-12 16:08:51.7657|Error|main child804
+2012-06-12 16:08:51.7657|Error|child thread808
+2012-06-12 16:08:51.7813|Error|main child805
+2012-06-12 16:08:51.7813|Error|child thread809
+2012-06-12 16:08:51.7813|Error|main child806
+2012-06-12 16:08:51.7813|Error|child thread810
+2012-06-12 16:08:51.7813|Error|main child807
+2012-06-12 16:08:51.7813|Error|child thread811
+2012-06-12 16:08:51.7813|Error|main child808
+2012-06-12 16:08:51.7813|Error|child thread812
+2012-06-12 16:08:51.7813|Error|main child809
+2012-06-12 16:08:51.7813|Error|child thread813
+2012-06-12 16:08:51.7970|Error|main child810
+2012-06-12 16:08:51.7970|Error|child thread814
+2012-06-12 16:08:51.7970|Error|main child811
+2012-06-12 16:08:51.7970|Error|child thread815
+2012-06-12 16:08:51.7970|Error|main child812
+2012-06-12 16:08:51.7970|Error|child thread816
+2012-06-12 16:08:51.7970|Error|main child813
+2012-06-12 16:08:51.7970|Error|child thread817
+2012-06-12 16:08:51.7970|Error|main child814
+2012-06-12 16:08:51.8126|Error|child thread818
+2012-06-12 16:08:51.8126|Error|main child815
+2012-06-12 16:08:51.8126|Error|child thread819
+2012-06-12 16:08:51.8126|Error|main child816
+2012-06-12 16:08:51.8126|Error|child thread820
+2012-06-12 16:08:51.8126|Error|main child817
+2012-06-12 16:08:51.8126|Error|child thread821
+2012-06-12 16:08:51.8126|Error|main child818
+2012-06-12 16:08:51.8126|Error|child thread822
+2012-06-12 16:08:51.8126|Error|main child819
+2012-06-12 16:08:51.8282|Error|child thread823
+2012-06-12 16:08:51.8282|Error|main child820
+2012-06-12 16:08:51.8282|Error|child thread824
+2012-06-12 16:08:51.8282|Error|main child821
+2012-06-12 16:08:51.8282|Error|child thread825
+2012-06-12 16:08:51.8282|Error|main child822
+2012-06-12 16:08:51.8282|Error|child thread826
+2012-06-12 16:08:51.8282|Error|main child823
+2012-06-12 16:08:51.8282|Error|child thread827
+2012-06-12 16:08:51.8282|Error|main child824
+2012-06-12 16:08:51.8438|Error|child thread828
+2012-06-12 16:08:51.8438|Error|main child825
+2012-06-12 16:08:51.8438|Error|child thread829
+2012-06-12 16:08:51.8438|Error|main child826
+2012-06-12 16:08:51.8438|Error|child thread830
+2012-06-12 16:08:51.8438|Error|main child827
+2012-06-12 16:08:51.8438|Error|child thread831
+2012-06-12 16:08:51.8438|Error|main child828
+2012-06-12 16:08:51.8438|Error|child thread832
+2012-06-12 16:08:51.8438|Error|main child829
+2012-06-12 16:08:51.8438|Error|child thread833
+2012-06-12 16:08:51.8595|Error|main child830
+2012-06-12 16:08:51.8595|Error|child thread834
+2012-06-12 16:08:51.8595|Error|main child831
+2012-06-12 16:08:51.8595|Error|child thread835
+2012-06-12 16:08:51.8595|Error|main child832
+2012-06-12 16:08:51.8595|Error|child thread836
+2012-06-12 16:08:51.8595|Error|main child833
+2012-06-12 16:08:51.8595|Error|child thread837
+2012-06-12 16:08:51.8595|Error|main child834
+2012-06-12 16:08:51.8595|Error|child thread838
+2012-06-12 16:08:51.8751|Error|main child835
+2012-06-12 16:08:51.8751|Error|child thread839
+2012-06-12 16:08:51.8751|Error|main child836
+2012-06-12 16:08:51.8751|Error|child thread840
+2012-06-12 16:08:51.8751|Error|main child837
+2012-06-12 16:08:51.8751|Error|child thread841
+2012-06-12 16:08:51.8751|Error|main child838
+2012-06-12 16:08:51.8751|Error|child thread842
+2012-06-12 16:08:51.8751|Error|main child839
+2012-06-12 16:08:51.8751|Error|child thread843
+2012-06-12 16:08:51.8907|Error|main child840
+2012-06-12 16:08:51.8907|Error|child thread844
+2012-06-12 16:08:51.8907|Error|main child841
+2012-06-12 16:08:51.8907|Error|child thread845
+2012-06-12 16:08:51.8907|Error|main child842
+2012-06-12 16:08:51.8907|Error|child thread846
+2012-06-12 16:08:51.8907|Error|main child843
+2012-06-12 16:08:51.8907|Error|child thread847
+2012-06-12 16:08:51.8907|Error|main child844
+2012-06-12 16:08:51.8907|Error|child thread848
+2012-06-12 16:08:51.9063|Error|main child845
+2012-06-12 16:08:51.9063|Error|child thread849
+2012-06-12 16:08:51.9063|Error|main child846
+2012-06-12 16:08:51.9063|Error|child thread850
+2012-06-12 16:08:51.9063|Error|main child847
+2012-06-12 16:08:51.9063|Error|child thread851
+2012-06-12 16:08:51.9063|Error|main child848
+2012-06-12 16:08:51.9063|Error|child thread852
+2012-06-12 16:08:51.9063|Error|main child849
+2012-06-12 16:08:51.9220|Error|child thread853
+2012-06-12 16:08:51.9220|Error|main child850
+2012-06-12 16:08:51.9220|Error|child thread854
+2012-06-12 16:08:51.9220|Error|main child851
+2012-06-12 16:08:51.9220|Error|child thread855
+2012-06-12 16:08:51.9220|Error|main child852
+2012-06-12 16:08:51.9220|Error|child thread856
+2012-06-12 16:08:51.9220|Error|main child853
+2012-06-12 16:08:51.9220|Error|child thread857
+2012-06-12 16:08:51.9220|Error|main child854
+2012-06-12 16:08:51.9376|Error|child thread858
+2012-06-12 16:08:51.9376|Error|main child855
+2012-06-12 16:08:51.9376|Error|child thread859
+2012-06-12 16:08:51.9376|Error|main child856
+2012-06-12 16:08:51.9376|Error|child thread860
+2012-06-12 16:08:51.9376|Error|main child857
+2012-06-12 16:08:51.9376|Error|child thread861
+2012-06-12 16:08:51.9376|Error|main child858
+2012-06-12 16:08:51.9376|Error|child thread862
+2012-06-12 16:08:51.9376|Error|main child859
+2012-06-12 16:08:51.9532|Error|child thread863
+2012-06-12 16:08:51.9532|Error|main child860
+2012-06-12 16:08:51.9532|Error|child thread864
+2012-06-12 16:08:51.9532|Error|main child861
+2012-06-12 16:08:51.9532|Error|child thread865
+2012-06-12 16:08:51.9532|Error|main child862
+2012-06-12 16:08:51.9532|Error|child thread866
+2012-06-12 16:08:51.9532|Error|main child863
+2012-06-12 16:08:51.9532|Error|child thread867
+2012-06-12 16:08:51.9688|Error|main child864
+2012-06-12 16:08:51.9688|Error|child thread868
+2012-06-12 16:08:51.9688|Error|main child865
+2012-06-12 16:08:51.9688|Error|child thread869
+2012-06-12 16:08:51.9688|Error|main child866
+2012-06-12 16:08:51.9688|Error|child thread870
+2012-06-12 16:08:51.9688|Error|main child867
+2012-06-12 16:08:51.9688|Error|child thread871
+2012-06-12 16:08:51.9688|Error|main child868
+2012-06-12 16:08:51.9688|Error|child thread872
+2012-06-12 16:08:51.9844|Error|main child869
+2012-06-12 16:08:51.9844|Error|child thread873
+2012-06-12 16:08:51.9844|Error|main child870
+2012-06-12 16:08:51.9844|Error|child thread874
+2012-06-12 16:08:51.9844|Error|main child871
+2012-06-12 16:08:51.9844|Error|child thread875
+2012-06-12 16:08:51.9844|Error|main child872
+2012-06-12 16:08:51.9844|Error|child thread876
+2012-06-12 16:08:51.9844|Error|main child873
+2012-06-12 16:08:51.9844|Error|child thread877
+2012-06-12 16:08:52.0001|Error|main child874
+2012-06-12 16:08:52.0001|Error|child thread878
+2012-06-12 16:08:52.0001|Error|main child875
+2012-06-12 16:08:52.0001|Error|child thread879
+2012-06-12 16:08:52.0001|Error|main child876
+2012-06-12 16:08:52.0001|Error|child thread880
+2012-06-12 16:08:52.0001|Error|main child877
+2012-06-12 16:08:52.0001|Error|child thread881
+2012-06-12 16:08:52.0001|Error|main child878
+2012-06-12 16:08:52.0001|Error|child thread882
+2012-06-12 16:08:52.0157|Error|main child879
+2012-06-12 16:08:52.0157|Error|child thread883
+2012-06-12 16:08:52.0157|Error|main child880
+2012-06-12 16:08:52.0157|Error|child thread884
+2012-06-12 16:08:52.0157|Error|main child881
+2012-06-12 16:08:52.0157|Error|child thread885
+2012-06-12 16:08:52.0157|Error|main child882
+2012-06-12 16:08:52.0157|Error|child thread886
+2012-06-12 16:08:52.0157|Error|main child883
+2012-06-12 16:08:52.0157|Error|child thread887
+2012-06-12 16:08:52.0157|Error|main child884
+2012-06-12 16:08:52.0313|Error|child thread888
+2012-06-12 16:08:52.0313|Error|main child885
+2012-06-12 16:08:52.0313|Error|child thread889
+2012-06-12 16:08:52.0313|Error|main child886
+2012-06-12 16:08:52.0313|Error|child thread890
+2012-06-12 16:08:52.0313|Error|main child887
+2012-06-12 16:08:52.0313|Error|child thread891
+2012-06-12 16:08:52.0313|Error|main child888
+2012-06-12 16:08:52.0313|Error|child thread892
+2012-06-12 16:08:52.0313|Error|main child889
+2012-06-12 16:08:52.0469|Error|child thread893
+2012-06-12 16:08:52.0469|Error|main child890
+2012-06-12 16:08:52.0469|Error|child thread894
+2012-06-12 16:08:52.0469|Error|main child891
+2012-06-12 16:08:52.0469|Error|child thread895
+2012-06-12 16:08:52.0469|Error|main child892
+2012-06-12 16:08:52.0469|Error|child thread896
+2012-06-12 16:08:52.0469|Error|main child893
+2012-06-12 16:08:52.0469|Error|child thread897
+2012-06-12 16:08:52.0469|Error|main child894
+2012-06-12 16:08:52.0626|Error|child thread898
+2012-06-12 16:08:52.0626|Error|main child895
+2012-06-12 16:08:52.0626|Error|child thread899
+2012-06-12 16:08:52.0626|Error|main child896
+2012-06-12 16:08:52.0626|Error|child thread900
+2012-06-12 16:08:52.0626|Error|main child897
+2012-06-12 16:08:52.0626|Error|child thread901
+2012-06-12 16:08:52.0626|Error|main child898
+2012-06-12 16:08:52.0626|Error|child thread902
+2012-06-12 16:08:52.0626|Error|main child899
+2012-06-12 16:08:52.0782|Error|child thread903
+2012-06-12 16:08:52.0782|Error|main child900
+2012-06-12 16:08:52.0782|Error|child thread904
+2012-06-12 16:08:52.0782|Error|main child901
+2012-06-12 16:08:52.0782|Error|child thread905
+2012-06-12 16:08:52.0782|Error|main child902
+2012-06-12 16:08:52.0782|Error|child thread906
+2012-06-12 16:08:52.0782|Error|main child903
+2012-06-12 16:08:52.0782|Error|child thread907
+2012-06-12 16:08:52.0782|Error|main child904
+2012-06-12 16:08:52.0782|Error|child thread908
+2012-06-12 16:08:52.0938|Error|main child905
+2012-06-12 16:08:52.0938|Error|child thread909
+2012-06-12 16:08:52.0938|Error|main child906
+2012-06-12 16:08:52.0938|Error|child thread910
+2012-06-12 16:08:52.0938|Error|main child907
+2012-06-12 16:08:52.0938|Error|child thread911
+2012-06-12 16:08:52.0938|Error|main child908
+2012-06-12 16:08:52.0938|Error|child thread912
+2012-06-12 16:08:52.0938|Error|main child909
+2012-06-12 16:08:52.0938|Error|child thread913
+2012-06-12 16:08:52.1094|Error|main child910
+2012-06-12 16:08:52.1094|Error|child thread914
+2012-06-12 16:08:52.1094|Error|main child911
+2012-06-12 16:08:52.1094|Error|child thread915
+2012-06-12 16:08:52.1094|Error|main child912
+2012-06-12 16:08:52.1094|Error|child thread916
+2012-06-12 16:08:52.1094|Error|main child913
+2012-06-12 16:08:52.1094|Error|child thread917
+2012-06-12 16:08:52.1094|Error|main child914
+2012-06-12 16:08:52.1094|Error|child thread918
+2012-06-12 16:08:52.1251|Error|main child915
+2012-06-12 16:08:52.1251|Error|child thread919
+2012-06-12 16:08:52.1251|Error|main child916
+2012-06-12 16:08:52.1251|Error|child thread920
+2012-06-12 16:08:52.1251|Error|main child917
+2012-06-12 16:08:52.1251|Error|child thread921
+2012-06-12 16:08:52.1251|Error|main child918
+2012-06-12 16:08:52.1251|Error|child thread922
+2012-06-12 16:08:52.1251|Error|main child919
+2012-06-12 16:08:52.1251|Error|child thread923
+2012-06-12 16:08:52.1407|Error|main child920
+2012-06-12 16:08:52.1407|Error|child thread924
+2012-06-12 16:08:52.1407|Error|main child921
+2012-06-12 16:08:52.1407|Error|child thread925
+2012-06-12 16:08:52.1407|Error|main child922
+2012-06-12 16:08:52.1407|Error|child thread926
+2012-06-12 16:08:52.1407|Error|main child923
+2012-06-12 16:08:52.1407|Error|child thread927
+2012-06-12 16:08:52.1407|Error|main child924
+2012-06-12 16:08:52.1563|Error|child thread928
+2012-06-12 16:08:52.1563|Error|main child925
+2012-06-12 16:08:52.1563|Error|child thread929
+2012-06-12 16:08:52.1563|Error|main child926
+2012-06-12 16:08:52.1563|Error|child thread930
+2012-06-12 16:08:52.1563|Error|main child927
+2012-06-12 16:08:52.1563|Error|child thread931
+2012-06-12 16:08:52.1563|Error|main child928
+2012-06-12 16:08:52.1563|Error|child thread932
+2012-06-12 16:08:52.1563|Error|main child929
+2012-06-12 16:08:52.1563|Error|child thread933
+2012-06-12 16:08:52.1719|Error|main child930
+2012-06-12 16:08:52.1719|Error|child thread934
+2012-06-12 16:08:52.1719|Error|main child931
+2012-06-12 16:08:52.1719|Error|child thread935
+2012-06-12 16:08:52.1719|Error|main child932
+2012-06-12 16:08:52.1719|Error|child thread936
+2012-06-12 16:08:52.1719|Error|main child933
+2012-06-12 16:08:52.1719|Error|child thread937
+2012-06-12 16:08:52.1719|Error|main child934
+2012-06-12 16:08:52.1876|Error|child thread938
+2012-06-12 16:08:52.1876|Error|main child935
+2012-06-12 16:08:52.1876|Error|child thread939
+2012-06-12 16:08:52.1876|Error|main child936
+2012-06-12 16:08:52.1876|Error|child thread940
+2012-06-12 16:08:52.1876|Error|main child937
+2012-06-12 16:08:52.1876|Error|child thread941
+2012-06-12 16:08:52.1876|Error|main child938
+2012-06-12 16:08:52.1876|Error|child thread942
+2012-06-12 16:08:52.1876|Error|main child939
+2012-06-12 16:08:52.2032|Error|child thread943
+2012-06-12 16:08:52.2032|Error|main child940
+2012-06-12 16:08:52.2032|Error|child thread944
+2012-06-12 16:08:52.2032|Error|main child941
+2012-06-12 16:08:52.2032|Error|child thread945
+2012-06-12 16:08:52.2032|Error|main child942
+2012-06-12 16:08:52.2032|Error|child thread946
+2012-06-12 16:08:52.2032|Error|main child943
+2012-06-12 16:08:52.2032|Error|child thread947
+2012-06-12 16:08:52.2032|Error|main child944
+2012-06-12 16:08:52.2188|Error|child thread948
+2012-06-12 16:08:52.2188|Error|main child945
+2012-06-12 16:08:52.2188|Error|child thread949
+2012-06-12 16:08:52.2188|Error|main child946
+2012-06-12 16:08:52.2188|Error|child thread950
+2012-06-12 16:08:52.2188|Error|main child947
+2012-06-12 16:08:52.2188|Error|child thread951
+2012-06-12 16:08:52.2188|Error|main child948
+2012-06-12 16:08:52.2188|Error|child thread952
+2012-06-12 16:08:52.2188|Error|main child949
+2012-06-12 16:08:52.2344|Error|child thread953
+2012-06-12 16:08:52.2344|Error|main child950
+2012-06-12 16:08:52.2344|Error|child thread954
+2012-06-12 16:08:52.2344|Error|main child951
+2012-06-12 16:08:52.2344|Error|child thread955
+2012-06-12 16:08:52.2344|Error|main child952
+2012-06-12 16:08:52.2344|Error|child thread956
+2012-06-12 16:08:52.2344|Error|main child953
+2012-06-12 16:08:52.2344|Error|child thread957
+2012-06-12 16:08:52.2344|Error|main child954
+2012-06-12 16:08:52.2344|Error|child thread958
+2012-06-12 16:08:52.2500|Error|main child955
+2012-06-12 16:08:52.2500|Error|child thread959
+2012-06-12 16:08:52.2500|Error|main child956
+2012-06-12 16:08:52.2500|Error|child thread960
+2012-06-12 16:08:52.2500|Error|main child957
+2012-06-12 16:08:52.2500|Error|child thread961
+2012-06-12 16:08:52.2500|Error|main child958
+2012-06-12 16:08:52.2500|Error|child thread962
+2012-06-12 16:08:52.2500|Error|main child959
+2012-06-12 16:08:52.2500|Error|child thread963
+2012-06-12 16:08:52.2657|Error|main child960
+2012-06-12 16:08:52.2657|Error|child thread964
+2012-06-12 16:08:52.2657|Error|main child961
+2012-06-12 16:08:52.2657|Error|child thread965
+2012-06-12 16:08:52.2657|Error|main child962
+2012-06-12 16:08:52.2657|Error|child thread966
+2012-06-12 16:08:52.2657|Error|main child963
+2012-06-12 16:08:52.2657|Error|child thread967
+2012-06-12 16:08:52.2657|Error|main child964
+2012-06-12 16:08:52.2813|Error|child thread968
+2012-06-12 16:08:52.2813|Error|main child965
+2012-06-12 16:08:52.2813|Error|child thread969
+2012-06-12 16:08:52.2813|Error|main child966
+2012-06-12 16:08:52.2813|Error|child thread970
+2012-06-12 16:08:52.2813|Error|main child967
+2012-06-12 16:08:52.2813|Error|child thread971
+2012-06-12 16:08:52.2813|Error|main child968
+2012-06-12 16:08:52.2813|Error|child thread972
+2012-06-12 16:08:52.2813|Error|main child969
+2012-06-12 16:08:52.2969|Error|child thread973
+2012-06-12 16:08:52.2969|Error|main child970
+2012-06-12 16:08:52.2969|Error|child thread974
+2012-06-12 16:08:52.2969|Error|main child971
+2012-06-12 16:08:52.2969|Error|child thread975
+2012-06-12 16:08:52.2969|Error|main child972
+2012-06-12 16:08:52.2969|Error|child thread976
+2012-06-12 16:08:52.2969|Error|main child973
+2012-06-12 16:08:52.2969|Error|child thread977
+2012-06-12 16:08:52.2969|Error|main child974
+2012-06-12 16:08:52.3125|Error|child thread978
+2012-06-12 16:08:52.3125|Error|main child975
+2012-06-12 16:08:52.3125|Error|child thread979
+2012-06-12 16:08:52.3125|Error|main child976
+2012-06-12 16:08:52.3125|Error|child thread980
+2012-06-12 16:08:52.3125|Error|main child977
+2012-06-12 16:08:52.3125|Error|child thread981
+2012-06-12 16:08:52.3125|Error|main child978
+2012-06-12 16:08:52.3125|Error|child thread982
+2012-06-12 16:08:52.3282|Error|main child979
+2012-06-12 16:08:52.3282|Error|child thread983
+2012-06-12 16:08:52.3282|Error|main child980
+2012-06-12 16:08:52.3282|Error|child thread984
+2012-06-12 16:08:52.3282|Error|main child981
+2012-06-12 16:08:52.3282|Error|child thread985
+2012-06-12 16:08:52.3282|Error|main child982
+2012-06-12 16:08:52.3282|Error|child thread986
+2012-06-12 16:08:52.3282|Error|main child983
+2012-06-12 16:08:52.3282|Error|child thread987
+2012-06-12 16:08:52.3438|Error|main child984
+2012-06-12 16:08:52.3438|Error|child thread988
+2012-06-12 16:08:52.3438|Error|main child985
+2012-06-12 16:08:52.3438|Error|child thread989
+2012-06-12 16:08:52.3438|Error|main child986
+2012-06-12 16:08:52.3438|Error|child thread990
+2012-06-12 16:08:52.3438|Error|main child987
+2012-06-12 16:08:52.3438|Error|child thread991
+2012-06-12 16:08:52.3438|Error|main child988
+2012-06-12 16:08:52.3438|Error|child thread992
+2012-06-12 16:08:52.3438|Error|main child989
+2012-06-12 16:08:52.3594|Error|child thread993
+2012-06-12 16:08:52.3594|Error|main child990
+2012-06-12 16:08:52.3594|Error|child thread994
+2012-06-12 16:08:52.3594|Error|main child991
+2012-06-12 16:08:52.3594|Error|child thread995
+2012-06-12 16:08:52.3594|Error|main child992
+2012-06-12 16:08:52.3594|Error|child thread996
+2012-06-12 16:08:52.3594|Error|main child993
+2012-06-12 16:08:52.3594|Error|child thread997
+2012-06-12 16:08:52.3594|Error|main child994
+2012-06-12 16:08:52.3750|Error|child thread998
+2012-06-12 16:08:52.3750|Error|main child995
+2012-06-12 16:08:52.3750|Error|child thread999
+2012-06-12 16:08:52.3750|Error|main child996
+2012-06-12 16:08:52.3750|Error|main child997
+2012-06-12 16:08:52.3750|Error|main child998
+2012-06-12 16:08:52.3750|Error|main child999
+2012-06-12 16:26:04.9687|Debug|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>闃绘Application_End浜嬩欢鐨勮В鍐虫柟妗?- 娓呭北鍗氬 - 鍗氬棰戦亾 - CSDN.NET</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="鍦ㄥ仛椤圭洰鏃讹紝閬囧埌鍚屾ERP鏁版嵁鐨勯棶棰橈紝瀹㈡埛瑕佹眰鏄細鍦ㄧ▼搴忎腑锛岃缃竴涓紑濮嬫椂闂达紝鍐嶈缃竴涓椂闂撮棿闅旓紝璁╃▼搴忔瘡闅斾竴娈垫椂闂村鍑洪攢鍞褰曪紝杩欎釜寮�濮嬫椂闂村拰鏃堕棿闂撮殧鍙互鎵嬪姩淇敼璁惧畾銆?#160;&#160; &#160; 杩欓棶棰樼籂缂犱簡鎴戝ソ鍑犲ぉ锛屾�荤畻瑙ｅ喅浜嗭紝鍐欐枃妗ｈ褰曪細&#160;&#160; &#160; 棣栧厛锛岃璁╃▼搴忓畾鏃舵墽琛屼换鍔★紝鍙互浣跨敤ASP.NET涓殑Timer璁℃椂锛屼笉杩囪繖涓畾鏃朵笉鏄緢鍑嗭紝濡傛灉鐢ㄥ畠锛岃繕浼氶亣鍒板叾浠栫殑闂锛屽悗闈細鎻愬埌銆傜浜岀鏂规硶鏄紝浣跨敤涓�涓彨鍋氾細Quartz.NET寮�婧愰」鐩紝涓撻棬鐢ㄦ潵璋冨害瀹氭椂浣滀笟銆傝繖娆￠」鐩腑锛屾垜鐢ㄥ埌鐨勫氨鏄疩uartz.NET缁勪欢锛岀敤浠栨潵瀹氭椂璋? />
+<script src="http://static.blog.csdn.net/Scripts/jquery.js" type="text/javascript"></script>
+<script src="http://static.blog.csdn.net/scripts/plugins.js" type="text/javascript"></script>
+<script src="http://static.blog.csdn.net/scripts/common.js" type="text/javascript"></script>
+<link rel="Stylesheet" type="text/css" href="http://static.blog.csdn.net/skin/dark1/css/style.css" />
+<link id="RSSLink" title="RSS" type="application/rss+xml" rel="alternate" href="/a497785609/rss/list" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="http://static.blog.csdn.net/scripts/SyntaxHighlighter/styles/nobg.css" />
+</head>
+<body>
+<script src="http://csdnimg.cn/pubnav/js/pub_topnav_2011.js"type="text/javascript"></script>
+<div id="container">
+<div id="header">
+    <div class="header">
+        <div id="blog_title">
+            <h1>
+                <a href="/a497785609">娓呭北鍗氬</a></h1>
+            <h2>澶氶椈闃欑枒锛屾厧瑷�鍏朵綑锛屽垯瀵″挨锛涘瑙侀槞娈嗭紝鎱庤鍏朵綑锛屽垯瀵℃倲銆傝█瀵″挨锛岃瀵℃倲銆?/h2>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+</div>
+<div id="navigator">
+    <div class="navigator_bg">
+    </div>
+    <div class="navigator">
+        <ul>
+            <!--<li id="btnHome"><a href="/a497785609"><span><img src="http://static.blog.csdn.net/images/ico_home.gif">鎴戠殑棣栭〉</span></a></li>-->
+            <li id="btnContents"><a href="/a497785609?viewmode=contents"><span><img src="http://static.blog.csdn.net/images/ico_list.gif">鐩綍瑙嗗浘</span></a></li>
+            <li id="btnView"><a href="/a497785609?viewmode=list"><span><img src="http://static.blog.csdn.net/images/ico_summary.gif">鎽樿瑙嗗浘</span></a></li>
+            <li id="btnRss"><a href="/a497785609/rss/list"><span><img src="http://static.blog.csdn.net/images/ico_rss.gif">璁㈤槄</span></a></li>
+</ul>
+    </div>
+</div>
+<script type="text/javascript">
+    var username = "a497785609";
+    var blog_address = "http://blog.csdn.net/a497785609";
+    var static_host = "http://static.blog.csdn.net";
+    var currentUserName = $.cookie("UserName");
+</script>
+        
+<div id="body">
+<div id="main">
+<div class="main">
+<div class="notice"> 
+
+
+<a href="http://blog.csdn.net/blogdevteam/article/details/7568876" target="_blank"><font color=red>绮惧垱涔嬩綔銆婇浄绁炵殑寰蒋骞冲彴瀹夊叏瀹濆吀銆嬭瘹閭�璇戣�?</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.mobileasiaexpo.cn/?MAECN=CSDN2" target="_blank"><font color=blue>绉诲姩涓氱晫棰嗚浼氳路涓婃捣路6.20</font></a>
+<br>
+<a href="http://blog.csdn.net/blogdevteam/article/details/7608507" target="_blank"><font color=blue>CSDN鍗氬棰戦亾鈥滅Щ鍔ㄥ紑鍙戜箣鎴戣鈥濅富棰樺緛鏂囨椿鍔?</font></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://topic.csdn.net/u/20120416/10/9123faba-8474-4f2a-a0cf-a1b7d0fe5913.html" target="_blank"><font color=red>銆愬垎浜1銆戯細缃戝弸鎺ㄨ崘130涓粡鍏歌祫婧愶紝鍒嗕韩鍐嶈禒鍒嗭紒</font></a>
+
+</div><script type="text/javascript" src="http://static.blog.csdn.net/scripts/ad.js"></script>
+
+<div id="article_details" class="details">
+    <div class="article_title">
+    <span class="ico ico_type_Original"></span>
+    <h3>
+        <span class="link_title"><a href="/a497785609/article/details/5941283">
+        闃绘Application_End浜嬩欢鐨勮В鍐虫柟妗?
+        </a></span>
+    </h3>
+</div>
+
+        
+    <div class="article_manage">
+        <span class="link_categories">
+        鍒嗙被锛?
+            <a href="/a497785609/article/category/568313">ASP.NET</a> 
+        </span>
+    <span class="link_postdate">2010-10-14 17:16</span>
+    <span class="link_view" title="闃呰娆℃暟">1162浜洪槄璇?/span>
+    <span class="link_comments" title="璇勮娆℃暟"><a href="#comments">璇勮</a>(6)</span>
+    <span class="link_collect"><a href="javascript:void(0);" onclick="javascript:collectArticle('闃绘Application_End浜嬩欢鐨勮В鍐虫柟妗?,'5941283');return false;" title="鏀惰棌">鏀惰棌</a></span>
+    <span class="link_report"><a href="#report"  onclick="javascript:report(5941283,2);return false;" title="涓炬姤">涓炬姤</a></span>
+    
+</div>
+
+    
+<div id="article_content" class="article_content">
+    <p style="text-indent: 18pt; margin: 0cm 0cm 0pt;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 瀹嬩綋;">鍦ㄥ仛椤圭洰鏃讹紝閬囧埌鍚屾</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">ERP</span><span style="font-family: 瀹嬩綋;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">鏁版嵁鐨勯棶棰橈紝瀹㈡埛瑕佹眰鏄細</span></span><span style="font-family: 瀹嬩綋;"><strong><span style="color: red; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">绋嬪簭涓紝</span></strong><strong><span style="color: red; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline;">璁剧疆涓�涓紑濮嬫椂闂达紝鍐嶈缃竴涓椂闂撮棿闅旓紝璁╃▼搴忔瘡闅斾竴娈垫椂闂村鍑洪攢鍞褰曪紝杩欎釜寮�濮嬫椂闂村拰鏃堕棿闂撮殧鍙互鎵嬪姩淇敼璁惧畾銆?/span></strong></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US"><br />&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family: 瀹嬩綋;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">杩欓棶棰樼籂缂犱簡鎴戝ソ鍑犲ぉ锛屾�荤畻瑙ｅ喅浜嗭紝鍐欐枃妗ｈ褰曪細</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">&nbsp;</span></p>
+<p style="margin: 0cm 0cm 0pt;"><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">&nbsp;&nbsp; &nbsp; </span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 瀹嬩綋;">棣栧厛锛岃璁╃▼搴忓畾鏃舵墽琛屼换鍔★紝鍙互浣跨敤</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">ASP.NET</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 瀹嬩綋;">涓殑</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">Timer</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 瀹嬩綋;">璁℃椂锛屼笉杩囪繖涓畾鏃朵笉鏄緢鍑嗭紝濡傛灉鐢ㄥ畠锛岃繕浼氶亣鍒板叾浠栫殑闂锛屽悗闈細鎻愬埌銆傜浜岀鏂规硶鏄紝浣跨敤涓�涓彨鍋氾細</span></span><strong><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">Quartz.NET</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 瀹嬩綋;">寮�婧愰」鐩紝涓撻棬鐢ㄦ潵璋冨害瀹氭椂浣滀笟銆?/span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US"><br style="mso-special-character: line-break;" /></span></strong></p>
+<p style="text-indent: 21pt; margin: 0cm 0cm 0pt;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 瀹嬩綋;">杩欐椤圭洰涓紝鎴戠敤鍒扮殑灏辨槸</span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">Quartz.NET</span><span style="font-family: 瀹嬩綋;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 瀹嬩綋;">缁勪欢锛岀敤浠栨潵瀹氭椂璋冨害浣滀笟锛屾槸寰堟柟渚匡紝涓嶈繃闂涔熸潵浜嗭細</span><strong><span style="font-family: mceinline;">褰撶▼搴忚繍琛屼竴娈垫椂闂村悗锛屽彂鐜拌嚜鍔ㄤ换鍔″仠姝簡</span></strong><span style="font-family: 瀹嬩綋;">銆傚湪缃戜笂鏌ヤ簡鏌ヨ祫鏂欙紝璇存硶涓嶄竴銆?/span></span></span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 瀹嬩綋;">&nbsp;&nbsp;&nbsp; </span></span></p>
+<p style="margin: 0cm 0cm 0pt;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 瀹嬩綋;">&nbsp;&nbsp;&nbsp; 鍚庢潵澶氭柟鏌ヨ祫鏂欎互鍙婅嚜宸辫瘯楠岃瘉鏄庯細鍘熸潵鏄綉绔欏簲鐢ㄧ▼搴忓湪娌℃湁璇锋眰鏃讹紝杩囦竴瀹氱殑鏃堕棿灏变細鍋滄搴旂敤绋嬪簭锛屽叿浣撶偣鏉ヨ锛屽氨鏄綉绔欎腑鐨勬渶鍚庝竴涓?/span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">session</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 瀹嬩綋;">缁撴潫鏃讹紝缃戠珯搴旂敤绋嬪簭灏变細缁撴潫銆傚綋鐒跺氨浼氳Е鍙?/span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">Application_End</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 瀹嬩綋;">浜嬩欢銆傞殢涔嬪畾鏃朵换鍔′篃浼氬仠鎺夈�?/span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US"><br /><span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: 瀹嬩綋;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;">鐜板湪鐨勯棶棰樺氨鏄細</span><strong><span style="color: red; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline;">濡備綍璁╃綉绔欓兘鏈夎姹傦紵濡備綍璁?/span></strong></span><strong><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: red; font-size: 10.5pt;" lang="EN-US">Application_End</span></strong><strong><span style="color: red; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline;"><span style="font-family: 瀹嬩綋;">浜嬩欢涓嶄細鍙戠敓锛?/span></span></strong><strong><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: red; font-size: 10.5pt;" lang="EN-US"><br style="mso-special-character: line-break;" /></span></strong></p>
+<p style="text-indent: 21pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0;"><span style="font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 瀹嬩綋;">杩欎釜闂鍦ㄧ綉涓婁篃鏈夊緢澶氱璇存硶锛屾瘮濡傛湁浜哄缓璁細鍦?/span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">Application_End</span><span style="font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 瀹嬩綋;">涓敤绋嬪簭妯℃嫙璇锋眰缃戠珯锛岄噸鏂板紑濮?/span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">Application_Start</span><span style="font-family: 瀹嬩綋;"><span style="font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;">浜嬩欢锛屼篃缁欏嚭浜嗙▼搴忎唬鐮侊細</span><span lang="EN-US"><a href="http://asdfblog.com/technology/aspnet-scheduled-tasks-with-quartznet.html"><span style="color: #0000ff; font-size: small;">http://asdfblog.com/technology/aspnet-scheduled-tasks-with-quartznet.html</span></a></span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;">杩欓噷鏈夎缁嗚鏄庛�備笉杩囨垜鐓у崥涓荤殑鍋氭硶锛屽苟娌℃湁瀹炵幇鎴戞兂瑕佺殑鍔熻兘銆備笉杩囦粬鏄敤鏉ュ鐞?/span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">IIS</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 瀹嬩綋;">搴旂敤绋嬪簭姹犲洖鏀剁殑闂鐨勩�?/span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US"><br /><span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 瀹嬩綋;">瀛熷瓙</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">E</span><span style="font-family: 瀹嬩綋;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">绔犺锛氭柊寤轰竴涓嫭绔嬬殑绾跨▼鏉ヨ皟搴︽墽琛岀殑浠诲姟锛屼釜浜鸿涓烘瘮杈冮夯鐑︼紝娌￠噰鐢ㄨ繖绉嶆柟寮忋�?/span></span></p>
+<p style="text-indent: 21pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 瀹嬩綋;">&nbsp;&nbsp;&nbsp;&nbsp;鏈�鍚庯紝鍙戠幇浜嗕竴涓畝鍗曠殑澶勭悊鏂瑰紡锛屽埄鐢?/span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">ASP.NET</span><span style="font-family: 瀹嬩綋;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">鐨勭紦瀛樿秴鏃舵妧鏈�備笅闈㈠叿浣撴潵闃愭槑锛?/span></span><span style="font-family: 瀹嬩綋;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">鍩烘湰鎬濊矾锛?br /></span></span></p>
+<p style="text-indent: 21.1pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0;"><span style="font-family: 瀹嬩綋;"><strong><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">鍦ㄥ簲鐢ㄧ▼搴忓惎鍔ㄦ椂锛岀敤绋嬪簭缂撳瓨涓�涓綉绔欎腑鐨勯〉闈€�傚湪缂撳瓨缃戦〉鏃讹紝璁剧疆濂界紦瀛樿繃鏈熸椂闂达紝浠ュ強缂撳瓨杩囨湡鏃惰Е鍙戠殑鍥炶皟浜嬩欢锛?/span></strong><strong><span style="color: red; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">缂撳瓨杩囨湡鏃惰Е鍙戠殑鍥炶皟浜嬩欢</span></strong><strong><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">杩欐槸鍏抽敭銆傚湪缂撳瓨杩囨湡鏃剁敤绋嬪簭妯℃嫙璇锋眰缃戠珯椤甸潰锛屽啀娆＄紦瀛橈紝寰幆涔?/span></strong></span><strong><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">&hellip;<br /></span></strong></p>
+<p>&nbsp;</p>
+<p style="text-indent: 21pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 瀹嬩綋;">浠ｇ爜璇存槑锛氾紙鍏ㄥ湪</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">Global.asax</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 瀹嬩綋;">閲岋級<br /></span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US"><textarea cols="50" rows="15" name="code" class="c-sharp:nogutter">    private const string DummyPageUrl = "http:/index.aspx";
+    private const string DummyCacheItemKey = "GagaGuguGigi";
+    Quartz.IScheduler sched = SingletonScheduler.GetIntance();
+    void Application_Start(object sender, EventArgs e)
+    {      
+        //缂撳瓨椤甸潰
+        RegisterCacheEntry();
+    }
+    
+    // 娉ㄥ唽涓�缂撳瓨鏉＄洰鍦?鍒嗛挓鍐呭埌鏈燂紝鍒版湡鍚庤Е鍙戠殑璋冧簨浠?
+     private void RegisterCacheEntry()
+    {
+        if (null != HttpContext.Current.Cache[DummyCacheItemKey]) return;
+        HttpContext.Current.Cache.Add(DummyCacheItemKey, "Test", null, DateTime.MaxValue,
+            TimeSpan.FromMinutes(5), CacheItemPriority.NotRemovable,
+            new CacheItemRemovedCallback(CacheItemRemovedCallback));
+    }
+    
+    // 缂撳瓨椤硅繃鏈熸椂绋嬪簭妯℃嫙鐐瑰嚮椤甸潰锛岄樆姝㈠簲鐢ㄧ▼搴忕粨鏉?
+     public void CacheItemRemovedCallback(string key, object value, CacheItemRemovedReason reason)
+    {      
+        HitPage();
+    }
+    
+    // 妯℃嫙鐐瑰嚮缃戠珯缃戦〉
+     private void HitPage()
+    {
+        System.Net.WebClient client = new System.Net.WebClient();
+        client.DownloadData(DummyPageUrl); 
+    }    
+    protected void Application_BeginRequest(Object sender, EventArgs e)
+    {
+        if (HttpContext.Current.Request.Url.ToString() == DummyPageUrl)
+        {
+            RegisterCacheEntry();
+        }
+    }</textarea>&nbsp;<br />&nbsp; 杩欐牱锛岀綉绔欏簲鐢ㄧ▼搴忓氨鍙互鍍忚繍琛寃indows鏈嶅姟涓�鏍凤紝鍦ㄥ悗鍙伴粯榛樼殑鎵ц浜嗭紝娌＄湅鏄庣櫧锛屽彲浠ュ弬瑙佽繖閲岋細<a href="http://www.codeproject.com/KB/aspnet/ASPNETService.aspx">http://www.codeproject.com/KB/aspnet/ASPNETService.aspx</a><br /><span style="font-family: 瀹嬩綋;">闄勶細</span><span lang="EN-US">Quartz.Net</span><span style="font-family: 瀹嬩綋;">璇︾粏鏁欑▼鍙傝锛?br />鈶犲畼鏂规暀绋嬶細</span><span lang="EN-US"><a href="http://quartznet.sourceforge.net/tutorial/index.html">http://quartznet.sourceforge.net/tutorial/index.html</a></span><span lang="EN-US">;</span><br /><span style="font-family: 瀹嬩綋;">鈶′腑鏂囩炕璇戯細</span><span lang="EN-US"><a href="http://www.cnblogs.com/shanyou/category/102991.html">http://www.cnblogs.com/shanyou/category/102991.html</a></span><br /></span></p>
+<p>&nbsp;</p>
+</div>
+<div class="share_buttons" id="sharePanel"></div>
+
+<div class="article_next_prev">
+        <li class="prev_article">
+            <span>涓婁竴绡囷細</span><a href="http://blog.csdn.net/a497785609/article/details/5887967">C#鎶婂瓧绗︿覆杞椂闂存牸寮?/a></li>
+        <li class="next_article">
+            <span>涓嬩竴绡囷細</span><a href="http://blog.csdn.net/a497785609/article/details/5954973">濡備綍灏嗘湇鍔＄鐨勫涓枃浠舵墦鍖呬笅杞斤紙杞級</a></li>
+</div>
+
+
+</div>
+<div id="ad_cen"></div>
+<script type="text/javascript">
+    new Ad(4, 'ad_cen');
+</script>
+<div id="comment_title" class="panel_head">鏌ョ湅璇勮<a name="comments"></a></div>
+<div id="comment_list"></div>
+<div id="comment_bar"></div>
+<div id="comment_form"></div>
+<div class="announce">* 浠ヤ笂鐢ㄦ埛瑷�璁哄彧浠ｈ〃鍏朵釜浜鸿鐐癸紝涓嶄唬琛–SDN缃戠珯鐨勮鐐规垨绔嬪満<a name="reply"></a><a name="quote"></a></div>
+<script type="text/javascript">
+    var fileName = '5941283';
+    var commentscount = 6;
+    var islock = false
+</script>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/comment.js?v=1.1"></script>
+<div id="ad_bot"></div>
+<script type="text/javascript">
+    new Ad(5, 'ad_bot');
+</script>
+<div id="report_dialog"></div>
+
+
+<div class="clear"></div>
+</div>
+</div>
+<div id="side">
+    <div class="side">
+<div id="panel_Profile" class="panel">
+    <ul class="panel_head"><span>涓汉璧勬枡</span></ul>
+    <ul class="panel_body profile">
+        <div id="blog_userface">
+            <a href="http://my.csdn.net/a497785609" target="_blank">
+            <img src="http://avatar.csdn.net/1/4/0/1_a497785609.jpg" title="璁块棶鎴戠殑绌洪棿" style="max-width:90%"/>
+            </a>
+            <br />
+            <span><a href="http://my.csdn.net/a497785609" target="_blank">a497785609</a></span>
+        </div>
+<div class="interact">
+<!--<a href="#" class="attented" title="宸插叧娉?></a>-->
+<a href="#" class="attent" id="span_add_follow" title="[鍔犲叧娉╙"></a>
+<a href="http://my.csdn.net/my/letter/send/a497785609" class="letter" title="[鍙戠淇"></a>
+</div>
+        <div id="blog_medal">
+        </div>
+        <ul id="blog_rank">
+            <li>璁块棶锛?span>65151娆?/span></li>
+            <li>绉垎锛?span>3001鍒?/span></li>
+            <li>鎺掑悕锛?span>绗?327鍚?/span></li>
+        </ul>
+        <ul id="blog_statistics">
+            <li>鍘熷垱锛?span>237绡?/span></li>
+            <li>杞浇锛?span>17绡?/span></li>
+            <li>璇戞枃锛?span>2绡?/span></li>
+            <li>璇勮锛?span>49鏉?/span></li>
+        </ul>
+    </ul>
+</div>
+
+<script type='text/javascript'>
+var _blogger='a497785609';
+$(document).ready(function () {
+    $('#span_add_follow').click(function () {
+        var url = "http://my.csdn.net/index.php/follow/do_follow?jsonpcallback=?";
+        $.getJSON(url, { "username": _blogger }, function (data) {
+            if (data.succ == 1) {
+                alert('鍏虫敞鎴愬姛锛?);
+                $('#span_add_follow').attr('class', 'attented').click(function () { return false; });
+            } else {
+                alert(data.msg);
+            }
+        });
+    });
+    if (getUN().toLowerCase() == _blogger.toLowerCase()) {
+        $('.interact').hide();
+    }
+});
+function getUN() {
+    var m = document.cookie.match(new RegExp("(^| )UserName=([^;]*)(;|$)"));
+    if (m) return m[2];
+    else return '';
+}
+</script>
+
+<div class="panel" id="panel_Search">
+    <ul class="panel_head"><span>鏂囩珷鎼滅储</span></ul>
+    <ul class="panel_body">
+        <form id="frmSearch" action="http://so.csdn.net/search" class="form_search" target="_blank">
+        <span><input id="inputSearch" type="text" class="blogsearch" title="璇疯緭鍏ュ叧閿瓧" /></span>
+        <input id="btnSubmit" type="submit" value="鎼滅储" title="search in blog" />
+        <input type="hidden" name="q" id="inputQ" />
+        <input type="hidden" name="t" value="blog" />
+        <a id="btnSearchBlog" target="_blank"></a>
+        </form>
+    </ul>
+</div><div id="panel_Category" class="panel">
+    <ul class="panel_head"><span>鏂囩珷鍒嗙被</span></ul>
+    <ul class="panel_body">
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568312">C#</a><span>(50)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/952744">Helper</a><span>(7)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/1147645">NopCommerce</a><span>(1)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568313">ASP.NET</a><span>(64)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/596061">ASP.NET AJAX</a><span>(2)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/1148383">ASP.NET MVC</a><span>(1)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/844115">WCF</a><span>(1)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/841544">WPF</a><span>(1)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568314">JavaScript</a><span>(33)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/772744">绮鹃�歫avascript</a><span>(5)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/583835">CSS</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/819274">Google</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/832287">Access 鏁版嵁搴?/a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/587217">Oracle 鏁版嵁搴?/a><span>(5)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/591103">SQL Server鏁版嵁搴?/a><span>(28)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568317">璁捐妯″紡</a><span>(8)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568316">IT瑙嗙晫</a><span>(6)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/1145428">銆婇粦瀹笌鐢诲銆?/a><span>(5)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/712380">XSLT</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568318">涓汉鏃ュ織</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/709641">鎬ц兘浼樺寲</a><span>(0)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/635607">鏁版嵁瀹夊叏</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568311">鏁版嵁缁撴瀯涓庣畻娉?/a><span>(8)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/584079">璁鸿</a><span>(2)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/584817">婧愪唬鐮?/a><span>(25)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/863271">姝ｅ垯琛ㄨ揪寮?/a><span>(3)</span>
+        
+        </li>
+    </ul>
+</div><div id="panel_Archive" class="panel">
+    <ul class="panel_head"><span>鏂囩珷瀛樻。</span></ul>
+    <ul class="panel_body">
+        <div id="archive_list">
+        <!--褰掓。缁熻-->
+        <li><a href="http://blog.csdn.net/a497785609/article/month/2012/06">2012骞?6鏈?/a>(4)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2012/05">2012骞?5鏈?/a>(10)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2012/04">2012骞?4鏈?/a>(2)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2012/03">2012骞?3鏈?/a>(5)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2012/02">2012骞?2鏈?/a>(12)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2012/01">2012骞?1鏈?/a>(5)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/12">2011骞?2鏈?/a>(12)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/11">2011骞?1鏈?/a>(3)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/10">2011骞?0鏈?/a>(5)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/09">2011骞?9鏈?/a>(3)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/08">2011骞?8鏈?/a>(2)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/07">2011骞?7鏈?/a>(16)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/06">2011骞?6鏈?/a>(7)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/05">2011骞?5鏈?/a>(7)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/04">2011骞?4鏈?/a>(4)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/03">2011骞?3鏈?/a>(1)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/02">2011骞?2鏈?/a>(5)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/01">2011骞?1鏈?/a>(6)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/12">2010骞?2鏈?/a>(7)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/11">2010骞?1鏈?/a>(7)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/10">2010骞?0鏈?/a>(4)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/09">2010骞?9鏈?/a>(3)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/08">2010骞?8鏈?/a>(10)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/07">2010骞?7鏈?/a>(14)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/06">2010骞?6鏈?/a>(7)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/05">2010骞?5鏈?/a>(1)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/03">2010骞?3鏈?/a>(2)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/12">2009骞?2鏈?/a>(6)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/11">2009骞?1鏈?/a>(18)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/10">2009骞?0鏈?/a>(2)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/09">2009骞?9鏈?/a>(27)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/08">2009骞?8鏈?/a>(35)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/07">2009骞?7鏈?/a>(1)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/04">2009骞?4鏈?/a>(1)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/02">2009骞?2鏈?/a>(2)</li>
+        </div>
+    </ul>
+</div>
+<div id="hotarticls" class="panel">
+    <ul class="panel_head"><span>闃呰鎺掕</span></ul>
+    <ul class="panel_body">
+        <li>
+            <a href="/a497785609/article/details/6405719" title="涓浗鍩庡競缁忕含搴﹁〃(绮剧‘鍒板幙鍖?Google鍦板浘鐢?>涓浗鍩庡競缁忕含搴﹁〃(绮剧‘鍒板幙鍖?Googl...</a> (7131)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/6317502" title="IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)">IE9 : DOM Exception:...</a> (4191)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4483768" title="JavaScript鏂囨湰妗嗙殑鎿嶄綔">JavaScript鏂囨湰妗嗙殑鎿嶄綔</a> (2112)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4500782" title="2.Orcal涓殑SQL璇彞">2.Orcal涓殑SQL璇彞</a> (2050)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/5702356" title="NameValueCollection璇﹁В">NameValueCollection璇?..</a> (1746)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/6103497" title="Jquery瀹炵幇椤甸潰瀹氭椂璺宠浆">Jquery瀹炵幇椤甸潰瀹氭椂璺宠浆</a> (1227)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/5941283" title="闃绘Application_End浜嬩欢鐨勮В鍐虫柟妗?>闃绘Application_End浜嬩欢鐨?..</a> (1161)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4514314" title="ASP.NET鐢ㄦ埛鐧诲綍妯″潡浠ｇ爜">ASP.NET鐢ㄦ埛鐧诲綍妯″潡浠ｇ爜</a> (1022)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4536123" title="瑙ｅ喅鎵撲笉寮� RSA 瀵嗛挜瀹瑰櫒 鍗?鍔犲瘑web.config涓殑鍐呭">瑙ｅ喅鎵撲笉寮� RSA 瀵嗛挜瀹瑰櫒 鍗?鍔犲瘑w...</a> (969)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4820657" title="鏈兘姝ｇ‘鍔犺浇鍖?quot;visla Studio HTM Editor Package&quot; 闂鐨勮В鍐?>鏈兘姝ｇ‘鍔犺浇鍖?quot;visla Studio...</a> (920)
+        </li>
+    </ul>
+</div>
+<div id="hotarticls" class="panel">
+    <ul class="panel_head"><span>璇勮鎺掕</span></ul>
+    <ul class="panel_body">
+        <li>
+            <a href="/a497785609/article/details/6317502" title="IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)">IE9 : DOM Exception:...</a> (6)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/5941283" title="闃绘Application_End浜嬩欢鐨勮В鍐虫柟妗?>闃绘Application_End浜嬩欢鐨?..</a> (6)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/6918533" title="绗旇璁板綍杞欢锛歂oteRecorder">绗旇璁板綍杞欢锛歂oteRecorder</a> (5)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4483768" title="JavaScript鏂囨湰妗嗙殑鎿嶄綔">JavaScript鏂囨湰妗嗙殑鎿嶄綔</a> (5)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4536123" title="瑙ｅ喅鎵撲笉寮� RSA 瀵嗛挜瀹瑰櫒 鍗?鍔犲瘑web.config涓殑鍐呭">瑙ｅ喅鎵撲笉寮� RSA 瀵嗛挜瀹瑰櫒 鍗?鍔犲瘑w...</a> (4)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4457917" title="ASP.NET缃戦〉鏂囨湰缂栬緫鍣ㄧ殑浣跨敤">ASP.NET缃戦〉鏂囨湰缂栬緫鍣ㄧ殑浣跨敤</a> (4)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4820657" title="鏈兘姝ｇ‘鍔犺浇鍖?quot;visla Studio HTM Editor Package&quot; 闂鐨勮В鍐?>鏈兘姝ｇ‘鍔犺浇鍖?quot;visla Studio...</a> (2)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/5702356" title="NameValueCollection璇﹁В">NameValueCollection璇?..</a> (2)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/6112554" title="05.javascript璁块棶CSS">05.javascript璁块棶CSS</a> (2)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4510335" title="ASP.NET椤甸潰鎵ц椤哄簭">ASP.NET椤甸潰鎵ц椤哄簭</a> (2)
+        </li>
+    </ul>
+</div>
+<div id="homepageArticles" class="panel">
+    <ul class="panel_head"><span>鎺ㄨ崘鏂囩珷</span></ul>
+    <ul class="panel_body" id="ad_commend"></ul>
+</div>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/ad.js"></script>
+<script type="text/javascript">
+    new Ad(12, 'ad_commend');
+</script><div id="newcomments" class="panel">
+<ul class="panel_head"><span>鏈�鏂拌瘎璁?/span></ul>
+<ul class="panel_body">
+    <li>
+    <a href="/a497785609/article/details/6103497#comments">Jquery瀹炵幇椤甸潰瀹氭椂璺宠浆</a>
+    <p style="margin:0px;">luohaobubu:
+涓嶈兘鐢?
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">cnkker:
+璋㈣阿妤间富锝烇綖寰堢墰锝?
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">yijunxiaoxiangke:
+椤舵ゼ涓伙紝椤朵竴 浜屾ゼ鎴戠殑闂椤哄埄瑙ｅ喅
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">gongya2004:
+璋㈣阿锛岄棶棰樿В鍐充簡锛?
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">ke_zhong:
+鑰佸厔锛孨B锛佸府涓婃垜澶у繖浜嗭紒
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">hxmwith:
+鍧戠埞鍟?姝ｅ垯搴旇鏄?搴旇鏄痋d 锛屽眳鐒跺啓閿欐柟鍚戜簡锛屼笅闈㈡槸璇ユyui2.3鐨勮繖涓猙ug鐨勫湴鏂硅姝荤殑閬楃暀...
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">benjaminwu198818:
+var ua = navigator.userAgent.toLowerCase().match(/...
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/4820657#comments">鏈兘姝ｇ‘鍔犺浇鍖?quot;visla Studio HTM Editor Package&quot; 闂鐨勮В鍐?/a>
+    <p style="margin:0px;">yzzd2167:
+闈炲父鎰熻阿,鎴戝湪铏氭満閲岄潰瑁呯殑VS2008瀛︿範鐗?缁撴灉鎵撳紑浠�涔堟枃浠堕兘娌℃湁璇硶楂樹寒,缃戜笂鎵句簡寰堝鏂规硶鍧囦笉琛?..
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6918533#comments">绗旇璁板綍杞欢锛歂oteRecorder</a>
+    <p style="margin:0px;">callily:
+@a497785609:閭ｈ涓嬭浇涓嬫潵瀛︿範涓�涓嬶紝鎴戜篃鎯崇敤SQlite妯′豢filezilla鍐欎唬鐮?
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6918533#comments">绗旇璁板綍杞欢锛歂oteRecorder</a>
+    <p style="margin:0px;">a497785609:
+@callily:鏄殑锛屽涔爏qlite鏃跺仛鐨勶紝涓昏鏄柟渚胯嚜宸辨煡璇㈢瑪璁般�?
+    </p>
+    </li>
+</ul>
+</div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+<div class="clear"></div>
+</div>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/SyntaxHighlighter/shCore-src.js"></script>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/ZeroClipboard/ZeroClipboard.js"></script>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/article_code.js"></script>
+
+<script type="text/javascript" src="http://medal.blog.csdn.net/scripts/show.js"></script>
+<script type="text/javascript" src="http://medal.blog.csdn.net/showblogmedal.ashx?blogid=475390"></script>
+<script type="text/javascript">document.write("<img src=http://counter.csdn.net/pv.aspx?id=24 border=0 width=0 height=0>");</script>
+<script type="text/javascript" src="http://www.csdn.net/ui/scripts/Csdn/counter.js"></script>
+<script type="text/javascript" src="http://csdnimg.cn/pubfooter/js/publib_footer.js"></script>
+
+
+
+
+</div>
+</body>
+</html>
+2012-06-12 16:27:52.1182|Debug|<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>阻止Application_End事件的解决方案 - 清山博客 - 博客频道 - CSDN.NET</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="在做项目时，遇到同步ERP数据的问题，客户要求是：在程序中，设置一个开始时间，再设置一个时间间隔，让程序每隔一段时间导出销售记录，这个开始时间和时间间隔可以手动修改设定。&#160;&#160; &#160; 这问题纠缠了我好几天，总算解决了，写文档记录：&#160;&#160; &#160; 首先，要让程序定时执行任务，可以使用ASP.NET中的Timer计时，不过这个定时不是很准，如果用它，还会遇到其他的问题，后面会提到。第二种方法是，使用一个叫做：Quartz.NET开源项目，专门用来调度定时作业。这次项目中，我用到的就是Quartz.NET组件，用他来定时调" />
+<script src="http://static.blog.csdn.net/Scripts/jquery.js" type="text/javascript"></script>
+<script src="http://static.blog.csdn.net/scripts/plugins.js" type="text/javascript"></script>
+<script src="http://static.blog.csdn.net/scripts/common.js" type="text/javascript"></script>
+<link rel="Stylesheet" type="text/css" href="http://static.blog.csdn.net/skin/dark1/css/style.css" />
+<link id="RSSLink" title="RSS" type="application/rss+xml" rel="alternate" href="/a497785609/rss/list" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link type="text/css" rel="stylesheet" href="http://static.blog.csdn.net/scripts/SyntaxHighlighter/styles/nobg.css" />
+</head>
+<body>
+<script src="http://csdnimg.cn/pubnav/js/pub_topnav_2011.js"type="text/javascript"></script>
+<div id="container">
+<div id="header">
+    <div class="header">
+        <div id="blog_title">
+            <h1>
+                <a href="/a497785609">清山博客</a></h1>
+            <h2>多闻阙疑，慎言其余，则寡尤；多见阙殆，慎行其余，则寡悔。言寡尤，行寡悔。</h2>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+</div>
+<div id="navigator">
+    <div class="navigator_bg">
+    </div>
+    <div class="navigator">
+        <ul>
+            <!--<li id="btnHome"><a href="/a497785609"><span><img src="http://static.blog.csdn.net/images/ico_home.gif">我的首页</span></a></li>-->
+            <li id="btnContents"><a href="/a497785609?viewmode=contents"><span><img src="http://static.blog.csdn.net/images/ico_list.gif">目录视图</span></a></li>
+            <li id="btnView"><a href="/a497785609?viewmode=list"><span><img src="http://static.blog.csdn.net/images/ico_summary.gif">摘要视图</span></a></li>
+            <li id="btnRss"><a href="/a497785609/rss/list"><span><img src="http://static.blog.csdn.net/images/ico_rss.gif">订阅</span></a></li>
+</ul>
+    </div>
+</div>
+<script type="text/javascript">
+    var username = "a497785609";
+    var blog_address = "http://blog.csdn.net/a497785609";
+    var static_host = "http://static.blog.csdn.net";
+    var currentUserName = $.cookie("UserName");
+</script>
+        
+<div id="body">
+<div id="main">
+<div class="main">
+<div class="notice"> 
+
+
+<a href="http://blog.csdn.net/blogdevteam/article/details/7568876" target="_blank"><font color=red>精创之作《雷神的微软平台安全宝典》诚邀译者 </font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.mobileasiaexpo.cn/?MAECN=CSDN2" target="_blank"><font color=blue>移动业界领袖会议·上海·6.20</font></a>
+<br>
+<a href="http://blog.csdn.net/blogdevteam/article/details/7608507" target="_blank"><font color=blue>CSDN博客频道“移动开发之我见”主题征文活动 </font></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://topic.csdn.net/u/20120416/10/9123faba-8474-4f2a-a0cf-a1b7d0fe5913.html" target="_blank"><font color=red>【分享季1】：网友推荐130个经典资源，分享再赠分！</font></a>
+
+</div><script type="text/javascript" src="http://static.blog.csdn.net/scripts/ad.js"></script>
+
+<div id="article_details" class="details">
+    <div class="article_title">
+    <span class="ico ico_type_Original"></span>
+    <h3>
+        <span class="link_title"><a href="/a497785609/article/details/5941283">
+        阻止Application_End事件的解决方案
+        </a></span>
+    </h3>
+</div>
+
+        
+    <div class="article_manage">
+        <span class="link_categories">
+        分类：
+            <a href="/a497785609/article/category/568313">ASP.NET</a> 
+        </span>
+    <span class="link_postdate">2010-10-14 17:16</span>
+    <span class="link_view" title="阅读次数">1163人阅读</span>
+    <span class="link_comments" title="评论次数"><a href="#comments">评论</a>(6)</span>
+    <span class="link_collect"><a href="javascript:void(0);" onclick="javascript:collectArticle('阻止Application_End事件的解决方案','5941283');return false;" title="收藏">收藏</a></span>
+    <span class="link_report"><a href="#report"  onclick="javascript:report(5941283,2);return false;" title="举报">举报</a></span>
+    
+</div>
+
+    
+<div id="article_content" class="article_content">
+    <p style="text-indent: 18pt; margin: 0cm 0cm 0pt;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 宋体;">在做项目时，遇到同步</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">ERP</span><span style="font-family: 宋体;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">数据的问题，客户要求是：</span></span><span style="font-family: 宋体;"><strong><span style="color: red; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">程序中，</span></strong><strong><span style="color: red; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline;">设置一个开始时间，再设置一个时间间隔，让程序每隔一段时间导出销售记录，这个开始时间和时间间隔可以手动修改设定。</span></strong></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US"><br />&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family: 宋体;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">这问题纠缠了我好几天，总算解决了，写文档记录：</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">&nbsp;</span></p>
+<p style="margin: 0cm 0cm 0pt;"><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">&nbsp;&nbsp; &nbsp; </span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 宋体;">首先，要让程序定时执行任务，可以使用</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">ASP.NET</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 宋体;">中的</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">Timer</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 宋体;">计时，不过这个定时不是很准，如果用它，还会遇到其他的问题，后面会提到。第二种方法是，使用一个叫做：</span></span><strong><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">Quartz.NET</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 宋体;">开源项目，专门用来调度定时作业。</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US"><br style="mso-special-character: line-break;" /></span></strong></p>
+<p style="text-indent: 21pt; margin: 0cm 0cm 0pt;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 宋体;">这次项目中，我用到的就是</span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">Quartz.NET</span><span style="font-family: 宋体;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 宋体;">组件，用他来定时调度作业，是很方便，不过问题也来了：</span><strong><span style="font-family: mceinline;">当程序运行一段时间后，发现自动任务停止了</span></strong><span style="font-family: 宋体;">。在网上查了查资料，说法不一。</span></span></span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 宋体;">&nbsp;&nbsp;&nbsp; </span></span></p>
+<p style="margin: 0cm 0cm 0pt;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 宋体;">&nbsp;&nbsp;&nbsp; 后来多方查资料以及自己试验证明：原来是网站应用程序在没有请求时，过一定的时间就会停止应用程序，具体点来说，就是网站中的最后一个</span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">session</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 宋体;">结束时，网站应用程序就会结束。当然就会触发</span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">Application_End</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 宋体;">事件。随之定时任务也会停掉。</span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US"><br /><span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: 宋体;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;">现在的问题就是：</span><strong><span style="color: red; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline;">如何让网站都有请求？如何让</span></strong></span><strong><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: red; font-size: 10.5pt;" lang="EN-US">Application_End</span></strong><strong><span style="color: red; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline;"><span style="font-family: 宋体;">事件不会发生？</span></span></strong><strong><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: red; font-size: 10.5pt;" lang="EN-US"><br style="mso-special-character: line-break;" /></span></strong></p>
+<p style="text-indent: 21pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0;"><span style="font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 宋体;">这个问题在网上也有很多种说法，比如有人建议：在</span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">Application_End</span><span style="font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 宋体;">中用程序模拟请求网站，重新开始</span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">Application_Start</span><span style="font-family: 宋体;"><span style="font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;">事件，也给出了程序代码：</span><span lang="EN-US"><a href="http://asdfblog.com/technology/aspnet-scheduled-tasks-with-quartznet.html"><span style="color: #0000ff; font-size: small;">http://asdfblog.com/technology/aspnet-scheduled-tasks-with-quartznet.html</span></a></span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;">这里有详细说明。不过我照博主的做法，并没有实现我想要的功能。不过他是用来处理</span></span><span style="font-family: &quot;mceinline&quot;,&quot;serif&quot;; color: black; font-size: 10.5pt; mso-bidi-font-weight: bold;" lang="EN-US">IIS</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: mceinline; mso-hansi-font-family: mceinline; mso-bidi-font-weight: bold;"><span style="font-family: 宋体;">应用程序池回收的问题的。</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US"><br /><span style="mso-spacerun: yes;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 宋体;">孟子</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">E</span><span style="font-family: 宋体;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">章说：新建一个独立的线程来调度执行的任务，个人认为比较麻烦，没采用这种方式。</span></span></p>
+<p style="text-indent: 21pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 宋体;">&nbsp;&nbsp;&nbsp;&nbsp;最后，发现了一个简单的处理方式，利用</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">ASP.NET</span><span style="font-family: 宋体;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">的缓存超时技术。下面具体来阐明，</span></span><span style="font-family: 宋体;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">基本思路：<br /></span></span></p>
+<p style="text-indent: 21.1pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0;"><span style="font-family: 宋体;"><strong><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">在应用程序启动时，用程序缓存一个网站中的页面。在缓存网页时，设置好缓存过期时间，以及缓存过期时触发的回调事件，</span></strong><strong><span style="color: red; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">缓存过期时触发的回调事件</span></strong><strong><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;">这是关键。在缓存过期时用程序模拟请求网站页面，再次缓存，循环之</span></strong></span><strong><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">&hellip;<br /></span></strong></p>
+<p>&nbsp;</p>
+<p style="text-indent: 21pt; margin: 0cm 0cm 0pt; mso-char-indent-count: 2.0;"><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 宋体;">代码说明：（全在</span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US">Global.asax</span><span style="color: black; font-size: 10.5pt; mso-ascii-font-family: Verdana; mso-hansi-font-family: Verdana;"><span style="font-family: 宋体;">里）<br /></span></span><span style="font-family: &quot;Verdana&quot;,&quot;sans-serif&quot;; color: black; font-size: 10.5pt;" lang="EN-US"><textarea cols="50" rows="15" name="code" class="c-sharp:nogutter">    private const string DummyPageUrl = "http:/index.aspx";
+    private const string DummyCacheItemKey = "GagaGuguGigi";
+    Quartz.IScheduler sched = SingletonScheduler.GetIntance();
+    void Application_Start(object sender, EventArgs e)
+    {      
+        //缓存页面
+        RegisterCacheEntry();
+    }
+    
+    // 注册一缓存条目在5分钟内到期，到期后触发的调事件
+     private void RegisterCacheEntry()
+    {
+        if (null != HttpContext.Current.Cache[DummyCacheItemKey]) return;
+        HttpContext.Current.Cache.Add(DummyCacheItemKey, "Test", null, DateTime.MaxValue,
+            TimeSpan.FromMinutes(5), CacheItemPriority.NotRemovable,
+            new CacheItemRemovedCallback(CacheItemRemovedCallback));
+    }
+    
+    // 缓存项过期时程序模拟点击页面，阻止应用程序结束
+     public void CacheItemRemovedCallback(string key, object value, CacheItemRemovedReason reason)
+    {      
+        HitPage();
+    }
+    
+    // 模拟点击网站网页
+     private void HitPage()
+    {
+        System.Net.WebClient client = new System.Net.WebClient();
+        client.DownloadData(DummyPageUrl); 
+    }    
+    protected void Application_BeginRequest(Object sender, EventArgs e)
+    {
+        if (HttpContext.Current.Request.Url.ToString() == DummyPageUrl)
+        {
+            RegisterCacheEntry();
+        }
+    }</textarea>&nbsp;<br />&nbsp; 这样，网站应用程序就可以像运行windows服务一样，在后台默默的执行了，没看明白，可以参见这里：<a href="http://www.codeproject.com/KB/aspnet/ASPNETService.aspx">http://www.codeproject.com/KB/aspnet/ASPNETService.aspx</a><br /><span style="font-family: 宋体;">附：</span><span lang="EN-US">Quartz.Net</span><span style="font-family: 宋体;">详细教程参见：<br />①官方教程：</span><span lang="EN-US"><a href="http://quartznet.sourceforge.net/tutorial/index.html">http://quartznet.sourceforge.net/tutorial/index.html</a></span><span lang="EN-US">;</span><br /><span style="font-family: 宋体;">②中文翻译：</span><span lang="EN-US"><a href="http://www.cnblogs.com/shanyou/category/102991.html">http://www.cnblogs.com/shanyou/category/102991.html</a></span><br /></span></p>
+<p>&nbsp;</p>
+</div>
+<div class="share_buttons" id="sharePanel"></div>
+
+<div class="article_next_prev">
+        <li class="prev_article">
+            <span>上一篇：</span><a href="http://blog.csdn.net/a497785609/article/details/5887967">C#把字符串转时间格式</a></li>
+        <li class="next_article">
+            <span>下一篇：</span><a href="http://blog.csdn.net/a497785609/article/details/5954973">如何将服务端的多个文件打包下载（转）</a></li>
+</div>
+
+
+</div>
+<div id="ad_cen"></div>
+<script type="text/javascript">
+    new Ad(4, 'ad_cen');
+</script>
+<div id="comment_title" class="panel_head">查看评论<a name="comments"></a></div>
+<div id="comment_list"></div>
+<div id="comment_bar"></div>
+<div id="comment_form"></div>
+<div class="announce">* 以上用户言论只代表其个人观点，不代表CSDN网站的观点或立场<a name="reply"></a><a name="quote"></a></div>
+<script type="text/javascript">
+    var fileName = '5941283';
+    var commentscount = 6;
+    var islock = false
+</script>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/comment.js?v=1.1"></script>
+<div id="ad_bot"></div>
+<script type="text/javascript">
+    new Ad(5, 'ad_bot');
+</script>
+<div id="report_dialog"></div>
+
+
+<div class="clear"></div>
+</div>
+</div>
+<div id="side">
+    <div class="side">
+<div id="panel_Profile" class="panel">
+    <ul class="panel_head"><span>个人资料</span></ul>
+    <ul class="panel_body profile">
+        <div id="blog_userface">
+            <a href="http://my.csdn.net/a497785609" target="_blank">
+            <img src="http://avatar.csdn.net/1/4/0/1_a497785609.jpg" title="访问我的空间" style="max-width:90%"/>
+            </a>
+            <br />
+            <span><a href="http://my.csdn.net/a497785609" target="_blank">a497785609</a></span>
+        </div>
+<div class="interact">
+<!--<a href="#" class="attented" title="已关注"></a>-->
+<a href="#" class="attent" id="span_add_follow" title="[加关注]"></a>
+<a href="http://my.csdn.net/my/letter/send/a497785609" class="letter" title="[发私信]"></a>
+</div>
+        <div id="blog_medal">
+        </div>
+        <ul id="blog_rank">
+            <li>访问：<span>65152次</span></li>
+            <li>积分：<span>3001分</span></li>
+            <li>排名：<span>第1327名</span></li>
+        </ul>
+        <ul id="blog_statistics">
+            <li>原创：<span>237篇</span></li>
+            <li>转载：<span>17篇</span></li>
+            <li>译文：<span>2篇</span></li>
+            <li>评论：<span>49条</span></li>
+        </ul>
+    </ul>
+</div>
+
+<script type='text/javascript'>
+var _blogger='a497785609';
+$(document).ready(function () {
+    $('#span_add_follow').click(function () {
+        var url = "http://my.csdn.net/index.php/follow/do_follow?jsonpcallback=?";
+        $.getJSON(url, { "username": _blogger }, function (data) {
+            if (data.succ == 1) {
+                alert('关注成功！');
+                $('#span_add_follow').attr('class', 'attented').click(function () { return false; });
+            } else {
+                alert(data.msg);
+            }
+        });
+    });
+    if (getUN().toLowerCase() == _blogger.toLowerCase()) {
+        $('.interact').hide();
+    }
+});
+function getUN() {
+    var m = document.cookie.match(new RegExp("(^| )UserName=([^;]*)(;|$)"));
+    if (m) return m[2];
+    else return '';
+}
+</script>
+
+<div class="panel" id="panel_Search">
+    <ul class="panel_head"><span>文章搜索</span></ul>
+    <ul class="panel_body">
+        <form id="frmSearch" action="http://so.csdn.net/search" class="form_search" target="_blank">
+        <span><input id="inputSearch" type="text" class="blogsearch" title="请输入关键字" /></span>
+        <input id="btnSubmit" type="submit" value="搜索" title="search in blog" />
+        <input type="hidden" name="q" id="inputQ" />
+        <input type="hidden" name="t" value="blog" />
+        <a id="btnSearchBlog" target="_blank"></a>
+        </form>
+    </ul>
+</div><div id="panel_Category" class="panel">
+    <ul class="panel_head"><span>文章分类</span></ul>
+    <ul class="panel_body">
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568312">C#</a><span>(50)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/952744">Helper</a><span>(7)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/1147645">NopCommerce</a><span>(1)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568313">ASP.NET</a><span>(64)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/596061">ASP.NET AJAX</a><span>(2)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/1148383">ASP.NET MVC</a><span>(1)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/844115">WCF</a><span>(1)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/841544">WPF</a><span>(1)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568314">JavaScript</a><span>(33)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/772744">精通javascript</a><span>(5)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/583835">CSS</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/819274">Google</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/832287">Access 数据库</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/587217">Oracle 数据库</a><span>(5)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/591103">SQL Server数据库</a><span>(28)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568317">设计模式</a><span>(8)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568316">IT视界</a><span>(6)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/1145428">《黑客与画家》</a><span>(5)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/712380">XSLT</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568318">个人日志</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/709641">性能优化</a><span>(0)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/635607">数据安全</a><span>(3)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/568311">数据结构与算法</a><span>(8)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/584079">论语</a><span>(2)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/584817">源代码</a><span>(25)</span>
+        
+        </li>
+        <li>
+        <a href="http://blog.csdn.net/a497785609/article/category/863271">正则表达式</a><span>(3)</span>
+        
+        </li>
+    </ul>
+</div><div id="panel_Archive" class="panel">
+    <ul class="panel_head"><span>文章存档</span></ul>
+    <ul class="panel_body">
+        <div id="archive_list">
+        <!--归档统计-->
+        <li><a href="http://blog.csdn.net/a497785609/article/month/2012/06">2012年06月</a>(4)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2012/05">2012年05月</a>(10)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2012/04">2012年04月</a>(2)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2012/03">2012年03月</a>(5)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2012/02">2012年02月</a>(12)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2012/01">2012年01月</a>(5)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/12">2011年12月</a>(12)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/11">2011年11月</a>(3)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/10">2011年10月</a>(5)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/09">2011年09月</a>(3)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/08">2011年08月</a>(2)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/07">2011年07月</a>(16)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/06">2011年06月</a>(7)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/05">2011年05月</a>(7)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/04">2011年04月</a>(4)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/03">2011年03月</a>(1)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/02">2011年02月</a>(5)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2011/01">2011年01月</a>(6)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/12">2010年12月</a>(7)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/11">2010年11月</a>(7)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/10">2010年10月</a>(4)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/09">2010年09月</a>(3)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/08">2010年08月</a>(10)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/07">2010年07月</a>(14)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/06">2010年06月</a>(7)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/05">2010年05月</a>(1)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2010/03">2010年03月</a>(2)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/12">2009年12月</a>(6)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/11">2009年11月</a>(18)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/10">2009年10月</a>(2)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/09">2009年09月</a>(27)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/08">2009年08月</a>(35)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/07">2009年07月</a>(1)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/04">2009年04月</a>(1)</li><li><a href="http://blog.csdn.net/a497785609/article/month/2009/02">2009年02月</a>(2)</li>
+        </div>
+    </ul>
+</div>
+<div id="hotarticls" class="panel">
+    <ul class="panel_head"><span>阅读排行</span></ul>
+    <ul class="panel_body">
+        <li>
+            <a href="/a497785609/article/details/6405719" title="中国城市经纬度表(精确到县区)Google地图用">中国城市经纬度表(精确到县区)Googl...</a> (7131)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/6317502" title="IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)">IE9 : DOM Exception:...</a> (4191)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4483768" title="JavaScript文本框的操作">JavaScript文本框的操作</a> (2112)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4500782" title="2.Orcal中的SQL语句">2.Orcal中的SQL语句</a> (2050)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/5702356" title="NameValueCollection详解">NameValueCollection详...</a> (1746)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/6103497" title="Jquery实现页面定时跳转">Jquery实现页面定时跳转</a> (1227)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/5941283" title="阻止Application_End事件的解决方案">阻止Application_End事件的...</a> (1162)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4514314" title="ASP.NET用户登录模块代码">ASP.NET用户登录模块代码</a> (1022)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4536123" title="解决打不开 RSA 密钥容器 即:加密web.config中的内容">解决打不开 RSA 密钥容器 即:加密w...</a> (969)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4820657" title="未能正确加载包&quot;visla Studio HTM Editor Package&quot; 问题的解决">未能正确加载包&quot;visla Studio...</a> (920)
+        </li>
+    </ul>
+</div>
+<div id="hotarticls" class="panel">
+    <ul class="panel_head"><span>评论排行</span></ul>
+    <ul class="panel_body">
+        <li>
+            <a href="/a497785609/article/details/6317502" title="IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)">IE9 : DOM Exception:...</a> (6)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/5941283" title="阻止Application_End事件的解决方案">阻止Application_End事件的...</a> (6)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/6918533" title="笔记记录软件：NoteRecorder">笔记记录软件：NoteRecorder</a> (5)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4483768" title="JavaScript文本框的操作">JavaScript文本框的操作</a> (5)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4536123" title="解决打不开 RSA 密钥容器 即:加密web.config中的内容">解决打不开 RSA 密钥容器 即:加密w...</a> (4)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4457917" title="ASP.NET网页文本编辑器的使用">ASP.NET网页文本编辑器的使用</a> (4)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4820657" title="未能正确加载包&quot;visla Studio HTM Editor Package&quot; 问题的解决">未能正确加载包&quot;visla Studio...</a> (2)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/5702356" title="NameValueCollection详解">NameValueCollection详...</a> (2)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/6112554" title="05.javascript访问CSS">05.javascript访问CSS</a> (2)
+        </li>
+        <li>
+            <a href="/a497785609/article/details/4510335" title="ASP.NET页面执行顺序">ASP.NET页面执行顺序</a> (2)
+        </li>
+    </ul>
+</div>
+<div id="homepageArticles" class="panel">
+    <ul class="panel_head"><span>推荐文章</span></ul>
+    <ul class="panel_body" id="ad_commend"></ul>
+</div>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/ad.js"></script>
+<script type="text/javascript">
+    new Ad(12, 'ad_commend');
+</script><div id="newcomments" class="panel">
+<ul class="panel_head"><span>最新评论</span></ul>
+<ul class="panel_body">
+    <li>
+    <a href="/a497785609/article/details/6103497#comments">Jquery实现页面定时跳转</a>
+    <p style="margin:0px;">luohaobubu:
+不能用
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">cnkker:
+谢谢楼主～～很牛～
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">yijunxiaoxiangke:
+顶楼主，顶一 二楼我的问题顺利解决
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">gongya2004:
+谢谢，问题解决了！
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">ke_zhong:
+老兄，NB！帮上我大忙了！
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">hxmwith:
+坑爹啊 正则应该是 应该是\d ，居然写错方向了，下面是该死yui2.3的这个bug的地方该死的遗留...
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6317502#comments">IE9 : DOM Exception: INVALID_CHARACTER_ERR (5)</a>
+    <p style="margin:0px;">benjaminwu198818:
+var ua = navigator.userAgent.toLowerCase().match(/...
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/4820657#comments">未能正确加载包&quot;visla Studio HTM Editor Package&quot; 问题的解决</a>
+    <p style="margin:0px;">yzzd2167:
+非常感谢,我在虚机里面装的VS2008学习版,结果打开什么文件都没有语法高亮,网上找了很多方法均不行...
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6918533#comments">笔记记录软件：NoteRecorder</a>
+    <p style="margin:0px;">callily:
+@a497785609:那要下载下来学习一下，我也想用SQlite模仿filezilla写代码
+    </p>
+    </li>
+    <li>
+    <a href="/a497785609/article/details/6918533#comments">笔记记录软件：NoteRecorder</a>
+    <p style="margin:0px;">a497785609:
+@callily:是的，学习sqlite时做的，主要是方便自己查询笔记。
+    </p>
+    </li>
+</ul>
+</div>
+    </div>
+    <div class="clear">
+    </div>
+</div>
+
+<div class="clear"></div>
+</div>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/SyntaxHighlighter/shCore-src.js"></script>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/ZeroClipboard/ZeroClipboard.js"></script>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/article_code.js"></script>
+
+<script type="text/javascript" src="http://medal.blog.csdn.net/scripts/show.js"></script>
+<script type="text/javascript" src="http://medal.blog.csdn.net/showblogmedal.ashx?blogid=475390"></script>
+<script type="text/javascript">document.write("<img src=http://counter.csdn.net/pv.aspx?id=24 border=0 width=0 height=0>");</script>
+<script type="text/javascript" src="http://www.csdn.net/ui/scripts/Csdn/counter.js"></script>
+<script type="text/javascript" src="http://csdnimg.cn/pubfooter/js/publib_footer.js"></script>
+
+
+
+
+</div>
+</body>
+</html>

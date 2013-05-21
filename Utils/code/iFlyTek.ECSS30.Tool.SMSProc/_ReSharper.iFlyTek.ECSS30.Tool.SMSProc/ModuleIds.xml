@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="F9211C61-463A-49D2-920F-40920E66F046" ModuleId="iFlyTek.ECSS30.Tool.SMSProc" />
+  <Module PersistentId="F644A016-1509-4923-8B6A-474D4B5E4883" ModuleId="iFlyTek.ECSS30.Tool.SMSFilter" />
+</Modules>

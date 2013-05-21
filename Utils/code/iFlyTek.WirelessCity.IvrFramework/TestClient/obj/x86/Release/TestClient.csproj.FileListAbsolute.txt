@@ -1,0 +1,17 @@
+C:\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\TestClient.exe
+C:\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\TestClient.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\TestClient\obj\x86\Release\ResolveAssemblyReference.cache
+C:\iFlyTek.WirelessCity.IvrFramework\TestClient\obj\x86\Release\TestClient.exe
+C:\iFlyTek.WirelessCity.IvrFramework\TestClient\obj\x86\Release\TestClient.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\WebClientHelper.dll
+C:\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\WebClientHelper.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\Winista.HtmlParser.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\TestClient.exe
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\TestClient.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\WebClientHelper.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\Winista.HtmlParser.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\WebClientHelper.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\TestClient\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\TestClient\obj\x86\Release\TestClient.exe
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\TestClient\obj\x86\Release\TestClient.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\TestClient.exe.config

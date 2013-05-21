@@ -1,0 +1,5 @@
+C:\iFlyTek.WirelessCity.IvrFramework\BLHandler\bin\Release\BLHandler.exe
+C:\iFlyTek.WirelessCity.IvrFramework\BLHandler\bin\Release\BLHandler.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\BLHandler\obj\x86\Release\ResolveAssemblyReference.cache
+C:\iFlyTek.WirelessCity.IvrFramework\BLHandler\obj\x86\Release\BLHandler.exe
+C:\iFlyTek.WirelessCity.IvrFramework\BLHandler\obj\x86\Release\BLHandler.pdb

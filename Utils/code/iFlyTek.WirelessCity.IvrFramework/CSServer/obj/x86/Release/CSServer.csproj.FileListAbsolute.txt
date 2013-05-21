@@ -1,0 +1,22 @@
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\Config.xml
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\NLog.config
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\CSServer.exe
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\CSServer.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\NLog.dll
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\NLogHandler.dll
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\NLogHandler.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\NLog.xml
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Release\CSServer.exe
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Release\CSServer.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Release\CSServer.exe
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Release\CSServer.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\Config.xml
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\NLog.config
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\CSServer.exe
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\CSServer.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\NLog.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\NLogHandler.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\NLogHandler.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Release\NLog.xml
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Release\ResolveAssemblyReference.cache

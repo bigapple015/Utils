@@ -1,0 +1,10 @@
+C:\iFlyTek.WirelessCity.IvrFramework\WebClientHelper\bin\Release\WebClientHelper.dll
+C:\iFlyTek.WirelessCity.IvrFramework\WebClientHelper\bin\Release\WebClientHelper.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\WebClientHelper\obj\Release\ResolveAssemblyReference.cache
+C:\iFlyTek.WirelessCity.IvrFramework\WebClientHelper\obj\Release\WebClientHelper.dll
+C:\iFlyTek.WirelessCity.IvrFramework\WebClientHelper\obj\Release\WebClientHelper.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\WebClientHelper\bin\Release\WebClientHelper.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\WebClientHelper\bin\Release\WebClientHelper.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\WebClientHelper\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\WebClientHelper\obj\Release\WebClientHelper.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\WebClientHelper\obj\Release\WebClientHelper.pdb

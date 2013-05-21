@@ -1,0 +1,17 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\projects\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\Config.xml
+c:\documents and settings\administrator\my documents\visual studio 2010\projects\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\CSServer.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\projects\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\CSServer.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\projects\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\projects\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Debug\CSServer.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\projects\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Debug\CSServer.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Debug\CSServer.exe
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Debug\CSServer.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\Config.xml
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\CSServer.exe
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\CSServer.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\NLog.dll
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\NLog.xml
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\NlogHandler.dll
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\NlogHandler.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\CSServer\bin\Debug\NLog.config

@@ -1,0 +1,6 @@
+C:\Download\测试\iFlyTek.WireLessCityDemo10.TRSProxy\bin\Debug\iFlyTek.WireLessCityDemo10.TRSProxy.dll
+C:\Download\测试\iFlyTek.WireLessCityDemo10.TRSProxy\bin\Debug\iFlyTek.WireLessCityDemo10.TRSProxy.pdb
+C:\Download\测试\iFlyTek.WireLessCityDemo10.TRSProxy\bin\Debug\iFlyTek.SMSS10.Common.NLSMS.dll
+C:\Download\测试\iFlyTek.WireLessCityDemo10.TRSProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Download\测试\iFlyTek.WireLessCityDemo10.TRSProxy\obj\Debug\iFlyTek.WireLessCityDemo10.TRSProxy.dll
+C:\Download\测试\iFlyTek.WireLessCityDemo10.TRSProxy\obj\Debug\iFlyTek.WireLessCityDemo10.TRSProxy.pdb

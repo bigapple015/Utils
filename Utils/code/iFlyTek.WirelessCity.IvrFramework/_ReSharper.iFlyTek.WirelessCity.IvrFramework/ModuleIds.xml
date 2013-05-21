@@ -1,0 +1,10 @@
+<Modules>
+  <Module PersistentId="6FB63EDD-9F2B-47BF-A5DD-01FA8E077A3B" ModuleId="CSServer" />
+  <Module PersistentId="69A78362-CF6F-4961-8112-D1F3B5275647" ModuleId="NLogHandler" />
+  <Module PersistentId="0B8E7551-6034-489F-809A-399DDBC31428" ModuleId="BLHandler" />
+  <Module PersistentId="25975EB8-1D2C-449D-89EC-1146651AE281" ModuleId="SocketServer" />
+  <Module PersistentId="ED73F184-8338-483D-9FC4-4FDD1876920D" ModuleId="WebClientHelper" />
+  <Module PersistentId="C2917B44-79C2-4F94-AF9B-2A30D509D8AD" ModuleId="TestClient" />
+  <Module PersistentId="E92613CD-ABF8-43E7-B3C1-DA626D31BA4F" ModuleId="LogServer" />
+  <Module PersistentId="7713A42D-4513-41FB-B661-468AB778C37A" ModuleId="QuartzHandler" />
+</Modules>

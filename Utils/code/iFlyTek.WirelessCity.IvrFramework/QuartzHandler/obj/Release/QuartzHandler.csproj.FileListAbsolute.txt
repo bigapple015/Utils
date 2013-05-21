@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\QuartzHandler\bin\Release\QuartzHandler.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\QuartzHandler\bin\Release\QuartzHandler.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\QuartzHandler\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\QuartzHandler\obj\Release\QuartzHandler.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\QuartzHandler\obj\Release\QuartzHandler.pdb

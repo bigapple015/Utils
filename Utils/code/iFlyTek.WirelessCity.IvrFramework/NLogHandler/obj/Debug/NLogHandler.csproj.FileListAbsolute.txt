@@ -1,0 +1,7 @@
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\obj\Debug\ResolveAssemblyReference.cache
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Debug\NLogHandler.dll
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Debug\NLogHandler.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Debug\NLog.dll
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Debug\NLog.xml
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\obj\Debug\NLogHandler.dll
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\obj\Debug\NLogHandler.pdb

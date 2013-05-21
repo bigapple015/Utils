@@ -1,0 +1,14 @@
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Release\NLogHandler.dll
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Release\NLogHandler.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Release\NLog.dll
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Release\NLog.xml
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\obj\Release\ResolveAssemblyReference.cache
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\obj\Release\NLogHandler.dll
+C:\iFlyTek.WirelessCity.IvrFramework\NLogHandler\obj\Release\NLogHandler.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Release\NLogHandler.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Release\NLogHandler.pdb
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Release\NLog.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\NLogHandler\bin\Release\NLog.xml
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\NLogHandler\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\NLogHandler\obj\Release\NLogHandler.dll
+C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.IvrFramework\NLogHandler\obj\Release\NLogHandler.pdb

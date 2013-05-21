@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iFlyTek.ECSS30.Tool.SMSProc", "iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSProc.csproj", "{F9211C61-463A-49D2-920F-40920E66F046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iFlyTek.ECSS30.Tool.SMSFilter", "iFlyTek.ECSS30.Tool.SMSFilter\iFlyTek.ECSS30.Tool.SMSFilter.csproj", "{F644A016-1509-4923-8B6A-474D4B5E4883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9211C61-463A-49D2-920F-40920E66F046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9211C61-463A-49D2-920F-40920E66F046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9211C61-463A-49D2-920F-40920E66F046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9211C61-463A-49D2-920F-40920E66F046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F644A016-1509-4923-8B6A-474D4B5E4883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F644A016-1509-4923-8B6A-474D4B5E4883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F644A016-1509-4923-8B6A-474D4B5E4883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F644A016-1509-4923-8B6A-474D4B5E4883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

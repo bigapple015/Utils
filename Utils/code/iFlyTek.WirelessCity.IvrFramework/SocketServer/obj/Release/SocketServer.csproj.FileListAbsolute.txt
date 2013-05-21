@@ -1,0 +1,5 @@
+C:\iFlyTek.WirelessCity.IvrFramework\SocketServer\bin\Release\SocketServer.dll
+C:\iFlyTek.WirelessCity.IvrFramework\SocketServer\bin\Release\SocketServer.pdb
+C:\iFlyTek.WirelessCity.IvrFramework\SocketServer\obj\Release\ResolveAssemblyReference.cache
+C:\iFlyTek.WirelessCity.IvrFramework\SocketServer\obj\Release\SocketServer.dll
+C:\iFlyTek.WirelessCity.IvrFramework\SocketServer\obj\Release\SocketServer.pdb

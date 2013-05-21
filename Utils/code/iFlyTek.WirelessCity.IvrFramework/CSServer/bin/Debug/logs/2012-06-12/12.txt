@@ -1,0 +1,6 @@
+2012-06-12 12:09:43.5916|Debug|helloworld
+2012-06-12 12:12:39.5314|Debug|helloworld
+2012-06-12 12:14:32.3922|Error|helloworld
+2012-06-12 12:14:47.2049|Error|helloworld
+2012-06-12 12:14:53.3456|Error|helloworld
+2012-06-12 12:50:18.1697|Error|helloworld
