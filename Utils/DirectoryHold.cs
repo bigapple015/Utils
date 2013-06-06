@@ -11,19 +11,19 @@ namespace Common.IO
     {
         public DirectoryHold(string s)
         {
-            m_strSavedDir = Directory.GetCurrentDirectory();
-            RetryDirectory.Default.SetCurrentDirectory(s);
+            m_savedDir = Directory.GetCurrentDirectory();
+            Directory.SetCurrentDirectory(s);
         }
 
         void IDisposable.Dispose()
         {
-            if (m_strSavedDir != null)
+            if (!string.IsNullOrWhiteSpace(m_savedDir))
             {
-                RetryDirectory.Default.SetCurrentDirectory(m_strSavedDir);
-                m_strSavedDir = null;
+                Directory.SetCurrentDirectory(m_savedDir);
+                m_savedDir = null;
             }
         }
 
-        private string m_strSavedDir;
+        private string m_savedDir;
     }
 }
