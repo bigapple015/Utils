@@ -1,0 +1,115 @@
+﻿/*选择器更精确的win, 相同精度下，后面的win前面的*/
+/* *代表任何一个元素 */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*元素选择器*/
+body {
+    color: red;
+}
+
+/*id选择器*/
+#id {
+    font-family: Arial;
+}
+
+/*类选择器*/
+.class {
+    color: red;
+}
+
+/*类选择器组合元素选择器使用*/
+p.class {
+    color: red;
+}
+
+
+/*CSS分组, 将相同规则应用于一组选择器*/
+h1, h2, h3 {
+}
+
+
+/*属性选择器*/
+[href] {
+}
+
+a[href] {
+}
+
+[href="value"] {
+}
+
+a[href="value"] {
+}
+
+
+/*后代选择器*/
+h1 em {
+}
+
+/*子选择器*/
+h1 > em {
+}
+
+/*兄弟选择器*/
+h1 + p {
+}
+
+/*伪类*/
+/*伪类语法*/
+selector : pseudo-class {
+    property: value;
+}
+
+a:link {
+    color: #FF0000;
+}
+/* 未访问的链接 */
+a:visited {
+    color: #00FF00;
+}
+/* 已访问的链接 */
+a:hover {
+    color: #FF00FF;
+}
+/* 鼠标移动到链接上 */
+a:active {
+    color: #0000FF;
+}
+/* 选定的链接  指的是鼠标点下去但没有放开 */
+
+input:hover {
+}
+/*鼠标停留*/
+input:focus {
+}
+/*鼠标选中或者等待输入*/
+
+/*伪元素*/
+selector:pseudo-element {
+    property: value;
+}
+
+/*段落的第一个字符*/
+p:first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+}
+
+/*段落的第一行*/
+p:first-line {
+    color: #0000ff;
+    font-variant: small-caps;
+}
+
+/* 伪元素可以在元素的内容前面插入新内容*/
+h1:before {
+    content: url(logo.gif);
+}
+
+/* 伪元素可以在元素的内容后面插入新内容*/
+h1:after {
+    content: url(logo.gif);
+}
