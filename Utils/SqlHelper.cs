@@ -61,6 +61,7 @@ namespace Com.Utility.Commons
         /// </summary>
         private string _connectionString;
         //User ID=sa;Initial Catalog=WirelessCity_POI;Data Source=192.168.85.136;Password=smssdev
+        //<add name="ConnectionString" connectionString="Data Source=192.168.163.204;Initial Catalog=Fids;User ID=fids;Password=fids" />
         //private string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["MyStock.Properties.Settings.SmartStockConnectionString"].ConnectionString;
         
         /// <summary>
