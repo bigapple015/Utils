@@ -1,8 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iFlyTek.ECSS30.Tool.SMSProc", "iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSProc.csproj", "{F9211C61-463A-49D2-920F-40920E66F046}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iFlyTek.ECSS30.Tool.SMSFilter", "iFlyTek.ECSS30.Tool.SMSFilter\iFlyTek.ECSS30.Tool.SMSFilter.csproj", "{F644A016-1509-4923-8B6A-474D4B5E4883}"

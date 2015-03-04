@@ -1,0 +1,3 @@
+C:\Users\cmlu\Documents\GitHub\Utils\Utils\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\bin\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe.config
+C:\Users\cmlu\Documents\GitHub\Utils\Utils\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\iFlyTek.ECSS30.Tool.SMSFilter.exe
+C:\Users\cmlu\Documents\GitHub\Utils\Utils\code\iFlyTek.ECSS30.Tool.SMSProc\iFlyTek.ECSS30.Tool.SMSFilter\obj\Release\iFlyTek.ECSS30.Tool.SMSFilter.pdb
