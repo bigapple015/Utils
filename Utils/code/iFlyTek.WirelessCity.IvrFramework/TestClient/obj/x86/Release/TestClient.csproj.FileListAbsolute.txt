@@ -18,3 +18,6 @@ C:\Documents and Settings\Administrator\桌面\lib\code\iFlyTek.WirelessCity.Ivr
 C:\Users\chlu\Documents\GitHub\Utils\Utils\code\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\TestClient.exe.config
 C:\Users\chlu\Documents\GitHub\Utils\Utils\code\iFlyTek.WirelessCity.IvrFramework\TestClient\obj\x86\Release\TestClient.exe
 C:\Users\chlu\Documents\GitHub\Utils\Utils\code\iFlyTek.WirelessCity.IvrFramework\TestClient\obj\x86\Release\TestClient.pdb
+C:\Users\cmlu\Documents\GitHub\Utils\Utils\code\iFlyTek.WirelessCity.IvrFramework\TestClient\bin\Release\TestClient.exe.config
+C:\Users\cmlu\Documents\GitHub\Utils\Utils\code\iFlyTek.WirelessCity.IvrFramework\TestClient\obj\x86\Release\TestClient.exe
+C:\Users\cmlu\Documents\GitHub\Utils\Utils\code\iFlyTek.WirelessCity.IvrFramework\TestClient\obj\x86\Release\TestClient.pdb
