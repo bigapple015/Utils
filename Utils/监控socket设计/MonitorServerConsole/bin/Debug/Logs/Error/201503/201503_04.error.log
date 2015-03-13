@@ -1,0 +1,38 @@
+﻿2015-03-04 10:35:20,864 [1] ERROR GlobalLog - 加载服务器配置文件ServerConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(1, 1)中有错误。 ---> System.Xml.XmlException: 根级别上的数据无效。 第 1 行，位置 1。
+   在 System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   在 System.Xml.XmlTextReaderImpl.ParseRootLevelWhitespace()
+   在 System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   在 System.Xml.XmlReader.MoveToContent()
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderServerConfig.Read3_ServerConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 78
+   在 MonitorServerConsole.Models.ServerConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorServerConsole\Models\ServerConfig.cs:行号 76
+2015-03-04 10:35:20,895 [1] ERROR GlobalLog - 加载配置文件失败，程序退出
+2015-03-04 10:58:39,242 [1] ERROR GlobalLog - 加载服务器配置文件ServerConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(7, 3)中有错误。 ---> System.FormatException: 字符串“True”不是有效的 Boolean 值。
+   在 System.Xml.XmlConvert.ToBoolean(String s)
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderServerConfig.Read2_ServerConfig(Boolean isNullable, Boolean checkType)
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderServerConfig.Read3_ServerConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorServerConsole.Models.ServerConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorServerConsole\Models\ServerConfig.cs:行号 83
+2015-03-04 10:58:39,258 [1] ERROR GlobalLog - 加载配置文件失败，程序退出
+2015-03-04 10:59:49,385 [1] ERROR GlobalLog - 加载服务器配置文件ServerConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(7, 3)中有错误。 ---> System.FormatException: 字符串“True”不是有效的 Boolean 值。
+   在 System.Xml.XmlConvert.ToBoolean(String s)
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderServerConfig.Read2_ServerConfig(Boolean isNullable, Boolean checkType)
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderServerConfig.Read3_ServerConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorServerConsole.Models.ServerConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorServerConsole\Models\ServerConfig.cs:行号 83
+2015-03-04 10:59:49,400 [1] ERROR GlobalLog - 加载配置文件失败，程序退出
+2015-03-04 16:33:38,248 [5] ERROR GlobalLog - 用户[cmlu]于2015/3/4 16:33:38点击关闭按钮关闭系统
+2015-03-04 16:49:19,993 [5] ERROR GlobalLog - 用户[cmlu]于2015/3/4 16:49:19点击关闭按钮关闭系统
+2015-03-04 16:51:12,939 [5] ERROR GlobalLog - 用户[cmlu]于2015/3/4 16:51:12点击关闭按钮关闭系统
+2015-03-04 16:55:08,630 [5] ERROR GlobalLog - 用户[cmlu]于2015/3/4 16:55:08点击关闭按钮关闭系统
+2015-03-04 16:58:58,087 [5] ERROR GlobalLog - 用户[cmlu]于2015/3/4 16:58:58点击关闭按钮关闭系统
+2015-03-04 17:09:37,649 [5] ERROR GlobalLog - 用户[cmlu]于2015/3/4 17:09:37点击关闭按钮关闭系统

@@ -1,0 +1,12 @@
+﻿2015-03-13 13:34:21,285 [1] [ERROR] [GlobalLog] - 加载服务器配置文件ClientConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(2, 2)中有错误。 ---> System.InvalidOperationException: 不应有 <ClientConfig1 xmlns=''>。
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderClientConfig.Read3_ClientConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\监控socket设计\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorClient.Models.ClientConfig.Load(String file) 位置 e:\监控socket设计\MonitorClient\Models\ClientConfig.cs:行号 88
+2015-03-13 13:34:21,364 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 13:34:47,358 [1] [INFO ] [GlobalLog] - 加载服务器配置文件ClientConfig.xml成功
+2015-03-13 13:34:47,405 [1] [INFO ] [GlobalLog] - 使用的扫描周期是（秒为单位）：30
+2015-03-13 13:34:47,518 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 13:34:50,579 [1] [INFO ] [GlobalLog] - 应用程序关闭

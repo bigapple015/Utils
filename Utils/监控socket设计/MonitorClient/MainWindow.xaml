@@ -1,0 +1,58 @@
+﻿<Window x:Class="Cares.Fids.Monitor.Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="监控客户端" MinHeight="800" MinWidth="600">
+    <Grid Name="MainGrid">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        
+        <Grid Grid.Row="0" Background="AntiqueWhite"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="2,1,2,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            
+            <Grid HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="2 2 2 2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    <ColumnDefinition Width="*" MinWidth="200"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                
+                <Label Grid.Row="0" Grid.Column="0" Content="Cpu使用率：" VerticalAlignment="Center" />
+                <Label Name="CpuBtn" Content="10.5%" FontSize="30" BorderThickness="0" Background="AntiqueWhite" Grid.Row="0" Grid.Column="1"></Label>
+
+                <Label Grid.Row="1" Grid.Column="0" Content="硬盘使用率：" VerticalAlignment="Center" />
+                <ListBox Grid.Row="1" BorderThickness="0" Background="Transparent" Grid.Column="1" Name="DriverLb" FontSize="30">
+                    <ListBox.Items>
+                        <ListBoxItem>C盘</ListBoxItem>
+                        <ListBoxItem>D盘</ListBoxItem>
+                        <ListBoxItem>E盘</ListBoxItem>
+                    </ListBox.Items>
+                </ListBox>
+            </Grid>
+            
+            <GridSplitter Grid.Column="1" Width="4" Margin="0,3,0,3" HorizontalAlignment="Center" VerticalAlignment="Stretch"></GridSplitter>
+
+            <ScrollViewer Grid.Column="2" HorizontalAlignment="Stretch" Margin="2,0,2,2">
+                <TextBlock Name="ErrorTb" AllowDrop="False" Background="AntiqueWhite" TextAlignment="Left" TextWrapping="WrapWithOverflow"></TextBlock>
+            </ScrollViewer>
+        </Grid>
+        
+        
+        <GridSplitter Grid.Row="1" Height="6" HorizontalAlignment="Stretch" Margin="4,0,4,0" VerticalAlignment="Center" ShowsPreview="True"></GridSplitter>
+        <ScrollViewer Grid.Row="2" HorizontalAlignment="Stretch" Margin="2,0,2,2">
+            <TextBlock Name="InfoTb" AllowDrop="False" Background="AntiqueWhite" TextAlignment="Left" TextWrapping="WrapWithOverflow"></TextBlock>
+        </ScrollViewer>
+    </Grid>
+</Window>

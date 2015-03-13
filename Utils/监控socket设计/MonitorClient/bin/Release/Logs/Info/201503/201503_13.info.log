@@ -1,0 +1,402 @@
+﻿2015-03-13 09:46:08,181 [9] [INFO ] [GlobalLog] - 保存服务器配置文件D:\ClientConfig.xml成功
+2015-03-13 10:32:49,903 [1] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 10:32:50,058 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 10:32:55,071 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:00,076 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:05,084 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:10,092 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:15,093 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:20,104 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:25,110 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:30,118 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:35,127 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:40,135 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:45,144 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:50,152 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:33:55,162 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:00,168 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:05,176 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:10,180 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:15,188 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:20,195 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:25,265 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:30,273 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:35,285 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:40,287 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:45,299 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:50,307 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:34:55,308 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:35:00,319 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:35:05,327 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:35:10,339 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:35:15,347 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:35:20,354 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:35:25,362 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:35:25,752 [5] [ERROR] [GlobalLog] - 接收消息失败：System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Receive() 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 189
+2015-03-13 10:35:30,375 [7] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 135
+2015-03-13 10:35:35,383 [7] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 135
+2015-03-13 10:35:40,395 [7] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 135
+2015-03-13 10:35:45,419 [7] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 10:35:45,637 [7] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 135
+2015-03-13 10:35:50,426 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:35:55,434 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:00,514 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:05,453 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:10,480 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:15,494 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:20,501 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:25,511 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:30,518 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:35,526 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:40,543 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:45,544 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:50,553 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:36:55,564 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:00,576 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:05,583 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:10,591 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:15,598 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:20,606 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:25,614 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:30,621 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:35,629 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:40,637 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:45,649 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:50,657 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:37:55,664 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:00,672 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:05,680 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:10,687 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:15,692 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:20,710 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:25,718 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:30,726 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:35,733 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:40,741 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:45,748 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:50,756 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:38:55,764 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:00,771 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:05,779 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:10,793 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:15,800 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:20,808 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:25,816 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:30,823 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:35,831 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:40,838 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:45,853 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:50,858 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:39:55,865 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:00,875 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:05,882 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:10,890 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:15,898 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:20,905 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:25,913 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:30,915 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:35,923 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:40,938 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:45,939 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:51,040 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:40:56,035 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:01,050 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:06,058 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:11,065 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:16,073 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:21,080 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:26,088 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:31,096 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:36,103 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:41,106 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:46,110 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:51,113 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:41:56,121 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:01,128 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:06,136 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:11,143 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:16,151 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:21,164 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:26,172 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:31,179 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:36,187 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:41,195 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:46,202 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:51,210 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:42:56,217 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:01,225 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:06,233 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:11,240 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:16,248 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:21,255 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:26,263 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:31,271 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:36,278 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:41,286 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:46,356 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:51,301 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:43:56,309 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:01,316 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:06,324 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:11,331 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:16,339 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:21,347 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:26,370 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:31,378 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:36,385 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:41,393 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:46,400 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:51,408 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:44:56,416 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:01,423 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:06,431 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:11,438 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:16,446 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:21,454 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:26,461 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:31,469 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:36,476 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:41,484 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:46,492 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:51,499 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:45:56,507 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:01,514 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:06,522 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:11,530 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:16,537 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:21,545 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:26,553 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:31,560 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:36,568 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:41,575 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:46,583 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:51,591 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:46:56,598 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:01,606 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:06,613 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:11,621 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:16,629 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:21,636 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:26,644 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:31,651 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:36,659 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:41,667 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:46,674 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:51,682 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:47:56,689 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:01,697 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:06,705 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:11,712 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:16,720 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:21,728 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:26,735 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:31,743 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:36,750 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:41,758 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:46,766 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:51,773 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:48:56,781 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:01,788 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:06,796 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:11,804 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:16,811 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:21,819 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:26,826 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:31,834 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:36,842 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:41,849 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:46,857 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:51,864 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:49:56,076 [5] [ERROR] [GlobalLog] - 接收消息失败：System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Receive() 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 189
+2015-03-13 10:49:56,872 [7] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 135
+2015-03-13 10:50:01,880 [7] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 135
+2015-03-13 10:50:06,887 [7] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 135
+2015-03-13 10:50:11,895 [7] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 10:50:12,098 [7] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 135
+2015-03-13 10:50:16,903 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:50:21,910 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:50:26,918 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:50:31,925 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:50:36,933 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:50:41,941 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:50:46,948 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:50:51,956 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:50:56,974 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:01,982 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:06,989 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:11,997 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:17,004 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:22,012 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:27,020 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:32,027 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:37,035 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:42,043 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:47,050 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:52,058 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:51:57,065 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:02,073 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:07,081 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:12,088 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:17,096 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:22,103 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:27,111 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:32,125 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:37,138 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:42,144 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:47,153 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:52,155 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:52:57,164 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:53:02,172 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:53:07,180 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:53:12,187 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:53:17,196 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:53:22,205 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:53:27,212 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:53:32,214 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:53:37,228 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:53:42,238 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 10:53:46,312 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:01:41,600 [1] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 11:01:41,643 [1] [ERROR] [GlobalLog] - 加载客户端配置配置失败
+2015-03-13 11:01:41,958 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:01:46,981 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 11:01:47,391 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:04:02,589 [1] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 11:04:02,751 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:04:02,897 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:04:07,923 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 11:04:08,788 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:04:53,265 [9] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 11:05:03,806 [9] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:05:16,074 [9] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:05:23,369 [14] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 11:05:26,194 [9] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:05:51,947 [10] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 11:06:20,515 [1] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 11:06:20,588 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:06:20,639 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:06:25,670 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 11:06:27,020 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:17:35,839 [1] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 11:17:35,893 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:17:35,908 [1] [INFO ] [GlobalLog] - 使用的扫描周期是（秒为单位）：30000
+2015-03-13 11:17:36,011 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:17:40,378 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:18:25,375 [1] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 11:18:25,437 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:18:25,475 [1] [INFO ] [GlobalLog] - 使用的扫描周期是（秒为单位）：30000
+2015-03-13 11:18:25,501 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:18:30,533 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 11:18:31,337 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:19:21,191 [1] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 11:19:21,268 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:19:21,287 [1] [INFO ] [GlobalLog] - 使用的扫描周期是（秒为单位）：30000
+2015-03-13 11:19:21,307 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:19:24,324 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:20:14,392 [1] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 11:20:14,463 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:20:14,480 [1] [INFO ] [GlobalLog] - 使用的扫描周期是（秒为单位）：30000
+2015-03-13 11:20:14,497 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:20:17,532 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:20:38,505 [9] [ERROR] [GlobalLog] - 找不到配置文件：ClientConfig.xml
+2015-03-13 11:20:40,673 [9] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:22:15,020 [1] [INFO ] [GlobalLog] - 加载服务器配置文件ClientConfig.xml成功
+2015-03-13 11:22:15,056 [1] [INFO ] [GlobalLog] - 加载客户端配置成功
+2015-03-13 11:22:15,063 [1] [INFO ] [GlobalLog] - 使用的扫描周期是（秒为单位）：30000
+2015-03-13 11:22:15,108 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:22:20,118 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 11:22:29,250 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:23:03,862 [1] [INFO ] [GlobalLog] - 加载服务器配置文件ClientConfig.xml成功
+2015-03-13 11:23:03,935 [1] [INFO ] [GlobalLog] - 加载客户端配置成功
+2015-03-13 11:23:03,948 [1] [INFO ] [GlobalLog] - 使用的扫描周期是（秒为单位）：30000
+2015-03-13 11:23:03,977 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:23:09,010 [7] [INFO ] [GlobalLog] - 发送到服务器消息：Hello world
+2015-03-13 11:23:15,510 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:31:47,677 [1] [INFO ] [GlobalLog] - 加载服务器配置文件ClientConfig.xml成功
+2015-03-13 11:31:47,722 [1] [INFO ] [GlobalLog] - 使用的扫描周期是（秒为单位）：30000
+2015-03-13 11:31:47,805 [1] [INFO ] [GlobalLog] - 初始化服务器 192.168.163.204:52321的连接成功
+2015-03-13 11:31:50,082 [1] [INFO ] [GlobalLog] - 应用程序关闭
+2015-03-13 11:32:07,927 [1] [ERROR] [GlobalLog] - 加载服务器配置文件ClientConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(2, 2)中有错误。 ---> System.InvalidOperationException: 不应有 <ClientConfig1 xmlns=''>。
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderClientConfig.Read3_ClientConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorClient.Models.ClientConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Models\ClientConfig.cs:行号 85
+2015-03-13 11:32:07,982 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:32:52,544 [1] [ERROR] [GlobalLog] - 加载服务器配置文件ClientConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(2, 2)中有错误。 ---> System.InvalidOperationException: 不应有 <ClientConfig1 xmlns=''>。
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderClientConfig.Read3_ClientConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorClient.Models.ClientConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Models\ClientConfig.cs:行号 85
+2015-03-13 11:32:52,598 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:33:11,828 [1] [ERROR] [GlobalLog] - 加载服务器配置文件ClientConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(2, 2)中有错误。 ---> System.InvalidOperationException: 不应有 <ClientConfig1 xmlns=''>。
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderClientConfig.Read3_ClientConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorClient.Models.ClientConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Models\ClientConfig.cs:行号 85
+2015-03-13 11:33:11,894 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:34:07,266 [1] [ERROR] [GlobalLog] - 加载服务器配置文件ClientConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(2, 2)中有错误。 ---> System.InvalidOperationException: 不应有 <ClientConfig1 xmlns=''>。
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderClientConfig.Read3_ClientConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorClient.Models.ClientConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Models\ClientConfig.cs:行号 85
+2015-03-13 11:34:07,318 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:34:27,283 [1] [ERROR] [GlobalLog] - 加载服务器配置文件ClientConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(2, 2)中有错误。 ---> System.InvalidOperationException: 不应有 <ClientConfig1 xmlns=''>。
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderClientConfig.Read3_ClientConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorClient.Models.ClientConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Models\ClientConfig.cs:行号 85
+2015-03-13 11:34:27,346 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:34:49,893 [1] [ERROR] [GlobalLog] - 加载服务器配置文件ClientConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(2, 2)中有错误。 ---> System.InvalidOperationException: 不应有 <ClientConfig1 xmlns=''>。
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderClientConfig.Read3_ClientConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorClient.Models.ClientConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Models\ClientConfig.cs:行号 85
+2015-03-13 11:34:49,955 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:35:02,187 [1] [ERROR] [GlobalLog] - 加载服务器配置文件ClientConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(2, 2)中有错误。 ---> System.InvalidOperationException: 不应有 <ClientConfig1 xmlns=''>。
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderClientConfig.Read3_ClientConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorClient.Models.ClientConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Models\ClientConfig.cs:行号 85
+2015-03-13 11:35:02,249 [1] [ERROR] [GlobalLog] - 加载客户端配置失败
+2015-03-13 11:38:53,206 [1] [ERROR] [GlobalLog] - 加载服务器配置文件ClientConfig.xml失败，异常信息为：System.InvalidOperationException: XML 文档(2, 2)中有错误。 ---> System.InvalidOperationException: 不应有 <ClientConfig1 xmlns=''>。
+   在 Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderClientConfig.Read3_ClientConfig()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   在 System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   在 Cares.Fids.Monitor.Models.Utils.ObjectXmlSerializer.ToObject[T](String str, Boolean isFile) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\Cares.Fids.Monitor.Models\Utils\ObjectXmlSerializer.cs:行号 88
+   在 MonitorClient.Models.ClientConfig.Load(String file) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Models\ClientConfig.cs:行号 88
+2015-03-13 11:38:53,273 [1] [ERROR] [GlobalLog] - 加载客户端配置失败

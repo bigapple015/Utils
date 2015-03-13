@@ -1,0 +1,68 @@
+﻿2015-03-12 15:04:41,613 [9] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 133
+2015-03-12 15:04:46,615 [10] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 133
+2015-03-12 15:04:51,615 [9] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 133
+2015-03-12 15:04:56,835 [8] [ERROR] [GlobalLog] - 发送消息失败:System.Net.Sockets.SocketException (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   在 MonitorClient.Utils.SocketEx.Send(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\SocketEx.cs:行号 133
+2015-03-12 15:13:19,856 [1] [ERROR] [GlobalLog] - UI线程未捕获异常：System.Threading.ThreadStateException: 线程正在运行或被终止；它无法重新启动。
+   在 System.Threading.Thread.StartupSetApartmentStateInternal()
+   在 System.Threading.Thread.Start(StackCrawlMark& stackMark)
+   在 System.Threading.Thread.Start()
+   在 Cares.Fids.Monitor.Client.App.App_OnStartup(Object sender, StartupEventArgs e) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\App.xaml.cs:行号 251
+   在 System.Windows.Application.OnStartup(StartupEventArgs e)
+   在 System.Windows.Application.<.ctor>b__1(Object unused)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+2015-03-12 15:17:49,508 [1] [ERROR] [GlobalLog] - UI线程未捕获异常：System.UriFormatException: 无效的 URI: 未能确定 URI 的格式。
+   在 System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   在 System.Uri..ctor(String uriString)
+   在 Cares.Fids.Monitor.Client.App.App_OnStartup(Object sender, StartupEventArgs e) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\App.xaml.cs:行号 229
+   在 System.Windows.Application.OnStartup(StartupEventArgs e)
+   在 System.Windows.Application.<.ctor>b__1(Object unused)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+2015-03-12 15:21:17,668 [1] [ERROR] [GlobalLog] - UI线程未捕获异常：System.Threading.ThreadStateException: 线程正在运行或被终止；它无法重新启动。
+   在 System.Threading.Thread.StartupSetApartmentStateInternal()
+   在 System.Threading.Thread.Start(StackCrawlMark& stackMark)
+   在 System.Threading.Thread.Start()
+   在 Cares.Fids.Monitor.Client.App.App_OnStartup(Object sender, StartupEventArgs e) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\App.xaml.cs:行号 252
+   在 System.Windows.Application.OnStartup(StartupEventArgs e)
+   在 System.Windows.Application.<.ctor>b__1(Object unused)
+   在 System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   在 MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+2015-03-12 15:35:35,915 [1] [ERROR] [GlobalLog] - 记录窗口日志失败，异常信息为：System.FormatException: 无法为字符“'”找到匹配的引号字符。
+   在 System.DateTimeFormat.ParseQuoteString(String format, Int32 pos, StringBuilder result)
+   在 System.DateTimeFormat.FormatCustomized(DateTime dateTime, String format, DateTimeFormatInfo dtfi, TimeSpan offset)
+   在 System.DateTimeFormat.Format(DateTime dateTime, String format, DateTimeFormatInfo dtfi, TimeSpan offset)
+   在 System.DateTimeFormat.Format(DateTime dateTime, String format, DateTimeFormatInfo dtfi)
+   在 MonitorClient.Utils.LogWindowUtils.LogWindow(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\LogWindowUtils.cs:行号 28
+2015-03-12 15:35:40,985 [7] [ERROR] [GlobalLog] - 记录窗口日志失败，异常信息为：System.FormatException: 无法为字符“'”找到匹配的引号字符。
+   在 System.DateTimeFormat.ParseQuoteString(String format, Int32 pos, StringBuilder result)
+   在 System.DateTimeFormat.FormatCustomized(DateTime dateTime, String format, DateTimeFormatInfo dtfi, TimeSpan offset)
+   在 System.DateTimeFormat.Format(DateTime dateTime, String format, DateTimeFormatInfo dtfi, TimeSpan offset)
+   在 System.DateTimeFormat.Format(DateTime dateTime, String format, DateTimeFormatInfo dtfi)
+   在 MonitorClient.Utils.LogWindowUtils.LogWindow(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\LogWindowUtils.cs:行号 28
+2015-03-12 15:35:45,983 [7] [ERROR] [GlobalLog] - 记录窗口日志失败，异常信息为：System.FormatException: 无法为字符“'”找到匹配的引号字符。
+   在 System.DateTimeFormat.ParseQuoteString(String format, Int32 pos, StringBuilder result)
+   在 System.DateTimeFormat.FormatCustomized(DateTime dateTime, String format, DateTimeFormatInfo dtfi, TimeSpan offset)
+   在 System.DateTimeFormat.Format(DateTime dateTime, String format, DateTimeFormatInfo dtfi, TimeSpan offset)
+   在 System.DateTimeFormat.Format(DateTime dateTime, String format, DateTimeFormatInfo dtfi)
+   在 MonitorClient.Utils.LogWindowUtils.LogWindow(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\LogWindowUtils.cs:行号 28
+2015-03-12 15:35:50,991 [7] [ERROR] [GlobalLog] - 记录窗口日志失败，异常信息为：System.FormatException: 无法为字符“'”找到匹配的引号字符。
+   在 System.DateTimeFormat.ParseQuoteString(String format, Int32 pos, StringBuilder result)
+   在 System.DateTimeFormat.FormatCustomized(DateTime dateTime, String format, DateTimeFormatInfo dtfi, TimeSpan offset)
+   在 System.DateTimeFormat.Format(DateTime dateTime, String format, DateTimeFormatInfo dtfi, TimeSpan offset)
+   在 System.DateTimeFormat.Format(DateTime dateTime, String format, DateTimeFormatInfo dtfi)
+   在 MonitorClient.Utils.LogWindowUtils.LogWindow(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\LogWindowUtils.cs:行号 28
+2015-03-12 15:35:55,999 [7] [ERROR] [GlobalLog] - 记录窗口日志失败，异常信息为：System.FormatException: 无法为字符“'”找到匹配的引号字符。
+   在 System.DateTimeFormat.ParseQuoteString(String format, Int32 pos, StringBuilder result)
+   在 System.DateTimeFormat.FormatCustomized(DateTime dateTime, String format, DateTimeFormatInfo dtfi, TimeSpan offset)
+   在 System.DateTimeFormat.Format(DateTime dateTime, String format, DateTimeFormatInfo dtfi, TimeSpan offset)
+   在 System.DateTimeFormat.Format(DateTime dateTime, String format, DateTimeFormatInfo dtfi)
+   在 MonitorClient.Utils.LogWindowUtils.LogWindow(String message) 位置 e:\工作相关\ModificationWorks\FIDS Advance Solution\MonitorClient\Utils\LogWindowUtils.cs:行号 28
